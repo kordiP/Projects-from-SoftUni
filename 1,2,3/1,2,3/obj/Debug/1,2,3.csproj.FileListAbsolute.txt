@@ -1,0 +1,14 @@
+C:\Users\ROG\source\repos\1,2,3\1,2,3\bin\Debug\1,2,3.exe.config
+C:\Users\ROG\source\repos\1,2,3\1,2,3\bin\Debug\1,2,3.exe
+C:\Users\ROG\source\repos\1,2,3\1,2,3\bin\Debug\1,2,3.pdb
+C:\Users\ROG\source\repos\1,2,3\1,2,3\obj\Debug\1,2,3.csprojAssemblyReference.cache
+C:\Users\ROG\source\repos\1,2,3\1,2,3\obj\Debug\1,2,3.csproj.CoreCompileInputs.cache
+C:\Users\ROG\source\repos\1,2,3\1,2,3\obj\Debug\1,2,3.exe
+C:\Users\ROG\source\repos\1,2,3\1,2,3\obj\Debug\1,2,3.pdb
+E:\work stuff\1,2,3\1,2,3\bin\Debug\1,2,3.exe.config
+E:\work stuff\1,2,3\1,2,3\bin\Debug\1,2,3.exe
+E:\work stuff\1,2,3\1,2,3\bin\Debug\1,2,3.pdb
+E:\work stuff\1,2,3\1,2,3\obj\Debug\1,2,3.csprojAssemblyReference.cache
+E:\work stuff\1,2,3\1,2,3\obj\Debug\1,2,3.csproj.CoreCompileInputs.cache
+E:\work stuff\1,2,3\1,2,3\obj\Debug\1,2,3.exe
+E:\work stuff\1,2,3\1,2,3\obj\Debug\1,2,3.pdb
