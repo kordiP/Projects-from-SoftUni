@@ -5,7 +5,7 @@ This repository includes every problem I solved in SoftUni's collaboration with 
 
 # What are the problems about?
 
-For the first(my current) year the problems are in the downstated spheres:
+For the first(my current) year the problems are in the downstated spheres. Everything is in C#!
 
 
 # 1. Introduction to programming
