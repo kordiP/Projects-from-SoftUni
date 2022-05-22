@@ -1,4 +1,4 @@
-# Projects-from-SoftUni
+# Projects-from-SoftUni--Year-1
 
 This repository includes every problem I solved in SoftUni's collaboration with MON --> IT-kariera. 
 
