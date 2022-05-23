@@ -1,0 +1,7 @@
+C:\Users\Nasko\source\repos\2k+1\2k+1\bin\Debug\2k+1.exe.config
+C:\Users\Nasko\source\repos\2k+1\2k+1\bin\Debug\2k+1.exe
+C:\Users\Nasko\source\repos\2k+1\2k+1\bin\Debug\2k+1.pdb
+C:\Users\Nasko\source\repos\2k+1\2k+1\obj\Debug\2k+1.csprojAssemblyReference.cache
+C:\Users\Nasko\source\repos\2k+1\2k+1\obj\Debug\2k+1.csproj.CoreCompileInputs.cache
+C:\Users\Nasko\source\repos\2k+1\2k+1\obj\Debug\2k+1.exe
+C:\Users\Nasko\source\repos\2k+1\2k+1\obj\Debug\2k+1.pdb

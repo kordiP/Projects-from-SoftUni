@@ -1,0 +1,6 @@
+C:\Users\Nasko\source\repos\2k+1\parole\bin\Debug\parole.exe.config
+C:\Users\Nasko\source\repos\2k+1\parole\bin\Debug\parole.exe
+C:\Users\Nasko\source\repos\2k+1\parole\bin\Debug\parole.pdb
+C:\Users\Nasko\source\repos\2k+1\parole\obj\Debug\parole.csproj.CoreCompileInputs.cache
+C:\Users\Nasko\source\repos\2k+1\parole\obj\Debug\parole.exe
+C:\Users\Nasko\source\repos\2k+1\parole\obj\Debug\parole.pdb
