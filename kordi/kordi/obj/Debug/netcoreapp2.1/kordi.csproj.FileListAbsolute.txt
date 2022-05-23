@@ -1,0 +1,11 @@
+C:\Users\8b\source\repos\kordi\kordi\obj\Debug\netcoreapp2.1\kordi.csprojAssemblyReference.cache
+C:\Users\8b\source\repos\kordi\kordi\obj\Debug\netcoreapp2.1\kordi.csproj.CoreCompileInputs.cache
+C:\Users\8b\source\repos\kordi\kordi\obj\Debug\netcoreapp2.1\kordi.AssemblyInfoInputs.cache
+C:\Users\8b\source\repos\kordi\kordi\obj\Debug\netcoreapp2.1\kordi.AssemblyInfo.cs
+C:\Users\8b\source\repos\kordi\kordi\bin\Debug\netcoreapp2.1\kordi.deps.json
+C:\Users\8b\source\repos\kordi\kordi\bin\Debug\netcoreapp2.1\kordi.runtimeconfig.json
+C:\Users\8b\source\repos\kordi\kordi\bin\Debug\netcoreapp2.1\kordi.runtimeconfig.dev.json
+C:\Users\8b\source\repos\kordi\kordi\bin\Debug\netcoreapp2.1\kordi.dll
+C:\Users\8b\source\repos\kordi\kordi\bin\Debug\netcoreapp2.1\kordi.pdb
+C:\Users\8b\source\repos\kordi\kordi\obj\Debug\netcoreapp2.1\kordi.dll
+C:\Users\8b\source\repos\kordi\kordi\obj\Debug\netcoreapp2.1\kordi.pdb
