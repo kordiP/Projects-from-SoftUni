@@ -1,0 +1,8 @@
+C:\Users\Nasko\source\repos\poloj, otric i nula broqch\poloj, otric i nula broqch\bin\Debug\poloj, otric i nula broqch.exe.config
+C:\Users\Nasko\source\repos\poloj, otric i nula broqch\poloj, otric i nula broqch\bin\Debug\poloj, otric i nula broqch.exe
+C:\Users\Nasko\source\repos\poloj, otric i nula broqch\poloj, otric i nula broqch\bin\Debug\poloj, otric i nula broqch.pdb
+C:\Users\Nasko\source\repos\poloj, otric i nula broqch\poloj, otric i nula broqch\obj\Debug\poloj, otric i nula broqch.csproj.AssemblyReference.cache
+C:\Users\Nasko\source\repos\poloj, otric i nula broqch\poloj, otric i nula broqch\obj\Debug\poloj, otric i nula broqch.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nasko\source\repos\poloj, otric i nula broqch\poloj, otric i nula broqch\obj\Debug\poloj, otric i nula broqch.csproj.CoreCompileInputs.cache
+C:\Users\Nasko\source\repos\poloj, otric i nula broqch\poloj, otric i nula broqch\obj\Debug\poloj, otric i nula broqch.exe
+C:\Users\Nasko\source\repos\poloj, otric i nula broqch\poloj, otric i nula broqch\obj\Debug\poloj, otric i nula broqch.pdb

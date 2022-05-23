@@ -1,0 +1,10 @@
+C:\Users\8b\source\repos\1stFormApp\1stFormApp\bin\Debug\1stFormApp.exe.config
+C:\Users\8b\source\repos\1stFormApp\1stFormApp\bin\Debug\1stFormApp.exe
+C:\Users\8b\source\repos\1stFormApp\1stFormApp\bin\Debug\1stFormApp.pdb
+C:\Users\8b\source\repos\1stFormApp\1stFormApp\obj\Debug\1stFormApp.csprojAssemblyReference.cache
+C:\Users\8b\source\repos\1stFormApp\1stFormApp\obj\Debug\_1stFormApp.Form1.resources
+C:\Users\8b\source\repos\1stFormApp\1stFormApp\obj\Debug\_1stFormApp.Properties.Resources.resources
+C:\Users\8b\source\repos\1stFormApp\1stFormApp\obj\Debug\1stFormApp.csproj.GenerateResource.cache
+C:\Users\8b\source\repos\1stFormApp\1stFormApp\obj\Debug\1stFormApp.csproj.CoreCompileInputs.cache
+C:\Users\8b\source\repos\1stFormApp\1stFormApp\obj\Debug\1stFormApp.exe
+C:\Users\8b\source\repos\1stFormApp\1stFormApp\obj\Debug\1stFormApp.pdb

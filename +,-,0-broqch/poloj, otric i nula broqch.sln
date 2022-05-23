@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "poloj, otric i nula broqch", "poloj, otric i nula broqch\poloj, otric i nula broqch.csproj", "{C275D57D-E589-4013-B24B-B8C1AF1D7ECD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C275D57D-E589-4013-B24B-B8C1AF1D7ECD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C275D57D-E589-4013-B24B-B8C1AF1D7ECD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C275D57D-E589-4013-B24B-B8C1AF1D7ECD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C275D57D-E589-4013-B24B-B8C1AF1D7ECD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BD1CBE79-61EC-4E48-8646-614CBCC8FCEC}
+	EndGlobalSection
+EndGlobal
