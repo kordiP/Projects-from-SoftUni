@@ -24,7 +24,7 @@ namespace _1stFormApp
 
         private void button2_Click(object sender, EventArgs e)
         {
-            Form.ActiveForm.BackColor(00ff00);
+            Form.ActiveForm.BackColor = Color.DarkSeaGreen;
         }
     }
 }

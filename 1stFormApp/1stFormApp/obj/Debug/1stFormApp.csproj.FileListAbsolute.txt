@@ -8,3 +8,14 @@ C:\Users\8b\source\repos\1stFormApp\1stFormApp\obj\Debug\1stFormApp.csproj.Gener
 C:\Users\8b\source\repos\1stFormApp\1stFormApp\obj\Debug\1stFormApp.csproj.CoreCompileInputs.cache
 C:\Users\8b\source\repos\1stFormApp\1stFormApp\obj\Debug\1stFormApp.exe
 C:\Users\8b\source\repos\1stFormApp\1stFormApp\obj\Debug\1stFormApp.pdb
+C:\Users\Nasko\Desktop\repo\1stFormApp\1stFormApp\obj\Debug\1stFormApp.csproj.AssemblyReference.cache
+C:\Users\Nasko\Desktop\repo\1stFormApp\1stFormApp\obj\Debug\1stFormApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nasko\Desktop\repo\1stFormApp\1stFormApp\obj\Debug\_1stFormApp.Form1.resources
+C:\Users\Nasko\Desktop\repo\1stFormApp\1stFormApp\obj\Debug\_1stFormApp.Properties.Resources.resources
+C:\Users\Nasko\Desktop\repo\1stFormApp\1stFormApp\obj\Debug\1stFormApp.csproj.GenerateResource.cache
+C:\Users\Nasko\Desktop\repo\1stFormApp\1stFormApp\obj\Debug\1stFormApp.csproj.CoreCompileInputs.cache
+C:\Users\Nasko\Desktop\repo\1stFormApp\1stFormApp\obj\Debug\1stFormApp.exe
+C:\Users\Nasko\Desktop\repo\1stFormApp\1stFormApp\obj\Debug\1stFormApp.pdb
+C:\Users\Nasko\Desktop\repo\1stFormApp\1stFormApp\bin\Debug\1stFormApp.exe.config
+C:\Users\Nasko\Desktop\repo\1stFormApp\1stFormApp\bin\Debug\1stFormApp.exe
+C:\Users\Nasko\Desktop\repo\1stFormApp\1stFormApp\bin\Debug\1stFormApp.pdb
