@@ -1,0 +1,6 @@
+C:\Users\ROG\source\repos\banica\banica\bin\Debug\banica.exe.config
+C:\Users\ROG\source\repos\banica\banica\bin\Debug\banica.exe
+C:\Users\ROG\source\repos\banica\banica\bin\Debug\banica.pdb
+C:\Users\ROG\source\repos\banica\banica\obj\Debug\banica.exe
+C:\Users\ROG\source\repos\banica\banica\obj\Debug\banica.pdb
+C:\Users\ROG\source\repos\banica\banica\obj\Debug\banica.csprojResolveAssemblyReference.cache
