@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Aritmethic thing/1.0.0": {
+        "runtime": {
+          "Aritmethic thing.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Aritmethic thing/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
