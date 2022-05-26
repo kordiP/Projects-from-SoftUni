@@ -1,0 +1,10 @@
+C:\Users\8b\source\repos\banq\banq\bin\Debug\banq.exe.config
+C:\Users\8b\source\repos\banq\banq\bin\Debug\banq.exe
+C:\Users\8b\source\repos\banq\banq\bin\Debug\banq.pdb
+C:\Users\8b\source\repos\banq\banq\obj\Debug\banq.csprojAssemblyReference.cache
+C:\Users\8b\source\repos\banq\banq\obj\Debug\banq.Form1.resources
+C:\Users\8b\source\repos\banq\banq\obj\Debug\banq.Properties.Resources.resources
+C:\Users\8b\source\repos\banq\banq\obj\Debug\banq.csproj.GenerateResource.cache
+C:\Users\8b\source\repos\banq\banq\obj\Debug\banq.csproj.CoreCompileInputs.cache
+C:\Users\8b\source\repos\banq\banq\obj\Debug\banq.exe
+C:\Users\8b\source\repos\banq\banq\obj\Debug\banq.pdb
