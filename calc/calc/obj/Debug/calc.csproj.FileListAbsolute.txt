@@ -1,0 +1,20 @@
+C:\Users\8b\source\repos\calc\calc\bin\Debug\calc.exe.config
+C:\Users\8b\source\repos\calc\calc\bin\Debug\calc.exe
+C:\Users\8b\source\repos\calc\calc\bin\Debug\calc.pdb
+C:\Users\8b\source\repos\calc\calc\obj\Debug\calc.csprojAssemblyReference.cache
+C:\Users\8b\source\repos\calc\calc\obj\Debug\calc.Form1.resources
+C:\Users\8b\source\repos\calc\calc\obj\Debug\calc.Properties.Resources.resources
+C:\Users\8b\source\repos\calc\calc\obj\Debug\calc.csproj.GenerateResource.cache
+C:\Users\8b\source\repos\calc\calc\obj\Debug\calc.csproj.CoreCompileInputs.cache
+C:\Users\8b\source\repos\calc\calc\obj\Debug\calc.exe
+C:\Users\8b\source\repos\calc\calc\obj\Debug\calc.pdb
+F:\work stuff\calc\calc\bin\Debug\calc.exe.config
+F:\work stuff\calc\calc\bin\Debug\calc.exe
+F:\work stuff\calc\calc\bin\Debug\calc.pdb
+F:\work stuff\calc\calc\obj\Debug\calc.csprojAssemblyReference.cache
+F:\work stuff\calc\calc\obj\Debug\calc.Form1.resources
+F:\work stuff\calc\calc\obj\Debug\calc.Properties.Resources.resources
+F:\work stuff\calc\calc\obj\Debug\calc.csproj.GenerateResource.cache
+F:\work stuff\calc\calc\obj\Debug\calc.csproj.CoreCompileInputs.cache
+F:\work stuff\calc\calc\obj\Debug\calc.exe
+F:\work stuff\calc\calc\obj\Debug\calc.pdb
