@@ -1,0 +1,11 @@
+C:\Users\8b\source\repos\chisla\chisla\bin\Debug\netcoreapp2.1\chisla.deps.json
+C:\Users\8b\source\repos\chisla\chisla\bin\Debug\netcoreapp2.1\chisla.runtimeconfig.json
+C:\Users\8b\source\repos\chisla\chisla\bin\Debug\netcoreapp2.1\chisla.runtimeconfig.dev.json
+C:\Users\8b\source\repos\chisla\chisla\bin\Debug\netcoreapp2.1\chisla.dll
+C:\Users\8b\source\repos\chisla\chisla\bin\Debug\netcoreapp2.1\chisla.pdb
+C:\Users\8b\source\repos\chisla\chisla\obj\Debug\netcoreapp2.1\chisla.csprojAssemblyReference.cache
+C:\Users\8b\source\repos\chisla\chisla\obj\Debug\netcoreapp2.1\chisla.csproj.CoreCompileInputs.cache
+C:\Users\8b\source\repos\chisla\chisla\obj\Debug\netcoreapp2.1\chisla.AssemblyInfoInputs.cache
+C:\Users\8b\source\repos\chisla\chisla\obj\Debug\netcoreapp2.1\chisla.AssemblyInfo.cs
+C:\Users\8b\source\repos\chisla\chisla\obj\Debug\netcoreapp2.1\chisla.dll
+C:\Users\8b\source\repos\chisla\chisla\obj\Debug\netcoreapp2.1\chisla.pdb
