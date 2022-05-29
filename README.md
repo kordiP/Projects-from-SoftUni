@@ -2,6 +2,7 @@
 
 This repository includes every problem I solved in SoftUni's collaboration with MON --> IT-kariera. 
 
+![image](https://user-images.githubusercontent.com/72604001/170854708-87add65e-30a2-4ca0-a096-825f70d7c304.png)
 
 # What are the problems about?
 
