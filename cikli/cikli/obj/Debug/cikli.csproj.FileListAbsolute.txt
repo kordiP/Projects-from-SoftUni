@@ -1,0 +1,7 @@
+C:\Users\ROG\source\repos\cikli\cikli\bin\Debug\cikli.exe.config
+C:\Users\ROG\source\repos\cikli\cikli\bin\Debug\cikli.exe
+C:\Users\ROG\source\repos\cikli\cikli\bin\Debug\cikli.pdb
+C:\Users\ROG\source\repos\cikli\cikli\obj\Debug\cikli.csprojAssemblyReference.cache
+C:\Users\ROG\source\repos\cikli\cikli\obj\Debug\cikli.csproj.CoreCompileInputs.cache
+C:\Users\ROG\source\repos\cikli\cikli\obj\Debug\cikli.exe
+C:\Users\ROG\source\repos\cikli\cikli\obj\Debug\cikli.pdb
