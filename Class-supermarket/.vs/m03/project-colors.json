@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "5caaff00-2e07-4bd4-b6c3-7ed4123147ff": {
+      "ProjectGuid": "5caaff00-2e07-4bd4-b6c3-7ed4123147ff",
+      "DisplayName": "Class'd supermarket",
+      "ColorIndex": 0
+    },
+    "b55da89f-494c-428d-8e85-288accd3d3a2": {
+      "ProjectGuid": "b55da89f-494c-428d-8e85-288accd3d3a2",
+      "DisplayName": "Supermarket",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
