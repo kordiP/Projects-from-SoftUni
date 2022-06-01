@@ -1,0 +1,11 @@
+C:\Users\8b\source\repos\cqlo4\cqlo4\bin\Debug\netcoreapp2.1\cqlo4.deps.json
+C:\Users\8b\source\repos\cqlo4\cqlo4\bin\Debug\netcoreapp2.1\cqlo4.runtimeconfig.json
+C:\Users\8b\source\repos\cqlo4\cqlo4\bin\Debug\netcoreapp2.1\cqlo4.runtimeconfig.dev.json
+C:\Users\8b\source\repos\cqlo4\cqlo4\bin\Debug\netcoreapp2.1\cqlo4.dll
+C:\Users\8b\source\repos\cqlo4\cqlo4\bin\Debug\netcoreapp2.1\cqlo4.pdb
+C:\Users\8b\source\repos\cqlo4\cqlo4\obj\Debug\netcoreapp2.1\cqlo4.csprojAssemblyReference.cache
+C:\Users\8b\source\repos\cqlo4\cqlo4\obj\Debug\netcoreapp2.1\cqlo4.csproj.CoreCompileInputs.cache
+C:\Users\8b\source\repos\cqlo4\cqlo4\obj\Debug\netcoreapp2.1\cqlo4.AssemblyInfoInputs.cache
+C:\Users\8b\source\repos\cqlo4\cqlo4\obj\Debug\netcoreapp2.1\cqlo4.AssemblyInfo.cs
+C:\Users\8b\source\repos\cqlo4\cqlo4\obj\Debug\netcoreapp2.1\cqlo4.dll
+C:\Users\8b\source\repos\cqlo4\cqlo4\obj\Debug\netcoreapp2.1\cqlo4.pdb
