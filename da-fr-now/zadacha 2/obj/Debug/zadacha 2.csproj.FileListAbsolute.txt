@@ -1,0 +1,7 @@
+C:\Users\Nasko\source\repos\da fr now\zadacha 2\bin\Debug\zadacha 2.exe.config
+C:\Users\Nasko\source\repos\da fr now\zadacha 2\bin\Debug\zadacha 2.exe
+C:\Users\Nasko\source\repos\da fr now\zadacha 2\bin\Debug\zadacha 2.pdb
+C:\Users\Nasko\source\repos\da fr now\zadacha 2\obj\Debug\zadacha 2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nasko\source\repos\da fr now\zadacha 2\obj\Debug\zadacha 2.csproj.CoreCompileInputs.cache
+C:\Users\Nasko\source\repos\da fr now\zadacha 2\obj\Debug\zadacha 2.exe
+C:\Users\Nasko\source\repos\da fr now\zadacha 2\obj\Debug\zadacha 2.pdb

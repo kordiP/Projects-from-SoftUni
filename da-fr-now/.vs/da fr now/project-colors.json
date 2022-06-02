@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "52936a43-e2d8-417a-9826-da4e80120632": {
+      "ProjectGuid": "52936a43-e2d8-417a-9826-da4e80120632",
+      "DisplayName": "laminat",
+      "ColorIndex": 0
+    },
+    "fdbde694-63d3-41f1-8be4-3f8fc64028b4": {
+      "ProjectGuid": "fdbde694-63d3-41f1-8be4-3f8fc64028b4",
+      "DisplayName": "zadacha 2",
+      "ColorIndex": 1
+    },
+    "2b060875-0580-4126-8b0e-21072c8e5231": {
+      "ProjectGuid": "2b060875-0580-4126-8b0e-21072c8e5231",
+      "DisplayName": "zad 3",
+      "ColorIndex": 2
+    },
+    "31935cf8-cd31-4603-8bf6-7f619735239e": {
+      "ProjectGuid": "31935cf8-cd31-4603-8bf6-7f619735239e",
+      "DisplayName": "zad 4",
+      "ColorIndex": 3
+    },
+    "9566d33f-dbb1-46fe-a6a6-ef931258aadc": {
+      "ProjectGuid": "9566d33f-dbb1-46fe-a6a6-ef931258aadc",
+      "DisplayName": "zad 54",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}

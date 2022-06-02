@@ -1,0 +1,7 @@
+C:\Users\Nasko\source\repos\da fr now\zad 54\bin\Debug\zad 54.exe.config
+C:\Users\Nasko\source\repos\da fr now\zad 54\bin\Debug\zad 54.exe
+C:\Users\Nasko\source\repos\da fr now\zad 54\bin\Debug\zad 54.pdb
+C:\Users\Nasko\source\repos\da fr now\zad 54\obj\Debug\zad 54.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nasko\source\repos\da fr now\zad 54\obj\Debug\zad 54.csproj.CoreCompileInputs.cache
+C:\Users\Nasko\source\repos\da fr now\zad 54\obj\Debug\zad 54.exe
+C:\Users\Nasko\source\repos\da fr now\zad 54\obj\Debug\zad 54.pdb

@@ -1,0 +1,7 @@
+C:\Users\Nasko\source\repos\da fr now\zad 3\bin\Debug\zad 3.exe.config
+C:\Users\Nasko\source\repos\da fr now\zad 3\bin\Debug\zad 3.exe
+C:\Users\Nasko\source\repos\da fr now\zad 3\bin\Debug\zad 3.pdb
+C:\Users\Nasko\source\repos\da fr now\zad 3\obj\Debug\zad 3.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nasko\source\repos\da fr now\zad 3\obj\Debug\zad 3.csproj.CoreCompileInputs.cache
+C:\Users\Nasko\source\repos\da fr now\zad 3\obj\Debug\zad 3.exe
+C:\Users\Nasko\source\repos\da fr now\zad 3\obj\Debug\zad 3.pdb
