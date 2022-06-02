@@ -1,0 +1,10 @@
+C:\Users\8b\source\repos\cvetq\cvetq\bin\Debug\cvetq.exe.config
+C:\Users\8b\source\repos\cvetq\cvetq\bin\Debug\cvetq.exe
+C:\Users\8b\source\repos\cvetq\cvetq\bin\Debug\cvetq.pdb
+C:\Users\8b\source\repos\cvetq\cvetq\obj\Debug\cvetq.csprojAssemblyReference.cache
+C:\Users\8b\source\repos\cvetq\cvetq\obj\Debug\cvetq.Form1.resources
+C:\Users\8b\source\repos\cvetq\cvetq\obj\Debug\cvetq.Properties.Resources.resources
+C:\Users\8b\source\repos\cvetq\cvetq\obj\Debug\cvetq.csproj.GenerateResource.cache
+C:\Users\8b\source\repos\cvetq\cvetq\obj\Debug\cvetq.csproj.CoreCompileInputs.cache
+C:\Users\8b\source\repos\cvetq\cvetq\obj\Debug\cvetq.exe
+C:\Users\8b\source\repos\cvetq\cvetq\obj\Debug\cvetq.pdb
