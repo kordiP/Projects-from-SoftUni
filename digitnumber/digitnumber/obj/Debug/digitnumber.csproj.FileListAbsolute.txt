@@ -1,0 +1,7 @@
+C:\Users\8b\source\repos\digitnumber\digitnumber\bin\Debug\digitnumber.exe.config
+C:\Users\8b\source\repos\digitnumber\digitnumber\bin\Debug\digitnumber.exe
+C:\Users\8b\source\repos\digitnumber\digitnumber\bin\Debug\digitnumber.pdb
+C:\Users\8b\source\repos\digitnumber\digitnumber\obj\Debug\digitnumber.csprojAssemblyReference.cache
+C:\Users\8b\source\repos\digitnumber\digitnumber\obj\Debug\digitnumber.csproj.CoreCompileInputs.cache
+C:\Users\8b\source\repos\digitnumber\digitnumber\obj\Debug\digitnumber.exe
+C:\Users\8b\source\repos\digitnumber\digitnumber\obj\Debug\digitnumber.pdb
