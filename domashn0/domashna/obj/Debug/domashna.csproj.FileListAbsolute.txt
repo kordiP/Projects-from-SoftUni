@@ -1,0 +1,7 @@
+C:\Users\ROG\source\repos\domashna\domashna\bin\Debug\domashna.exe.config
+C:\Users\ROG\source\repos\domashna\domashna\bin\Debug\domashna.exe
+C:\Users\ROG\source\repos\domashna\domashna\bin\Debug\domashna.pdb
+C:\Users\ROG\source\repos\domashna\domashna\obj\Debug\domashna.csprojAssemblyReference.cache
+C:\Users\ROG\source\repos\domashna\domashna\obj\Debug\domashna.csproj.CoreCompileInputs.cache
+C:\Users\ROG\source\repos\domashna\domashna\obj\Debug\domashna.exe
+C:\Users\ROG\source\repos\domashna\domashna\obj\Debug\domashna.pdb
