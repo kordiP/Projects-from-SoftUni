@@ -1,0 +1,13 @@
+C:\Users\ROG\source\repos\ArrayList_implementation\ArrayList_numbers\bin\Debug\netcoreapp3.1\ArrayList_numbers.exe
+C:\Users\ROG\source\repos\ArrayList_implementation\ArrayList_numbers\bin\Debug\netcoreapp3.1\ArrayList_numbers.deps.json
+C:\Users\ROG\source\repos\ArrayList_implementation\ArrayList_numbers\bin\Debug\netcoreapp3.1\ArrayList_numbers.runtimeconfig.json
+C:\Users\ROG\source\repos\ArrayList_implementation\ArrayList_numbers\bin\Debug\netcoreapp3.1\ArrayList_numbers.runtimeconfig.dev.json
+C:\Users\ROG\source\repos\ArrayList_implementation\ArrayList_numbers\bin\Debug\netcoreapp3.1\ArrayList_numbers.dll
+C:\Users\ROG\source\repos\ArrayList_implementation\ArrayList_numbers\bin\Debug\netcoreapp3.1\ArrayList_numbers.pdb
+C:\Users\ROG\source\repos\ArrayList_implementation\ArrayList_numbers\obj\Debug\netcoreapp3.1\ArrayList_numbers.csprojAssemblyReference.cache
+C:\Users\ROG\source\repos\ArrayList_implementation\ArrayList_numbers\obj\Debug\netcoreapp3.1\ArrayList_numbers.AssemblyInfoInputs.cache
+C:\Users\ROG\source\repos\ArrayList_implementation\ArrayList_numbers\obj\Debug\netcoreapp3.1\ArrayList_numbers.AssemblyInfo.cs
+C:\Users\ROG\source\repos\ArrayList_implementation\ArrayList_numbers\obj\Debug\netcoreapp3.1\ArrayList_numbers.csproj.CoreCompileInputs.cache
+C:\Users\ROG\source\repos\ArrayList_implementation\ArrayList_numbers\obj\Debug\netcoreapp3.1\ArrayList_numbers.dll
+C:\Users\ROG\source\repos\ArrayList_implementation\ArrayList_numbers\obj\Debug\netcoreapp3.1\ArrayList_numbers.pdb
+C:\Users\ROG\source\repos\ArrayList_implementation\ArrayList_numbers\obj\Debug\netcoreapp3.1\ArrayList_numbers.genruntimeconfig.cache
