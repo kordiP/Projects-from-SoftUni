@@ -1,0 +1,16 @@
+C:\Users\ROG\source\repos\prime-divisors\prime-divisors\bin\Debug\net5.0\prime-divisors.exe
+C:\Users\ROG\source\repos\prime-divisors\prime-divisors\bin\Debug\net5.0\prime-divisors.deps.json
+C:\Users\ROG\source\repos\prime-divisors\prime-divisors\bin\Debug\net5.0\prime-divisors.runtimeconfig.json
+C:\Users\ROG\source\repos\prime-divisors\prime-divisors\bin\Debug\net5.0\prime-divisors.runtimeconfig.dev.json
+C:\Users\ROG\source\repos\prime-divisors\prime-divisors\bin\Debug\net5.0\prime-divisors.dll
+C:\Users\ROG\source\repos\prime-divisors\prime-divisors\bin\Debug\net5.0\prime-divisors.pdb
+C:\Users\ROG\source\repos\prime-divisors\prime-divisors\obj\Debug\net5.0\prime-divisors.csproj.AssemblyReference.cache
+C:\Users\ROG\source\repos\prime-divisors\prime-divisors\obj\Debug\net5.0\prime-divisors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ROG\source\repos\prime-divisors\prime-divisors\obj\Debug\net5.0\prime-divisors.AssemblyInfoInputs.cache
+C:\Users\ROG\source\repos\prime-divisors\prime-divisors\obj\Debug\net5.0\prime-divisors.AssemblyInfo.cs
+C:\Users\ROG\source\repos\prime-divisors\prime-divisors\obj\Debug\net5.0\prime-divisors.csproj.CoreCompileInputs.cache
+C:\Users\ROG\source\repos\prime-divisors\prime-divisors\obj\Debug\net5.0\prime-divisors.dll
+C:\Users\ROG\source\repos\prime-divisors\prime-divisors\obj\Debug\net5.0\refint\prime-divisors.dll
+C:\Users\ROG\source\repos\prime-divisors\prime-divisors\obj\Debug\net5.0\prime-divisors.pdb
+C:\Users\ROG\source\repos\prime-divisors\prime-divisors\obj\Debug\net5.0\prime-divisors.genruntimeconfig.cache
+C:\Users\ROG\source\repos\prime-divisors\prime-divisors\obj\Debug\net5.0\ref\prime-divisors.dll
