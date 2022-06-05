@@ -1,0 +1,13 @@
+C:\Users\ROG\source\repos\списък\imena\bin\Debug\netcoreapp3.1\imena.exe
+C:\Users\ROG\source\repos\списък\imena\bin\Debug\netcoreapp3.1\imena.deps.json
+C:\Users\ROG\source\repos\списък\imena\bin\Debug\netcoreapp3.1\imena.runtimeconfig.json
+C:\Users\ROG\source\repos\списък\imena\bin\Debug\netcoreapp3.1\imena.runtimeconfig.dev.json
+C:\Users\ROG\source\repos\списък\imena\bin\Debug\netcoreapp3.1\imena.dll
+C:\Users\ROG\source\repos\списък\imena\bin\Debug\netcoreapp3.1\imena.pdb
+C:\Users\ROG\source\repos\списък\imena\obj\Debug\netcoreapp3.1\imena.csprojAssemblyReference.cache
+C:\Users\ROG\source\repos\списък\imena\obj\Debug\netcoreapp3.1\imena.AssemblyInfoInputs.cache
+C:\Users\ROG\source\repos\списък\imena\obj\Debug\netcoreapp3.1\imena.AssemblyInfo.cs
+C:\Users\ROG\source\repos\списък\imena\obj\Debug\netcoreapp3.1\imena.csproj.CoreCompileInputs.cache
+C:\Users\ROG\source\repos\списък\imena\obj\Debug\netcoreapp3.1\imena.dll
+C:\Users\ROG\source\repos\списък\imena\obj\Debug\netcoreapp3.1\imena.pdb
+C:\Users\ROG\source\repos\списък\imena\obj\Debug\netcoreapp3.1\imena.genruntimeconfig.cache
