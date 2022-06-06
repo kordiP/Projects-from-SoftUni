@@ -1,0 +1,13 @@
+C:\Users\ROG\source\repos\ots\ots\bin\Debug\netcoreapp3.1\ots.exe
+C:\Users\ROG\source\repos\ots\ots\bin\Debug\netcoreapp3.1\ots.deps.json
+C:\Users\ROG\source\repos\ots\ots\bin\Debug\netcoreapp3.1\ots.runtimeconfig.json
+C:\Users\ROG\source\repos\ots\ots\bin\Debug\netcoreapp3.1\ots.runtimeconfig.dev.json
+C:\Users\ROG\source\repos\ots\ots\bin\Debug\netcoreapp3.1\ots.dll
+C:\Users\ROG\source\repos\ots\ots\bin\Debug\netcoreapp3.1\ots.pdb
+C:\Users\ROG\source\repos\ots\ots\obj\Debug\netcoreapp3.1\ots.csprojAssemblyReference.cache
+C:\Users\ROG\source\repos\ots\ots\obj\Debug\netcoreapp3.1\ots.AssemblyInfoInputs.cache
+C:\Users\ROG\source\repos\ots\ots\obj\Debug\netcoreapp3.1\ots.AssemblyInfo.cs
+C:\Users\ROG\source\repos\ots\ots\obj\Debug\netcoreapp3.1\ots.csproj.CoreCompileInputs.cache
+C:\Users\ROG\source\repos\ots\ots\obj\Debug\netcoreapp3.1\ots.dll
+C:\Users\ROG\source\repos\ots\ots\obj\Debug\netcoreapp3.1\ots.pdb
+C:\Users\ROG\source\repos\ots\ots\obj\Debug\netcoreapp3.1\ots.genruntimeconfig.cache
