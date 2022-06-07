@@ -1,0 +1,8 @@
+C:\Users\Nasko\Desktop\repo\implement-ArrayList\implement-ArrayList\bin\Debug\implement-ArrayList.exe.config
+C:\Users\Nasko\Desktop\repo\implement-ArrayList\implement-ArrayList\bin\Debug\implement-ArrayList.exe
+C:\Users\Nasko\Desktop\repo\implement-ArrayList\implement-ArrayList\bin\Debug\implement-ArrayList.pdb
+C:\Users\Nasko\Desktop\repo\implement-ArrayList\implement-ArrayList\obj\Debug\implement-ArrayList.csproj.AssemblyReference.cache
+C:\Users\Nasko\Desktop\repo\implement-ArrayList\implement-ArrayList\obj\Debug\implement-ArrayList.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nasko\Desktop\repo\implement-ArrayList\implement-ArrayList\obj\Debug\implement-ArrayList.csproj.CoreCompileInputs.cache
+C:\Users\Nasko\Desktop\repo\implement-ArrayList\implement-ArrayList\obj\Debug\implement-ArrayList.exe
+C:\Users\Nasko\Desktop\repo\implement-ArrayList\implement-ArrayList\obj\Debug\implement-ArrayList.pdb
