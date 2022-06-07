@@ -1,0 +1,16 @@
+C:\Users\ROG\source\repos\NOD_i_NOK\NOD_i_NOK\bin\Debug\net5.0\NOD_i_NOK.exe
+C:\Users\ROG\source\repos\NOD_i_NOK\NOD_i_NOK\bin\Debug\net5.0\NOD_i_NOK.deps.json
+C:\Users\ROG\source\repos\NOD_i_NOK\NOD_i_NOK\bin\Debug\net5.0\NOD_i_NOK.runtimeconfig.json
+C:\Users\ROG\source\repos\NOD_i_NOK\NOD_i_NOK\bin\Debug\net5.0\NOD_i_NOK.runtimeconfig.dev.json
+C:\Users\ROG\source\repos\NOD_i_NOK\NOD_i_NOK\bin\Debug\net5.0\NOD_i_NOK.dll
+C:\Users\ROG\source\repos\NOD_i_NOK\NOD_i_NOK\bin\Debug\net5.0\NOD_i_NOK.pdb
+C:\Users\ROG\source\repos\NOD_i_NOK\NOD_i_NOK\obj\Debug\net5.0\NOD_i_NOK.csproj.AssemblyReference.cache
+C:\Users\ROG\source\repos\NOD_i_NOK\NOD_i_NOK\obj\Debug\net5.0\NOD_i_NOK.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ROG\source\repos\NOD_i_NOK\NOD_i_NOK\obj\Debug\net5.0\NOD_i_NOK.AssemblyInfoInputs.cache
+C:\Users\ROG\source\repos\NOD_i_NOK\NOD_i_NOK\obj\Debug\net5.0\NOD_i_NOK.AssemblyInfo.cs
+C:\Users\ROG\source\repos\NOD_i_NOK\NOD_i_NOK\obj\Debug\net5.0\NOD_i_NOK.csproj.CoreCompileInputs.cache
+C:\Users\ROG\source\repos\NOD_i_NOK\NOD_i_NOK\obj\Debug\net5.0\NOD_i_NOK.dll
+C:\Users\ROG\source\repos\NOD_i_NOK\NOD_i_NOK\obj\Debug\net5.0\refint\NOD_i_NOK.dll
+C:\Users\ROG\source\repos\NOD_i_NOK\NOD_i_NOK\obj\Debug\net5.0\NOD_i_NOK.pdb
+C:\Users\ROG\source\repos\NOD_i_NOK\NOD_i_NOK\obj\Debug\net5.0\NOD_i_NOK.genruntimeconfig.cache
+C:\Users\ROG\source\repos\NOD_i_NOK\NOD_i_NOK\obj\Debug\net5.0\ref\NOD_i_NOK.dll
