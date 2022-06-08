@@ -1,0 +1,16 @@
+C:\Users\ROG\source\repos\nod-blizuk-do-uma\nod-blizuk-do-uma\bin\Debug\net5.0\nod-blizuk-do-uma.exe
+C:\Users\ROG\source\repos\nod-blizuk-do-uma\nod-blizuk-do-uma\bin\Debug\net5.0\nod-blizuk-do-uma.deps.json
+C:\Users\ROG\source\repos\nod-blizuk-do-uma\nod-blizuk-do-uma\bin\Debug\net5.0\nod-blizuk-do-uma.runtimeconfig.json
+C:\Users\ROG\source\repos\nod-blizuk-do-uma\nod-blizuk-do-uma\bin\Debug\net5.0\nod-blizuk-do-uma.runtimeconfig.dev.json
+C:\Users\ROG\source\repos\nod-blizuk-do-uma\nod-blizuk-do-uma\bin\Debug\net5.0\nod-blizuk-do-uma.dll
+C:\Users\ROG\source\repos\nod-blizuk-do-uma\nod-blizuk-do-uma\bin\Debug\net5.0\nod-blizuk-do-uma.pdb
+C:\Users\ROG\source\repos\nod-blizuk-do-uma\nod-blizuk-do-uma\obj\Debug\net5.0\nod-blizuk-do-uma.csproj.AssemblyReference.cache
+C:\Users\ROG\source\repos\nod-blizuk-do-uma\nod-blizuk-do-uma\obj\Debug\net5.0\nod-blizuk-do-uma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ROG\source\repos\nod-blizuk-do-uma\nod-blizuk-do-uma\obj\Debug\net5.0\nod-blizuk-do-uma.AssemblyInfoInputs.cache
+C:\Users\ROG\source\repos\nod-blizuk-do-uma\nod-blizuk-do-uma\obj\Debug\net5.0\nod-blizuk-do-uma.AssemblyInfo.cs
+C:\Users\ROG\source\repos\nod-blizuk-do-uma\nod-blizuk-do-uma\obj\Debug\net5.0\nod-blizuk-do-uma.csproj.CoreCompileInputs.cache
+C:\Users\ROG\source\repos\nod-blizuk-do-uma\nod-blizuk-do-uma\obj\Debug\net5.0\nod-blizuk-do-uma.dll
+C:\Users\ROG\source\repos\nod-blizuk-do-uma\nod-blizuk-do-uma\obj\Debug\net5.0\refint\nod-blizuk-do-uma.dll
+C:\Users\ROG\source\repos\nod-blizuk-do-uma\nod-blizuk-do-uma\obj\Debug\net5.0\nod-blizuk-do-uma.pdb
+C:\Users\ROG\source\repos\nod-blizuk-do-uma\nod-blizuk-do-uma\obj\Debug\net5.0\nod-blizuk-do-uma.genruntimeconfig.cache
+C:\Users\ROG\source\repos\nod-blizuk-do-uma\nod-blizuk-do-uma\obj\Debug\net5.0\ref\nod-blizuk-do-uma.dll
