@@ -1,0 +1,8 @@
+C:\Users\Nasko\Desktop\repo\every_way_to_100\every_way_to_100\bin\Debug\every_way_to_100.exe.config
+C:\Users\Nasko\Desktop\repo\every_way_to_100\every_way_to_100\bin\Debug\every_way_to_100.exe
+C:\Users\Nasko\Desktop\repo\every_way_to_100\every_way_to_100\bin\Debug\every_way_to_100.pdb
+C:\Users\Nasko\Desktop\repo\every_way_to_100\every_way_to_100\obj\Debug\every_way_to_100.csproj.AssemblyReference.cache
+C:\Users\Nasko\Desktop\repo\every_way_to_100\every_way_to_100\obj\Debug\every_way_to_100.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nasko\Desktop\repo\every_way_to_100\every_way_to_100\obj\Debug\every_way_to_100.csproj.CoreCompileInputs.cache
+C:\Users\Nasko\Desktop\repo\every_way_to_100\every_way_to_100\obj\Debug\every_way_to_100.exe
+C:\Users\Nasko\Desktop\repo\every_way_to_100\every_way_to_100\obj\Debug\every_way_to_100.pdb
