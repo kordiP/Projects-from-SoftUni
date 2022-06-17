@@ -1,0 +1,8 @@
+C:\Users\Nasko\source\repos\NOD-s-cherta\NOD-s-cherta\bin\Debug\NOD-s-cherta.exe.config
+C:\Users\Nasko\source\repos\NOD-s-cherta\NOD-s-cherta\bin\Debug\NOD-s-cherta.exe
+C:\Users\Nasko\source\repos\NOD-s-cherta\NOD-s-cherta\bin\Debug\NOD-s-cherta.pdb
+C:\Users\Nasko\source\repos\NOD-s-cherta\NOD-s-cherta\obj\Debug\NOD-s-cherta.csproj.AssemblyReference.cache
+C:\Users\Nasko\source\repos\NOD-s-cherta\NOD-s-cherta\obj\Debug\NOD-s-cherta.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nasko\source\repos\NOD-s-cherta\NOD-s-cherta\obj\Debug\NOD-s-cherta.csproj.CoreCompileInputs.cache
+C:\Users\Nasko\source\repos\NOD-s-cherta\NOD-s-cherta\obj\Debug\NOD-s-cherta.exe
+C:\Users\Nasko\source\repos\NOD-s-cherta\NOD-s-cherta\obj\Debug\NOD-s-cherta.pdb
