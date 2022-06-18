@@ -1,0 +1,10 @@
+C:\Users\ROG\source\repos\findmin\findmin\bin\Debug\findmin.exe.config
+C:\Users\ROG\source\repos\findmin\findmin\bin\Debug\findmin.exe
+C:\Users\ROG\source\repos\findmin\findmin\bin\Debug\findmin.pdb
+C:\Users\ROG\source\repos\findmin\findmin\obj\Debug\findmin.csprojAssemblyReference.cache
+C:\Users\ROG\source\repos\findmin\findmin\obj\Debug\findmin.Form1.resources
+C:\Users\ROG\source\repos\findmin\findmin\obj\Debug\findmin.Properties.Resources.resources
+C:\Users\ROG\source\repos\findmin\findmin\obj\Debug\findmin.csproj.GenerateResource.cache
+C:\Users\ROG\source\repos\findmin\findmin\obj\Debug\findmin.csproj.CoreCompileInputs.cache
+C:\Users\ROG\source\repos\findmin\findmin\obj\Debug\findmin.exe
+C:\Users\ROG\source\repos\findmin\findmin\obj\Debug\findmin.pdb
