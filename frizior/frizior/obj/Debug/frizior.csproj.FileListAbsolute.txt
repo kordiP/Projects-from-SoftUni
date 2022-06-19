@@ -1,0 +1,7 @@
+D:\work stuff\frizior\frizior\bin\Debug\frizior.exe.config
+D:\work stuff\frizior\frizior\bin\Debug\frizior.exe
+D:\work stuff\frizior\frizior\bin\Debug\frizior.pdb
+D:\work stuff\frizior\frizior\obj\Debug\frizior.csprojAssemblyReference.cache
+D:\work stuff\frizior\frizior\obj\Debug\frizior.csproj.CoreCompileInputs.cache
+D:\work stuff\frizior\frizior\obj\Debug\frizior.exe
+D:\work stuff\frizior\frizior\obj\Debug\frizior.pdb
