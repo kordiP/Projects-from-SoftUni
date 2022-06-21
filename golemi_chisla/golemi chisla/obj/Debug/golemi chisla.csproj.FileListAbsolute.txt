@@ -1,0 +1,7 @@
+C:\Users\ROG\source\repos\golemi chisla\golemi chisla\bin\Debug\golemi chisla.exe.config
+C:\Users\ROG\source\repos\golemi chisla\golemi chisla\bin\Debug\golemi chisla.exe
+C:\Users\ROG\source\repos\golemi chisla\golemi chisla\bin\Debug\golemi chisla.pdb
+C:\Users\ROG\source\repos\golemi chisla\golemi chisla\obj\Debug\golemi chisla.csprojAssemblyReference.cache
+C:\Users\ROG\source\repos\golemi chisla\golemi chisla\obj\Debug\golemi chisla.csproj.CoreCompileInputs.cache
+C:\Users\ROG\source\repos\golemi chisla\golemi chisla\obj\Debug\golemi chisla.exe
+C:\Users\ROG\source\repos\golemi chisla\golemi chisla\obj\Debug\golemi chisla.pdb
