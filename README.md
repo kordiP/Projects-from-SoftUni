@@ -4,9 +4,9 @@ This repository includes every problem I solved in SoftUni's collaboration with 
 
 ![image](https://user-images.githubusercontent.com/72604001/170854708-87add65e-30a2-4ca0-a096-825f70d7c304.png)
 
-# What are the problems about?
+# What are the projects about?
 
-For the first(my current) year the problems are in the downstated spheres. Everything is in C#!
+C# Programming, which includes the following 5 themes:
 
 
 # 1. Introduction to programming
