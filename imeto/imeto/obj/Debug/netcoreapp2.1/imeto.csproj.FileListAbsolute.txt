@@ -1,0 +1,11 @@
+C:\Users\8b\source\repos\imeto\imeto\bin\Debug\netcoreapp2.1\imeto.deps.json
+C:\Users\8b\source\repos\imeto\imeto\bin\Debug\netcoreapp2.1\imeto.runtimeconfig.json
+C:\Users\8b\source\repos\imeto\imeto\bin\Debug\netcoreapp2.1\imeto.runtimeconfig.dev.json
+C:\Users\8b\source\repos\imeto\imeto\bin\Debug\netcoreapp2.1\imeto.dll
+C:\Users\8b\source\repos\imeto\imeto\bin\Debug\netcoreapp2.1\imeto.pdb
+C:\Users\8b\source\repos\imeto\imeto\obj\Debug\netcoreapp2.1\imeto.csprojAssemblyReference.cache
+C:\Users\8b\source\repos\imeto\imeto\obj\Debug\netcoreapp2.1\imeto.csproj.CoreCompileInputs.cache
+C:\Users\8b\source\repos\imeto\imeto\obj\Debug\netcoreapp2.1\imeto.AssemblyInfoInputs.cache
+C:\Users\8b\source\repos\imeto\imeto\obj\Debug\netcoreapp2.1\imeto.AssemblyInfo.cs
+C:\Users\8b\source\repos\imeto\imeto\obj\Debug\netcoreapp2.1\imeto.dll
+C:\Users\8b\source\repos\imeto\imeto\obj\Debug\netcoreapp2.1\imeto.pdb
