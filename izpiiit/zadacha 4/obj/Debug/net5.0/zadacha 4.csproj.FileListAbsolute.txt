@@ -1,0 +1,16 @@
+C:\Users\Nasko\source\repos\izpiiit\zadacha 4\bin\Debug\net5.0\zadacha 4.exe
+C:\Users\Nasko\source\repos\izpiiit\zadacha 4\bin\Debug\net5.0\zadacha 4.deps.json
+C:\Users\Nasko\source\repos\izpiiit\zadacha 4\bin\Debug\net5.0\zadacha 4.runtimeconfig.json
+C:\Users\Nasko\source\repos\izpiiit\zadacha 4\bin\Debug\net5.0\zadacha 4.runtimeconfig.dev.json
+C:\Users\Nasko\source\repos\izpiiit\zadacha 4\bin\Debug\net5.0\zadacha 4.dll
+C:\Users\Nasko\source\repos\izpiiit\zadacha 4\bin\Debug\net5.0\ref\zadacha 4.dll
+C:\Users\Nasko\source\repos\izpiiit\zadacha 4\bin\Debug\net5.0\zadacha 4.pdb
+C:\Users\Nasko\source\repos\izpiiit\zadacha 4\obj\Debug\net5.0\zadacha 4.csproj.AssemblyReference.cache
+C:\Users\Nasko\source\repos\izpiiit\zadacha 4\obj\Debug\net5.0\zadacha 4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nasko\source\repos\izpiiit\zadacha 4\obj\Debug\net5.0\zadacha 4.AssemblyInfoInputs.cache
+C:\Users\Nasko\source\repos\izpiiit\zadacha 4\obj\Debug\net5.0\zadacha 4.AssemblyInfo.cs
+C:\Users\Nasko\source\repos\izpiiit\zadacha 4\obj\Debug\net5.0\zadacha 4.csproj.CoreCompileInputs.cache
+C:\Users\Nasko\source\repos\izpiiit\zadacha 4\obj\Debug\net5.0\zadacha 4.dll
+C:\Users\Nasko\source\repos\izpiiit\zadacha 4\obj\Debug\net5.0\ref\zadacha 4.dll
+C:\Users\Nasko\source\repos\izpiiit\zadacha 4\obj\Debug\net5.0\zadacha 4.pdb
+C:\Users\Nasko\source\repos\izpiiit\zadacha 4\obj\Debug\net5.0\zadacha 4.genruntimeconfig.cache
