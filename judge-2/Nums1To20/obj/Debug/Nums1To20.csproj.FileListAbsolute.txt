@@ -1,0 +1,6 @@
+C:\Users\Nasko\source\repos\judge 2\Nums1To20\bin\Debug\Nums1To20.exe.config
+C:\Users\Nasko\source\repos\judge 2\Nums1To20\bin\Debug\Nums1To20.exe
+C:\Users\Nasko\source\repos\judge 2\Nums1To20\bin\Debug\Nums1To20.pdb
+C:\Users\Nasko\source\repos\judge 2\Nums1To20\obj\Debug\Nums1To20.csproj.CoreCompileInputs.cache
+C:\Users\Nasko\source\repos\judge 2\Nums1To20\obj\Debug\Nums1To20.exe
+C:\Users\Nasko\source\repos\judge 2\Nums1To20\obj\Debug\Nums1To20.pdb

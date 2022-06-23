@@ -1,0 +1,6 @@
+C:\Users\Nasko\source\repos\judge 2\judge 5\bin\Debug\judge 5.exe.config
+C:\Users\Nasko\source\repos\judge 2\judge 5\bin\Debug\judge 5.exe
+C:\Users\Nasko\source\repos\judge 2\judge 5\bin\Debug\judge 5.pdb
+C:\Users\Nasko\source\repos\judge 2\judge 5\obj\Debug\judge 5.csproj.CoreCompileInputs.cache
+C:\Users\Nasko\source\repos\judge 2\judge 5\obj\Debug\judge 5.exe
+C:\Users\Nasko\source\repos\judge 2\judge 5\obj\Debug\judge 5.pdb

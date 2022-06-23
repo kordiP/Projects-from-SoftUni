@@ -1,0 +1,6 @@
+C:\Users\Nasko\source\repos\judge 2\Square-area\bin\Debug\Square-area.exe.config
+C:\Users\Nasko\source\repos\judge 2\Square-area\bin\Debug\Square-area.exe
+C:\Users\Nasko\source\repos\judge 2\Square-area\bin\Debug\Square-area.pdb
+C:\Users\Nasko\source\repos\judge 2\Square-area\obj\Debug\Square-area.csproj.CoreCompileInputs.cache
+C:\Users\Nasko\source\repos\judge 2\Square-area\obj\Debug\Square-area.exe
+C:\Users\Nasko\source\repos\judge 2\Square-area\obj\Debug\Square-area.pdb

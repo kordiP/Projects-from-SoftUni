@@ -1,0 +1,6 @@
+C:\Users\Nasko\source\repos\judge 2\usd to bgn\bin\Debug\usd to bgn.exe.config
+C:\Users\Nasko\source\repos\judge 2\usd to bgn\bin\Debug\usd to bgn.exe
+C:\Users\Nasko\source\repos\judge 2\usd to bgn\bin\Debug\usd to bgn.pdb
+C:\Users\Nasko\source\repos\judge 2\usd to bgn\obj\Debug\usd to bgn.csproj.CoreCompileInputs.cache
+C:\Users\Nasko\source\repos\judge 2\usd to bgn\obj\Debug\usd to bgn.exe
+C:\Users\Nasko\source\repos\judge 2\usd to bgn\obj\Debug\usd to bgn.pdb

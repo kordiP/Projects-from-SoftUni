@@ -1,0 +1,6 @@
+C:\Users\Nasko\source\repos\judge 2\Greeting\bin\Debug\Greeting.exe.config
+C:\Users\Nasko\source\repos\judge 2\Greeting\bin\Debug\Greeting.exe
+C:\Users\Nasko\source\repos\judge 2\Greeting\bin\Debug\Greeting.pdb
+C:\Users\Nasko\source\repos\judge 2\Greeting\obj\Debug\Greeting.csproj.CoreCompileInputs.cache
+C:\Users\Nasko\source\repos\judge 2\Greeting\obj\Debug\Greeting.exe
+C:\Users\Nasko\source\repos\judge 2\Greeting\obj\Debug\Greeting.pdb

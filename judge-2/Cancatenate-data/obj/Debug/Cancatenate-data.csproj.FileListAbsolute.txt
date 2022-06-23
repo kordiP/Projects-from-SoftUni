@@ -1,0 +1,6 @@
+C:\Users\Nasko\source\repos\judge 2\Cancatenate-data\bin\Debug\Cancatenate-data.exe.config
+C:\Users\Nasko\source\repos\judge 2\Cancatenate-data\bin\Debug\Cancatenate-data.exe
+C:\Users\Nasko\source\repos\judge 2\Cancatenate-data\bin\Debug\Cancatenate-data.pdb
+C:\Users\Nasko\source\repos\judge 2\Cancatenate-data\obj\Debug\Cancatenate-data.csproj.CoreCompileInputs.cache
+C:\Users\Nasko\source\repos\judge 2\Cancatenate-data\obj\Debug\Cancatenate-data.exe
+C:\Users\Nasko\source\repos\judge 2\Cancatenate-data\obj\Debug\Cancatenate-data.pdb

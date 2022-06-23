@@ -1,0 +1,7 @@
+C:\Users\Nasko\source\repos\judge 2\zadachka ot dok\bin\Debug\zadachka ot dok.exe.config
+C:\Users\Nasko\source\repos\judge 2\zadachka ot dok\bin\Debug\zadachka ot dok.exe
+C:\Users\Nasko\source\repos\judge 2\zadachka ot dok\bin\Debug\zadachka ot dok.pdb
+C:\Users\Nasko\source\repos\judge 2\zadachka ot dok\obj\Debug\zadachka ot dok.csprojAssemblyReference.cache
+C:\Users\Nasko\source\repos\judge 2\zadachka ot dok\obj\Debug\zadachka ot dok.csproj.CoreCompileInputs.cache
+C:\Users\Nasko\source\repos\judge 2\zadachka ot dok\obj\Debug\zadachka ot dok.exe
+C:\Users\Nasko\source\repos\judge 2\zadachka ot dok\obj\Debug\zadachka ot dok.pdb

@@ -1,0 +1,6 @@
+C:\Users\Nasko\source\repos\judge 2\TriangleOf55Stars\bin\Debug\TriangleOf55Stars.exe.config
+C:\Users\Nasko\source\repos\judge 2\TriangleOf55Stars\bin\Debug\TriangleOf55Stars.exe
+C:\Users\Nasko\source\repos\judge 2\TriangleOf55Stars\bin\Debug\TriangleOf55Stars.pdb
+C:\Users\Nasko\source\repos\judge 2\TriangleOf55Stars\obj\Debug\TriangleOf55Stars.csproj.CoreCompileInputs.cache
+C:\Users\Nasko\source\repos\judge 2\TriangleOf55Stars\obj\Debug\TriangleOf55Stars.exe
+C:\Users\Nasko\source\repos\judge 2\TriangleOf55Stars\obj\Debug\TriangleOf55Stars.pdb

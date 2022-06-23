@@ -1,0 +1,6 @@
+C:\Users\Nasko\source\repos\judge 2\perimetur i lice na krug\bin\Debug\perimetur i lice na krug.exe.config
+C:\Users\Nasko\source\repos\judge 2\perimetur i lice na krug\bin\Debug\perimetur i lice na krug.exe
+C:\Users\Nasko\source\repos\judge 2\perimetur i lice na krug\bin\Debug\perimetur i lice na krug.pdb
+C:\Users\Nasko\source\repos\judge 2\perimetur i lice na krug\obj\Debug\perimetur i lice na krug.csproj.CoreCompileInputs.cache
+C:\Users\Nasko\source\repos\judge 2\perimetur i lice na krug\obj\Debug\perimetur i lice na krug.exe
+C:\Users\Nasko\source\repos\judge 2\perimetur i lice na krug\obj\Debug\perimetur i lice na krug.pdb

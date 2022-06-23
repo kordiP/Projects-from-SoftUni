@@ -1,0 +1,6 @@
+C:\Users\Nasko\source\repos\judge 2\radiani - gradusi\bin\Debug\radiani - gradusi.exe.config
+C:\Users\Nasko\source\repos\judge 2\radiani - gradusi\bin\Debug\radiani - gradusi.exe
+C:\Users\Nasko\source\repos\judge 2\radiani - gradusi\bin\Debug\radiani - gradusi.pdb
+C:\Users\Nasko\source\repos\judge 2\radiani - gradusi\obj\Debug\radiani - gradusi.csproj.CoreCompileInputs.cache
+C:\Users\Nasko\source\repos\judge 2\radiani - gradusi\obj\Debug\radiani - gradusi.exe
+C:\Users\Nasko\source\repos\judge 2\radiani - gradusi\obj\Debug\radiani - gradusi.pdb

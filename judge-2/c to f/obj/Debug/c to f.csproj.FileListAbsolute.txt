@@ -1,0 +1,6 @@
+C:\Users\Nasko\source\repos\judge 2\c to f\bin\Debug\c to f.exe.config
+C:\Users\Nasko\source\repos\judge 2\c to f\bin\Debug\c to f.exe
+C:\Users\Nasko\source\repos\judge 2\c to f\bin\Debug\c to f.pdb
+C:\Users\Nasko\source\repos\judge 2\c to f\obj\Debug\c to f.csproj.CoreCompileInputs.cache
+C:\Users\Nasko\source\repos\judge 2\c to f\obj\Debug\c to f.exe
+C:\Users\Nasko\source\repos\judge 2\c to f\obj\Debug\c to f.pdb
