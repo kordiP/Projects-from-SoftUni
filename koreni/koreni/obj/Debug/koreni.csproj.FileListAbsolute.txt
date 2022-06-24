@@ -1,0 +1,7 @@
+C:\Users\8b\source\repos\koreni\koreni\bin\Debug\koreni.exe.config
+C:\Users\8b\source\repos\koreni\koreni\bin\Debug\koreni.exe
+C:\Users\8b\source\repos\koreni\koreni\bin\Debug\koreni.pdb
+C:\Users\8b\source\repos\koreni\koreni\obj\Debug\koreni.csprojAssemblyReference.cache
+C:\Users\8b\source\repos\koreni\koreni\obj\Debug\koreni.csproj.CoreCompileInputs.cache
+C:\Users\8b\source\repos\koreni\koreni\obj\Debug\koreni.exe
+C:\Users\8b\source\repos\koreni\koreni\obj\Debug\koreni.pdb
