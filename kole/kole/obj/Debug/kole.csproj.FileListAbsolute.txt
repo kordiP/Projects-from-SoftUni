@@ -1,0 +1,7 @@
+C:\Users\Nasko\source\repos\kole\kole\bin\Debug\kole.exe.config
+C:\Users\Nasko\source\repos\kole\kole\bin\Debug\kole.exe
+C:\Users\Nasko\source\repos\kole\kole\bin\Debug\kole.pdb
+C:\Users\Nasko\source\repos\kole\kole\obj\Debug\kole.csprojAssemblyReference.cache
+C:\Users\Nasko\source\repos\kole\kole\obj\Debug\kole.csproj.CoreCompileInputs.cache
+C:\Users\Nasko\source\repos\kole\kole\obj\Debug\kole.exe
+C:\Users\Nasko\source\repos\kole\kole\obj\Debug\kole.pdb
