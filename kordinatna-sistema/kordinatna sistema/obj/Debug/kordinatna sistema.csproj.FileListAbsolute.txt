@@ -1,0 +1,7 @@
+C:\Users\Nasko\source\repos\kordinatna sistema\kordinatna sistema\bin\Debug\kordinatna sistema.exe.config
+C:\Users\Nasko\source\repos\kordinatna sistema\kordinatna sistema\bin\Debug\kordinatna sistema.exe
+C:\Users\Nasko\source\repos\kordinatna sistema\kordinatna sistema\bin\Debug\kordinatna sistema.pdb
+C:\Users\Nasko\source\repos\kordinatna sistema\kordinatna sistema\obj\Debug\kordinatna sistema.csprojAssemblyReference.cache
+C:\Users\Nasko\source\repos\kordinatna sistema\kordinatna sistema\obj\Debug\kordinatna sistema.csproj.CoreCompileInputs.cache
+C:\Users\Nasko\source\repos\kordinatna sistema\kordinatna sistema\obj\Debug\kordinatna sistema.exe
+C:\Users\Nasko\source\repos\kordinatna sistema\kordinatna sistema\obj\Debug\kordinatna sistema.pdb
