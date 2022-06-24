@@ -1,0 +1,10 @@
+C:\Users\8b\source\repos\labels\labels\bin\Debug\labels.exe.config
+C:\Users\8b\source\repos\labels\labels\bin\Debug\labels.exe
+C:\Users\8b\source\repos\labels\labels\bin\Debug\labels.pdb
+C:\Users\8b\source\repos\labels\labels\obj\Debug\labels.csprojAssemblyReference.cache
+C:\Users\8b\source\repos\labels\labels\obj\Debug\labels.Form1.resources
+C:\Users\8b\source\repos\labels\labels\obj\Debug\labels.Properties.Resources.resources
+C:\Users\8b\source\repos\labels\labels\obj\Debug\labels.csproj.GenerateResource.cache
+C:\Users\8b\source\repos\labels\labels\obj\Debug\labels.csproj.CoreCompileInputs.cache
+C:\Users\8b\source\repos\labels\labels\obj\Debug\labels.exe
+C:\Users\8b\source\repos\labels\labels\obj\Debug\labels.pdb
