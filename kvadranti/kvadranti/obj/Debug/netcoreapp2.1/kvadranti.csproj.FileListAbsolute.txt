@@ -1,0 +1,11 @@
+C:\Users\8b\source\repos\kvadranti\kvadranti\bin\Debug\netcoreapp2.1\kvadranti.deps.json
+C:\Users\8b\source\repos\kvadranti\kvadranti\bin\Debug\netcoreapp2.1\kvadranti.runtimeconfig.json
+C:\Users\8b\source\repos\kvadranti\kvadranti\bin\Debug\netcoreapp2.1\kvadranti.runtimeconfig.dev.json
+C:\Users\8b\source\repos\kvadranti\kvadranti\bin\Debug\netcoreapp2.1\kvadranti.dll
+C:\Users\8b\source\repos\kvadranti\kvadranti\bin\Debug\netcoreapp2.1\kvadranti.pdb
+C:\Users\8b\source\repos\kvadranti\kvadranti\obj\Debug\netcoreapp2.1\kvadranti.csprojAssemblyReference.cache
+C:\Users\8b\source\repos\kvadranti\kvadranti\obj\Debug\netcoreapp2.1\kvadranti.csproj.CoreCompileInputs.cache
+C:\Users\8b\source\repos\kvadranti\kvadranti\obj\Debug\netcoreapp2.1\kvadranti.AssemblyInfoInputs.cache
+C:\Users\8b\source\repos\kvadranti\kvadranti\obj\Debug\netcoreapp2.1\kvadranti.AssemblyInfo.cs
+C:\Users\8b\source\repos\kvadranti\kvadranti\obj\Debug\netcoreapp2.1\kvadranti.dll
+C:\Users\8b\source\repos\kvadranti\kvadranti\obj\Debug\netcoreapp2.1\kvadranti.pdb
