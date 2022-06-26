@@ -1,0 +1,32 @@
+C:\Users\Nasko\source\repos\m03\m03\obj\Debug\net5.0\m03.csproj.AssemblyReference.cache
+C:\Users\Nasko\source\repos\m03\m03\obj\Debug\net5.0\m03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nasko\source\repos\m03\m03\obj\Debug\net5.0\m03.AssemblyInfoInputs.cache
+C:\Users\Nasko\source\repos\m03\m03\obj\Debug\net5.0\m03.AssemblyInfo.cs
+C:\Users\Nasko\source\repos\m03\m03\obj\Debug\net5.0\m03.csproj.CoreCompileInputs.cache
+C:\Users\Nasko\source\repos\m03\m03\bin\Debug\net5.0\m03.exe
+C:\Users\Nasko\source\repos\m03\m03\bin\Debug\net5.0\m03.deps.json
+C:\Users\Nasko\source\repos\m03\m03\bin\Debug\net5.0\m03.runtimeconfig.json
+C:\Users\Nasko\source\repos\m03\m03\bin\Debug\net5.0\m03.runtimeconfig.dev.json
+C:\Users\Nasko\source\repos\m03\m03\bin\Debug\net5.0\m03.dll
+C:\Users\Nasko\source\repos\m03\m03\bin\Debug\net5.0\ref\m03.dll
+C:\Users\Nasko\source\repos\m03\m03\bin\Debug\net5.0\m03.pdb
+C:\Users\Nasko\source\repos\m03\m03\obj\Debug\net5.0\m03.dll
+C:\Users\Nasko\source\repos\m03\m03\obj\Debug\net5.0\ref\m03.dll
+C:\Users\Nasko\source\repos\m03\m03\obj\Debug\net5.0\m03.pdb
+C:\Users\Nasko\source\repos\m03\m03\obj\Debug\net5.0\m03.genruntimeconfig.cache
+E:\work stuff\m03\m03\bin\Debug\net5.0\m03.exe
+E:\work stuff\m03\m03\bin\Debug\net5.0\m03.deps.json
+E:\work stuff\m03\m03\bin\Debug\net5.0\m03.runtimeconfig.json
+E:\work stuff\m03\m03\bin\Debug\net5.0\m03.runtimeconfig.dev.json
+E:\work stuff\m03\m03\bin\Debug\net5.0\m03.dll
+E:\work stuff\m03\m03\bin\Debug\net5.0\m03.pdb
+E:\work stuff\m03\m03\obj\Debug\net5.0\m03.csproj.AssemblyReference.cache
+E:\work stuff\m03\m03\obj\Debug\net5.0\m03.GeneratedMSBuildEditorConfig.editorconfig
+E:\work stuff\m03\m03\obj\Debug\net5.0\m03.AssemblyInfoInputs.cache
+E:\work stuff\m03\m03\obj\Debug\net5.0\m03.AssemblyInfo.cs
+E:\work stuff\m03\m03\obj\Debug\net5.0\m03.csproj.CoreCompileInputs.cache
+E:\work stuff\m03\m03\obj\Debug\net5.0\m03.dll
+E:\work stuff\m03\m03\obj\Debug\net5.0\refint\m03.dll
+E:\work stuff\m03\m03\obj\Debug\net5.0\m03.pdb
+E:\work stuff\m03\m03\obj\Debug\net5.0\m03.genruntimeconfig.cache
+E:\work stuff\m03\m03\obj\Debug\net5.0\ref\m03.dll

@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "10ed4d4f-7bb7-414a-b770-6dc4ad56ae38": {
+      "ProjectGuid": "10ed4d4f-7bb7-414a-b770-6dc4ad56ae38",
+      "DisplayName": "m03",
+      "ColorIndex": 0
+    },
+    "652eedc1-fd42-4962-86e9-dd052a1b6cad": {
+      "ProjectGuid": "652eedc1-fd42-4962-86e9-dd052a1b6cad",
+      "DisplayName": "Person definer",
+      "ColorIndex": 1
+    },
+    "b24a7c69-405b-4dea-be2a-53abdcbb8b60": {
+      "ProjectGuid": "b24a7c69-405b-4dea-be2a-53abdcbb8b60",
+      "DisplayName": "family",
+      "ColorIndex": 2
+    },
+    "459e62db-df90-4383-9e0a-a6de38da055e": {
+      "ProjectGuid": "459e62db-df90-4383-9e0a-a6de38da055e",
+      "DisplayName": "People Statistics",
+      "ColorIndex": 3
+    },
+    "5c95742e-9541-41ec-8677-296137289d03": {
+      "ProjectGuid": "5c95742e-9541-41ec-8677-296137289d03",
+      "DisplayName": "Subranie na 29.04",
+      "ColorIndex": 4
+    },
+    "cb39fd94-0373-4778-8c4f-06d6f86ffd52": {
+      "ProjectGuid": "cb39fd94-0373-4778-8c4f-06d6f86ffd52",
+      "DisplayName": "Spisuk na slujiteli",
+      "ColorIndex": 5
+    }
+  },
+  "NextColorIndex": 6
+}

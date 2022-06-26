@@ -1,0 +1,15 @@
+C:\Users\Nasko\source\repos\m03\Bankova smetka\bin\Debug\net5.0\Bankova smetka.exe
+C:\Users\Nasko\source\repos\m03\Bankova smetka\bin\Debug\net5.0\Bankova smetka.deps.json
+C:\Users\Nasko\source\repos\m03\Bankova smetka\bin\Debug\net5.0\Bankova smetka.runtimeconfig.json
+C:\Users\Nasko\source\repos\m03\Bankova smetka\bin\Debug\net5.0\Bankova smetka.runtimeconfig.dev.json
+C:\Users\Nasko\source\repos\m03\Bankova smetka\bin\Debug\net5.0\Bankova smetka.dll
+C:\Users\Nasko\source\repos\m03\Bankova smetka\bin\Debug\net5.0\ref\Bankova smetka.dll
+C:\Users\Nasko\source\repos\m03\Bankova smetka\bin\Debug\net5.0\Bankova smetka.pdb
+C:\Users\Nasko\source\repos\m03\Bankova smetka\obj\Debug\net5.0\Bankova smetka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nasko\source\repos\m03\Bankova smetka\obj\Debug\net5.0\Bankova smetka.AssemblyInfoInputs.cache
+C:\Users\Nasko\source\repos\m03\Bankova smetka\obj\Debug\net5.0\Bankova smetka.AssemblyInfo.cs
+C:\Users\Nasko\source\repos\m03\Bankova smetka\obj\Debug\net5.0\Bankova smetka.csproj.CoreCompileInputs.cache
+C:\Users\Nasko\source\repos\m03\Bankova smetka\obj\Debug\net5.0\Bankova smetka.dll
+C:\Users\Nasko\source\repos\m03\Bankova smetka\obj\Debug\net5.0\ref\Bankova smetka.dll
+C:\Users\Nasko\source\repos\m03\Bankova smetka\obj\Debug\net5.0\Bankova smetka.pdb
+C:\Users\Nasko\source\repos\m03\Bankova smetka\obj\Debug\net5.0\Bankova smetka.genruntimeconfig.cache

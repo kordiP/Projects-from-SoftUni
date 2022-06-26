@@ -1,0 +1,16 @@
+C:\Users\Nasko\source\repos\m03\Subranie na 29.04\bin\Debug\net5.0\Subranie na 29.04.exe
+C:\Users\Nasko\source\repos\m03\Subranie na 29.04\bin\Debug\net5.0\Subranie na 29.04.deps.json
+C:\Users\Nasko\source\repos\m03\Subranie na 29.04\bin\Debug\net5.0\Subranie na 29.04.runtimeconfig.json
+C:\Users\Nasko\source\repos\m03\Subranie na 29.04\bin\Debug\net5.0\Subranie na 29.04.runtimeconfig.dev.json
+C:\Users\Nasko\source\repos\m03\Subranie na 29.04\bin\Debug\net5.0\Subranie na 29.04.dll
+C:\Users\Nasko\source\repos\m03\Subranie na 29.04\bin\Debug\net5.0\ref\Subranie na 29.04.dll
+C:\Users\Nasko\source\repos\m03\Subranie na 29.04\bin\Debug\net5.0\Subranie na 29.04.pdb
+C:\Users\Nasko\source\repos\m03\Subranie na 29.04\obj\Debug\net5.0\Subranie na 29.04.csproj.AssemblyReference.cache
+C:\Users\Nasko\source\repos\m03\Subranie na 29.04\obj\Debug\net5.0\Subranie na 29.04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nasko\source\repos\m03\Subranie na 29.04\obj\Debug\net5.0\Subranie na 29.04.AssemblyInfoInputs.cache
+C:\Users\Nasko\source\repos\m03\Subranie na 29.04\obj\Debug\net5.0\Subranie na 29.04.AssemblyInfo.cs
+C:\Users\Nasko\source\repos\m03\Subranie na 29.04\obj\Debug\net5.0\Subranie na 29.04.csproj.CoreCompileInputs.cache
+C:\Users\Nasko\source\repos\m03\Subranie na 29.04\obj\Debug\net5.0\Subranie na 29.04.dll
+C:\Users\Nasko\source\repos\m03\Subranie na 29.04\obj\Debug\net5.0\ref\Subranie na 29.04.dll
+C:\Users\Nasko\source\repos\m03\Subranie na 29.04\obj\Debug\net5.0\Subranie na 29.04.pdb
+C:\Users\Nasko\source\repos\m03\Subranie na 29.04\obj\Debug\net5.0\Subranie na 29.04.genruntimeconfig.cache

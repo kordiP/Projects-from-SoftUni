@@ -1,0 +1,16 @@
+C:\Users\Nasko\source\repos\m03\People Statistics\bin\Debug\net5.0\People Statistics.exe
+C:\Users\Nasko\source\repos\m03\People Statistics\bin\Debug\net5.0\People Statistics.deps.json
+C:\Users\Nasko\source\repos\m03\People Statistics\bin\Debug\net5.0\People Statistics.runtimeconfig.json
+C:\Users\Nasko\source\repos\m03\People Statistics\bin\Debug\net5.0\People Statistics.runtimeconfig.dev.json
+C:\Users\Nasko\source\repos\m03\People Statistics\bin\Debug\net5.0\People Statistics.dll
+C:\Users\Nasko\source\repos\m03\People Statistics\bin\Debug\net5.0\ref\People Statistics.dll
+C:\Users\Nasko\source\repos\m03\People Statistics\bin\Debug\net5.0\People Statistics.pdb
+C:\Users\Nasko\source\repos\m03\People Statistics\obj\Debug\net5.0\People Statistics.csproj.AssemblyReference.cache
+C:\Users\Nasko\source\repos\m03\People Statistics\obj\Debug\net5.0\People Statistics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nasko\source\repos\m03\People Statistics\obj\Debug\net5.0\People Statistics.AssemblyInfoInputs.cache
+C:\Users\Nasko\source\repos\m03\People Statistics\obj\Debug\net5.0\People Statistics.AssemblyInfo.cs
+C:\Users\Nasko\source\repos\m03\People Statistics\obj\Debug\net5.0\People Statistics.csproj.CoreCompileInputs.cache
+C:\Users\Nasko\source\repos\m03\People Statistics\obj\Debug\net5.0\People Statistics.dll
+C:\Users\Nasko\source\repos\m03\People Statistics\obj\Debug\net5.0\ref\People Statistics.dll
+C:\Users\Nasko\source\repos\m03\People Statistics\obj\Debug\net5.0\People Statistics.pdb
+C:\Users\Nasko\source\repos\m03\People Statistics\obj\Debug\net5.0\People Statistics.genruntimeconfig.cache

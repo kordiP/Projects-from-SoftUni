@@ -1,0 +1,32 @@
+C:\Users\Nasko\source\repos\m03\family\bin\Debug\net5.0\family.exe
+C:\Users\Nasko\source\repos\m03\family\bin\Debug\net5.0\family.deps.json
+C:\Users\Nasko\source\repos\m03\family\bin\Debug\net5.0\family.runtimeconfig.json
+C:\Users\Nasko\source\repos\m03\family\bin\Debug\net5.0\family.runtimeconfig.dev.json
+C:\Users\Nasko\source\repos\m03\family\bin\Debug\net5.0\family.dll
+C:\Users\Nasko\source\repos\m03\family\bin\Debug\net5.0\ref\family.dll
+C:\Users\Nasko\source\repos\m03\family\bin\Debug\net5.0\family.pdb
+C:\Users\Nasko\source\repos\m03\family\obj\Debug\net5.0\family.csproj.AssemblyReference.cache
+C:\Users\Nasko\source\repos\m03\family\obj\Debug\net5.0\family.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nasko\source\repos\m03\family\obj\Debug\net5.0\family.AssemblyInfoInputs.cache
+C:\Users\Nasko\source\repos\m03\family\obj\Debug\net5.0\family.AssemblyInfo.cs
+C:\Users\Nasko\source\repos\m03\family\obj\Debug\net5.0\family.csproj.CoreCompileInputs.cache
+C:\Users\Nasko\source\repos\m03\family\obj\Debug\net5.0\family.dll
+C:\Users\Nasko\source\repos\m03\family\obj\Debug\net5.0\ref\family.dll
+C:\Users\Nasko\source\repos\m03\family\obj\Debug\net5.0\family.pdb
+C:\Users\Nasko\source\repos\m03\family\obj\Debug\net5.0\family.genruntimeconfig.cache
+E:\work stuff\m03\family\bin\Debug\net5.0\family.exe
+E:\work stuff\m03\family\bin\Debug\net5.0\family.deps.json
+E:\work stuff\m03\family\bin\Debug\net5.0\family.runtimeconfig.json
+E:\work stuff\m03\family\bin\Debug\net5.0\family.runtimeconfig.dev.json
+E:\work stuff\m03\family\bin\Debug\net5.0\family.dll
+E:\work stuff\m03\family\bin\Debug\net5.0\family.pdb
+E:\work stuff\m03\family\obj\Debug\net5.0\family.csproj.AssemblyReference.cache
+E:\work stuff\m03\family\obj\Debug\net5.0\family.GeneratedMSBuildEditorConfig.editorconfig
+E:\work stuff\m03\family\obj\Debug\net5.0\family.AssemblyInfoInputs.cache
+E:\work stuff\m03\family\obj\Debug\net5.0\family.AssemblyInfo.cs
+E:\work stuff\m03\family\obj\Debug\net5.0\family.csproj.CoreCompileInputs.cache
+E:\work stuff\m03\family\obj\Debug\net5.0\family.dll
+E:\work stuff\m03\family\obj\Debug\net5.0\refint\family.dll
+E:\work stuff\m03\family\obj\Debug\net5.0\family.pdb
+E:\work stuff\m03\family\obj\Debug\net5.0\family.genruntimeconfig.cache
+E:\work stuff\m03\family\obj\Debug\net5.0\ref\family.dll
