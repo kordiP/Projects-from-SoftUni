@@ -1,0 +1,16 @@
+C:\Users\Nasko\source\repos\matrix_assignment\matrix_assignment\bin\Debug\net5.0\matrix_assignment.exe
+C:\Users\Nasko\source\repos\matrix_assignment\matrix_assignment\bin\Debug\net5.0\matrix_assignment.deps.json
+C:\Users\Nasko\source\repos\matrix_assignment\matrix_assignment\bin\Debug\net5.0\matrix_assignment.runtimeconfig.json
+C:\Users\Nasko\source\repos\matrix_assignment\matrix_assignment\bin\Debug\net5.0\matrix_assignment.runtimeconfig.dev.json
+C:\Users\Nasko\source\repos\matrix_assignment\matrix_assignment\bin\Debug\net5.0\matrix_assignment.dll
+C:\Users\Nasko\source\repos\matrix_assignment\matrix_assignment\bin\Debug\net5.0\ref\matrix_assignment.dll
+C:\Users\Nasko\source\repos\matrix_assignment\matrix_assignment\bin\Debug\net5.0\matrix_assignment.pdb
+C:\Users\Nasko\source\repos\matrix_assignment\matrix_assignment\obj\Debug\net5.0\matrix_assignment.csproj.AssemblyReference.cache
+C:\Users\Nasko\source\repos\matrix_assignment\matrix_assignment\obj\Debug\net5.0\matrix_assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nasko\source\repos\matrix_assignment\matrix_assignment\obj\Debug\net5.0\matrix_assignment.AssemblyInfoInputs.cache
+C:\Users\Nasko\source\repos\matrix_assignment\matrix_assignment\obj\Debug\net5.0\matrix_assignment.AssemblyInfo.cs
+C:\Users\Nasko\source\repos\matrix_assignment\matrix_assignment\obj\Debug\net5.0\matrix_assignment.csproj.CoreCompileInputs.cache
+C:\Users\Nasko\source\repos\matrix_assignment\matrix_assignment\obj\Debug\net5.0\matrix_assignment.dll
+C:\Users\Nasko\source\repos\matrix_assignment\matrix_assignment\obj\Debug\net5.0\ref\matrix_assignment.dll
+C:\Users\Nasko\source\repos\matrix_assignment\matrix_assignment\obj\Debug\net5.0\matrix_assignment.pdb
+C:\Users\Nasko\source\repos\matrix_assignment\matrix_assignment\obj\Debug\net5.0\matrix_assignment.genruntimeconfig.cache
