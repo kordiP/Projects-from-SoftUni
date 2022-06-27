@@ -1,0 +1,14 @@
+C:\Users\Nasko\source\repos\max\max\bin\Debug\max.exe.config
+C:\Users\Nasko\source\repos\max\max\bin\Debug\max.exe
+C:\Users\Nasko\source\repos\max\max\bin\Debug\max.pdb
+C:\Users\Nasko\source\repos\max\max\obj\Debug\max.csprojAssemblyReference.cache
+C:\Users\Nasko\source\repos\max\max\obj\Debug\max.csproj.CoreCompileInputs.cache
+C:\Users\Nasko\source\repos\max\max\obj\Debug\max.exe
+C:\Users\Nasko\source\repos\max\max\obj\Debug\max.pdb
+F:\work stuff\max\max\bin\Debug\max.exe.config
+F:\work stuff\max\max\bin\Debug\max.exe
+F:\work stuff\max\max\bin\Debug\max.pdb
+F:\work stuff\max\max\obj\Debug\max.csprojAssemblyReference.cache
+F:\work stuff\max\max\obj\Debug\max.csproj.CoreCompileInputs.cache
+F:\work stuff\max\max\obj\Debug\max.exe
+F:\work stuff\max\max\obj\Debug\max.pdb
