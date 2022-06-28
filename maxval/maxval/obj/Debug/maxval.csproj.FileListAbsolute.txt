@@ -1,0 +1,6 @@
+C:\Users\ROG\source\repos\maxval\maxval\bin\Debug\maxval.exe.config
+C:\Users\ROG\source\repos\maxval\maxval\bin\Debug\maxval.exe
+C:\Users\ROG\source\repos\maxval\maxval\bin\Debug\maxval.pdb
+C:\Users\ROG\source\repos\maxval\maxval\obj\Debug\maxval.csproj.CoreCompileInputs.cache
+C:\Users\ROG\source\repos\maxval\maxval\obj\Debug\maxval.exe
+C:\Users\ROG\source\repos\maxval\maxval\obj\Debug\maxval.pdb
