@@ -1,0 +1,7 @@
+D:\work stuff\meseci\meseci\bin\Debug\meseci.exe.config
+D:\work stuff\meseci\meseci\bin\Debug\meseci.exe
+D:\work stuff\meseci\meseci\bin\Debug\meseci.pdb
+D:\work stuff\meseci\meseci\obj\Debug\meseci.csprojAssemblyReference.cache
+D:\work stuff\meseci\meseci\obj\Debug\meseci.csproj.CoreCompileInputs.cache
+D:\work stuff\meseci\meseci\obj\Debug\meseci.exe
+D:\work stuff\meseci\meseci\obj\Debug\meseci.pdb
