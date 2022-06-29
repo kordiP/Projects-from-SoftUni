@@ -1,0 +1,16 @@
+C:\Users\Nasko\source\repos\modul 2\phx_grid\bin\Debug\net5.0\phx_grid.exe
+C:\Users\Nasko\source\repos\modul 2\phx_grid\bin\Debug\net5.0\phx_grid.deps.json
+C:\Users\Nasko\source\repos\modul 2\phx_grid\bin\Debug\net5.0\phx_grid.runtimeconfig.json
+C:\Users\Nasko\source\repos\modul 2\phx_grid\bin\Debug\net5.0\phx_grid.runtimeconfig.dev.json
+C:\Users\Nasko\source\repos\modul 2\phx_grid\bin\Debug\net5.0\phx_grid.dll
+C:\Users\Nasko\source\repos\modul 2\phx_grid\bin\Debug\net5.0\ref\phx_grid.dll
+C:\Users\Nasko\source\repos\modul 2\phx_grid\bin\Debug\net5.0\phx_grid.pdb
+C:\Users\Nasko\source\repos\modul 2\phx_grid\obj\Debug\net5.0\phx_grid.csproj.AssemblyReference.cache
+C:\Users\Nasko\source\repos\modul 2\phx_grid\obj\Debug\net5.0\phx_grid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nasko\source\repos\modul 2\phx_grid\obj\Debug\net5.0\phx_grid.AssemblyInfoInputs.cache
+C:\Users\Nasko\source\repos\modul 2\phx_grid\obj\Debug\net5.0\phx_grid.AssemblyInfo.cs
+C:\Users\Nasko\source\repos\modul 2\phx_grid\obj\Debug\net5.0\phx_grid.csproj.CoreCompileInputs.cache
+C:\Users\Nasko\source\repos\modul 2\phx_grid\obj\Debug\net5.0\phx_grid.dll
+C:\Users\Nasko\source\repos\modul 2\phx_grid\obj\Debug\net5.0\ref\phx_grid.dll
+C:\Users\Nasko\source\repos\modul 2\phx_grid\obj\Debug\net5.0\phx_grid.pdb
+C:\Users\Nasko\source\repos\modul 2\phx_grid\obj\Debug\net5.0\phx_grid.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\Nasko\source\repos\modul 2\LearnMethods\bin\Debug\net6.0\LearnMethods.exe
+C:\Users\Nasko\source\repos\modul 2\LearnMethods\bin\Debug\net6.0\LearnMethods.deps.json
+C:\Users\Nasko\source\repos\modul 2\LearnMethods\bin\Debug\net6.0\LearnMethods.runtimeconfig.json
+C:\Users\Nasko\source\repos\modul 2\LearnMethods\bin\Debug\net6.0\LearnMethods.dll
+C:\Users\Nasko\source\repos\modul 2\LearnMethods\bin\Debug\net6.0\ref\LearnMethods.dll
+C:\Users\Nasko\source\repos\modul 2\LearnMethods\bin\Debug\net6.0\LearnMethods.pdb
+C:\Users\Nasko\source\repos\modul 2\LearnMethods\obj\Debug\net6.0\LearnMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nasko\source\repos\modul 2\LearnMethods\obj\Debug\net6.0\LearnMethods.AssemblyInfoInputs.cache
+C:\Users\Nasko\source\repos\modul 2\LearnMethods\obj\Debug\net6.0\LearnMethods.AssemblyInfo.cs
+C:\Users\Nasko\source\repos\modul 2\LearnMethods\obj\Debug\net6.0\LearnMethods.csproj.CoreCompileInputs.cache
+C:\Users\Nasko\source\repos\modul 2\LearnMethods\obj\Debug\net6.0\LearnMethods.dll
+C:\Users\Nasko\source\repos\modul 2\LearnMethods\obj\Debug\net6.0\ref\LearnMethods.dll
+C:\Users\Nasko\source\repos\modul 2\LearnMethods\obj\Debug\net6.0\LearnMethods.pdb
+C:\Users\Nasko\source\repos\modul 2\LearnMethods\obj\Debug\net6.0\LearnMethods.genruntimeconfig.cache
+C:\Users\Nasko\source\repos\modul 2\LearnMethods\obj\Debug\net6.0\LearnMethods.csproj.AssemblyReference.cache

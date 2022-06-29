@@ -1,0 +1,15 @@
+C:\Users\Nasko\source\repos\modul 2\nai chesto sreshtano masiv\bin\Debug\net6.0\nai chesto sreshtano masiv.exe
+C:\Users\Nasko\source\repos\modul 2\nai chesto sreshtano masiv\bin\Debug\net6.0\nai chesto sreshtano masiv.deps.json
+C:\Users\Nasko\source\repos\modul 2\nai chesto sreshtano masiv\bin\Debug\net6.0\nai chesto sreshtano masiv.runtimeconfig.json
+C:\Users\Nasko\source\repos\modul 2\nai chesto sreshtano masiv\bin\Debug\net6.0\nai chesto sreshtano masiv.dll
+C:\Users\Nasko\source\repos\modul 2\nai chesto sreshtano masiv\bin\Debug\net6.0\ref\nai chesto sreshtano masiv.dll
+C:\Users\Nasko\source\repos\modul 2\nai chesto sreshtano masiv\bin\Debug\net6.0\nai chesto sreshtano masiv.pdb
+C:\Users\Nasko\source\repos\modul 2\nai chesto sreshtano masiv\obj\Debug\net6.0\nai chesto sreshtano masiv.csproj.AssemblyReference.cache
+C:\Users\Nasko\source\repos\modul 2\nai chesto sreshtano masiv\obj\Debug\net6.0\nai chesto sreshtano masiv.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nasko\source\repos\modul 2\nai chesto sreshtano masiv\obj\Debug\net6.0\nai chesto sreshtano masiv.AssemblyInfoInputs.cache
+C:\Users\Nasko\source\repos\modul 2\nai chesto sreshtano masiv\obj\Debug\net6.0\nai chesto sreshtano masiv.AssemblyInfo.cs
+C:\Users\Nasko\source\repos\modul 2\nai chesto sreshtano masiv\obj\Debug\net6.0\nai chesto sreshtano masiv.csproj.CoreCompileInputs.cache
+C:\Users\Nasko\source\repos\modul 2\nai chesto sreshtano masiv\obj\Debug\net6.0\nai chesto sreshtano masiv.dll
+C:\Users\Nasko\source\repos\modul 2\nai chesto sreshtano masiv\obj\Debug\net6.0\ref\nai chesto sreshtano masiv.dll
+C:\Users\Nasko\source\repos\modul 2\nai chesto sreshtano masiv\obj\Debug\net6.0\nai chesto sreshtano masiv.pdb
+C:\Users\Nasko\source\repos\modul 2\nai chesto sreshtano masiv\obj\Debug\net6.0\nai chesto sreshtano masiv.genruntimeconfig.cache

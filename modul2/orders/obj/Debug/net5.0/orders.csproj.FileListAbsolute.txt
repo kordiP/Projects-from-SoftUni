@@ -1,0 +1,16 @@
+C:\Users\Nasko\source\repos\modul 2\orders\bin\Debug\net5.0\orders.exe
+C:\Users\Nasko\source\repos\modul 2\orders\bin\Debug\net5.0\orders.deps.json
+C:\Users\Nasko\source\repos\modul 2\orders\bin\Debug\net5.0\orders.runtimeconfig.json
+C:\Users\Nasko\source\repos\modul 2\orders\bin\Debug\net5.0\orders.runtimeconfig.dev.json
+C:\Users\Nasko\source\repos\modul 2\orders\bin\Debug\net5.0\orders.dll
+C:\Users\Nasko\source\repos\modul 2\orders\bin\Debug\net5.0\ref\orders.dll
+C:\Users\Nasko\source\repos\modul 2\orders\bin\Debug\net5.0\orders.pdb
+C:\Users\Nasko\source\repos\modul 2\orders\obj\Debug\net5.0\orders.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nasko\source\repos\modul 2\orders\obj\Debug\net5.0\orders.AssemblyInfoInputs.cache
+C:\Users\Nasko\source\repos\modul 2\orders\obj\Debug\net5.0\orders.AssemblyInfo.cs
+C:\Users\Nasko\source\repos\modul 2\orders\obj\Debug\net5.0\orders.csproj.CoreCompileInputs.cache
+C:\Users\Nasko\source\repos\modul 2\orders\obj\Debug\net5.0\orders.dll
+C:\Users\Nasko\source\repos\modul 2\orders\obj\Debug\net5.0\ref\orders.dll
+C:\Users\Nasko\source\repos\modul 2\orders\obj\Debug\net5.0\orders.pdb
+C:\Users\Nasko\source\repos\modul 2\orders\obj\Debug\net5.0\orders.genruntimeconfig.cache
+C:\Users\Nasko\source\repos\modul 2\orders\obj\Debug\net5.0\orders.csproj.AssemblyReference.cache

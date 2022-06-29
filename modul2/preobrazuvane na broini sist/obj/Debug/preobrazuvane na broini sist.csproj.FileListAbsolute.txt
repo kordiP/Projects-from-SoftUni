@@ -1,0 +1,8 @@
+C:\Users\Nasko\source\repos\modul 2\preobrazuvane na broini sist\bin\Debug\preobrazuvane na broini sist.exe.config
+C:\Users\Nasko\source\repos\modul 2\preobrazuvane na broini sist\bin\Debug\preobrazuvane na broini sist.exe
+C:\Users\Nasko\source\repos\modul 2\preobrazuvane na broini sist\bin\Debug\preobrazuvane na broini sist.pdb
+C:\Users\Nasko\source\repos\modul 2\preobrazuvane na broini sist\obj\Debug\preobrazuvane na broini sist.csproj.AssemblyReference.cache
+C:\Users\Nasko\source\repos\modul 2\preobrazuvane na broini sist\obj\Debug\preobrazuvane na broini sist.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nasko\source\repos\modul 2\preobrazuvane na broini sist\obj\Debug\preobrazuvane na broini sist.csproj.CoreCompileInputs.cache
+C:\Users\Nasko\source\repos\modul 2\preobrazuvane na broini sist\obj\Debug\preobrazuvane na broini sist.exe
+C:\Users\Nasko\source\repos\modul 2\preobrazuvane na broini sist\obj\Debug\preobrazuvane na broini sist.pdb

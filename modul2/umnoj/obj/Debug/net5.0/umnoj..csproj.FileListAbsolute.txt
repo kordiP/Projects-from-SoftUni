@@ -1,0 +1,15 @@
+C:\Users\Nasko\source\repos\modul 2\umnoj\bin\Debug\net5.0\umnoj..exe
+C:\Users\Nasko\source\repos\modul 2\umnoj\bin\Debug\net5.0\umnoj..deps.json
+C:\Users\Nasko\source\repos\modul 2\umnoj\bin\Debug\net5.0\umnoj..runtimeconfig.json
+C:\Users\Nasko\source\repos\modul 2\umnoj\bin\Debug\net5.0\umnoj..runtimeconfig.dev.json
+C:\Users\Nasko\source\repos\modul 2\umnoj\bin\Debug\net5.0\umnoj..dll
+C:\Users\Nasko\source\repos\modul 2\umnoj\bin\Debug\net5.0\ref\umnoj..dll
+C:\Users\Nasko\source\repos\modul 2\umnoj\bin\Debug\net5.0\umnoj..pdb
+C:\Users\Nasko\source\repos\modul 2\umnoj\obj\Debug\net5.0\umnoj..GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nasko\source\repos\modul 2\umnoj\obj\Debug\net5.0\umnoj..AssemblyInfoInputs.cache
+C:\Users\Nasko\source\repos\modul 2\umnoj\obj\Debug\net5.0\umnoj..AssemblyInfo.cs
+C:\Users\Nasko\source\repos\modul 2\umnoj\obj\Debug\net5.0\umnoj..csproj.CoreCompileInputs.cache
+C:\Users\Nasko\source\repos\modul 2\umnoj\obj\Debug\net5.0\umnoj..dll
+C:\Users\Nasko\source\repos\modul 2\umnoj\obj\Debug\net5.0\ref\umnoj..dll
+C:\Users\Nasko\source\repos\modul 2\umnoj\obj\Debug\net5.0\umnoj..pdb
+C:\Users\Nasko\source\repos\modul 2\umnoj\obj\Debug\net5.0\umnoj..genruntimeconfig.cache

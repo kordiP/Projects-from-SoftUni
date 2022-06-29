@@ -1,0 +1,15 @@
+C:\Users\Nasko\source\repos\modul 2\obrushtane na masiv\bin\Debug\net6.0\obrushtane i zavurtane na masiv.exe
+C:\Users\Nasko\source\repos\modul 2\obrushtane na masiv\bin\Debug\net6.0\obrushtane i zavurtane na masiv.deps.json
+C:\Users\Nasko\source\repos\modul 2\obrushtane na masiv\bin\Debug\net6.0\obrushtane i zavurtane na masiv.runtimeconfig.json
+C:\Users\Nasko\source\repos\modul 2\obrushtane na masiv\bin\Debug\net6.0\obrushtane i zavurtane na masiv.dll
+C:\Users\Nasko\source\repos\modul 2\obrushtane na masiv\bin\Debug\net6.0\ref\obrushtane i zavurtane na masiv.dll
+C:\Users\Nasko\source\repos\modul 2\obrushtane na masiv\bin\Debug\net6.0\obrushtane i zavurtane na masiv.pdb
+C:\Users\Nasko\source\repos\modul 2\obrushtane na masiv\obj\Debug\net6.0\obrushtane i zavurtane na masiv.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nasko\source\repos\modul 2\obrushtane na masiv\obj\Debug\net6.0\obrushtane i zavurtane na masiv.AssemblyInfoInputs.cache
+C:\Users\Nasko\source\repos\modul 2\obrushtane na masiv\obj\Debug\net6.0\obrushtane i zavurtane na masiv.AssemblyInfo.cs
+C:\Users\Nasko\source\repos\modul 2\obrushtane na masiv\obj\Debug\net6.0\obrushtane i zavurtane na masiv.csproj.CoreCompileInputs.cache
+C:\Users\Nasko\source\repos\modul 2\obrushtane na masiv\obj\Debug\net6.0\obrushtane i zavurtane na masiv.dll
+C:\Users\Nasko\source\repos\modul 2\obrushtane na masiv\obj\Debug\net6.0\ref\obrushtane i zavurtane na masiv.dll
+C:\Users\Nasko\source\repos\modul 2\obrushtane na masiv\obj\Debug\net6.0\obrushtane i zavurtane na masiv.pdb
+C:\Users\Nasko\source\repos\modul 2\obrushtane na masiv\obj\Debug\net6.0\obrushtane i zavurtane na masiv.genruntimeconfig.cache
+C:\Users\Nasko\source\repos\modul 2\obrushtane na masiv\obj\Debug\net6.0\obrushtane i zavurtane na masiv.csproj.AssemblyReference.cache

@@ -1,0 +1,15 @@
+C:\Users\Nasko\source\repos\modul 2\Sum_big_num\bin\Debug\net6.0\string to int array.exe
+C:\Users\Nasko\source\repos\modul 2\Sum_big_num\bin\Debug\net6.0\string to int array.deps.json
+C:\Users\Nasko\source\repos\modul 2\Sum_big_num\bin\Debug\net6.0\string to int array.runtimeconfig.json
+C:\Users\Nasko\source\repos\modul 2\Sum_big_num\bin\Debug\net6.0\string to int array.dll
+C:\Users\Nasko\source\repos\modul 2\Sum_big_num\bin\Debug\net6.0\ref\string to int array.dll
+C:\Users\Nasko\source\repos\modul 2\Sum_big_num\bin\Debug\net6.0\string to int array.pdb
+C:\Users\Nasko\source\repos\modul 2\Sum_big_num\obj\Debug\net6.0\string to int array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nasko\source\repos\modul 2\Sum_big_num\obj\Debug\net6.0\string to int array.AssemblyInfoInputs.cache
+C:\Users\Nasko\source\repos\modul 2\Sum_big_num\obj\Debug\net6.0\string to int array.AssemblyInfo.cs
+C:\Users\Nasko\source\repos\modul 2\Sum_big_num\obj\Debug\net6.0\string to int array.csproj.CoreCompileInputs.cache
+C:\Users\Nasko\source\repos\modul 2\Sum_big_num\obj\Debug\net6.0\string to int array.dll
+C:\Users\Nasko\source\repos\modul 2\Sum_big_num\obj\Debug\net6.0\ref\string to int array.dll
+C:\Users\Nasko\source\repos\modul 2\Sum_big_num\obj\Debug\net6.0\string to int array.pdb
+C:\Users\Nasko\source\repos\modul 2\Sum_big_num\obj\Debug\net6.0\string to int array.genruntimeconfig.cache
+C:\Users\Nasko\source\repos\modul 2\Sum_big_num\obj\Debug\net6.0\string to int array.csproj.AssemblyReference.cache

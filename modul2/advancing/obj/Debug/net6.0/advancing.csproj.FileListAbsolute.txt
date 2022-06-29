@@ -1,0 +1,15 @@
+C:\Users\Nasko\source\repos\modul 2\advancing\bin\Debug\net6.0\advancing.exe
+C:\Users\Nasko\source\repos\modul 2\advancing\bin\Debug\net6.0\advancing.deps.json
+C:\Users\Nasko\source\repos\modul 2\advancing\bin\Debug\net6.0\advancing.runtimeconfig.json
+C:\Users\Nasko\source\repos\modul 2\advancing\bin\Debug\net6.0\advancing.dll
+C:\Users\Nasko\source\repos\modul 2\advancing\bin\Debug\net6.0\ref\advancing.dll
+C:\Users\Nasko\source\repos\modul 2\advancing\bin\Debug\net6.0\advancing.pdb
+C:\Users\Nasko\source\repos\modul 2\advancing\obj\Debug\net6.0\advancing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nasko\source\repos\modul 2\advancing\obj\Debug\net6.0\advancing.AssemblyInfoInputs.cache
+C:\Users\Nasko\source\repos\modul 2\advancing\obj\Debug\net6.0\advancing.AssemblyInfo.cs
+C:\Users\Nasko\source\repos\modul 2\advancing\obj\Debug\net6.0\advancing.csproj.CoreCompileInputs.cache
+C:\Users\Nasko\source\repos\modul 2\advancing\obj\Debug\net6.0\advancing.dll
+C:\Users\Nasko\source\repos\modul 2\advancing\obj\Debug\net6.0\ref\advancing.dll
+C:\Users\Nasko\source\repos\modul 2\advancing\obj\Debug\net6.0\advancing.pdb
+C:\Users\Nasko\source\repos\modul 2\advancing\obj\Debug\net6.0\advancing.genruntimeconfig.cache
+C:\Users\Nasko\source\repos\modul 2\advancing\obj\Debug\net6.0\advancing.csproj.AssemblyReference.cache

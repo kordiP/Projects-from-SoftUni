@@ -1,0 +1,8 @@
+C:\Users\Nasko\source\repos\modul 2\ladybug\bin\Debug\ladybug.exe.config
+C:\Users\Nasko\source\repos\modul 2\ladybug\bin\Debug\ladybug.exe
+C:\Users\Nasko\source\repos\modul 2\ladybug\bin\Debug\ladybug.pdb
+C:\Users\Nasko\source\repos\modul 2\ladybug\obj\Debug\ladybug.csproj.AssemblyReference.cache
+C:\Users\Nasko\source\repos\modul 2\ladybug\obj\Debug\ladybug.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nasko\source\repos\modul 2\ladybug\obj\Debug\ladybug.csproj.CoreCompileInputs.cache
+C:\Users\Nasko\source\repos\modul 2\ladybug\obj\Debug\ladybug.exe
+C:\Users\Nasko\source\repos\modul 2\ladybug\obj\Debug\ladybug.pdb

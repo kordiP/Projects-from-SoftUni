@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "tf this mf want dawg/1.0.0": {
+        "runtime": {
+          "tf this mf want dawg.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "tf this mf want dawg/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

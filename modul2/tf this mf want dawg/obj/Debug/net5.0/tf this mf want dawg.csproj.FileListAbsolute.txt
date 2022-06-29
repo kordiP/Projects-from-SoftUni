@@ -1,0 +1,16 @@
+C:\Users\Nasko\source\repos\modul 2\tf this mf want dawg\bin\Debug\net5.0\tf this mf want dawg.exe
+C:\Users\Nasko\source\repos\modul 2\tf this mf want dawg\bin\Debug\net5.0\tf this mf want dawg.deps.json
+C:\Users\Nasko\source\repos\modul 2\tf this mf want dawg\bin\Debug\net5.0\tf this mf want dawg.runtimeconfig.json
+C:\Users\Nasko\source\repos\modul 2\tf this mf want dawg\bin\Debug\net5.0\tf this mf want dawg.runtimeconfig.dev.json
+C:\Users\Nasko\source\repos\modul 2\tf this mf want dawg\bin\Debug\net5.0\tf this mf want dawg.dll
+C:\Users\Nasko\source\repos\modul 2\tf this mf want dawg\bin\Debug\net5.0\ref\tf this mf want dawg.dll
+C:\Users\Nasko\source\repos\modul 2\tf this mf want dawg\bin\Debug\net5.0\tf this mf want dawg.pdb
+C:\Users\Nasko\source\repos\modul 2\tf this mf want dawg\obj\Debug\net5.0\tf this mf want dawg.csproj.AssemblyReference.cache
+C:\Users\Nasko\source\repos\modul 2\tf this mf want dawg\obj\Debug\net5.0\tf this mf want dawg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nasko\source\repos\modul 2\tf this mf want dawg\obj\Debug\net5.0\tf this mf want dawg.AssemblyInfoInputs.cache
+C:\Users\Nasko\source\repos\modul 2\tf this mf want dawg\obj\Debug\net5.0\tf this mf want dawg.AssemblyInfo.cs
+C:\Users\Nasko\source\repos\modul 2\tf this mf want dawg\obj\Debug\net5.0\tf this mf want dawg.csproj.CoreCompileInputs.cache
+C:\Users\Nasko\source\repos\modul 2\tf this mf want dawg\obj\Debug\net5.0\tf this mf want dawg.dll
+C:\Users\Nasko\source\repos\modul 2\tf this mf want dawg\obj\Debug\net5.0\ref\tf this mf want dawg.dll
+C:\Users\Nasko\source\repos\modul 2\tf this mf want dawg\obj\Debug\net5.0\tf this mf want dawg.pdb
+C:\Users\Nasko\source\repos\modul 2\tf this mf want dawg\obj\Debug\net5.0\tf this mf want dawg.genruntimeconfig.cache

@@ -1,0 +1,206 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "7b9ce9ab-c05b-4951-8f7a-9153b47add0f": {
+      "ProjectGuid": "7b9ce9ab-c05b-4951-8f7a-9153b47add0f",
+      "DisplayName": "umna raota",
+      "ColorIndex": 0
+    },
+    "b821228d-ffab-49f4-b632-b913803636cf": {
+      "ProjectGuid": "b821228d-ffab-49f4-b632-b913803636cf",
+      "DisplayName": "gaden nachin",
+      "ColorIndex": 1
+    },
+    "de5c2061-8ad0-425f-b103-8c8a55f4cacf": {
+      "ProjectGuid": "de5c2061-8ad0-425f-b103-8c8a55f4cacf",
+      "DisplayName": "ConsoleApp1",
+      "ColorIndex": 2
+    },
+    "b4a7f9ad-b8dc-4711-9128-b161b7364d2d": {
+      "ProjectGuid": "b4a7f9ad-b8dc-4711-9128-b161b7364d2d",
+      "DisplayName": "preobrazuvane na broini sist",
+      "ColorIndex": 3
+    },
+    "72f20220-c28c-4f14-af27-639ca57cfce2": {
+      "ProjectGuid": "72f20220-c28c-4f14-af27-639ca57cfce2",
+      "DisplayName": "vekove kum minuti",
+      "ColorIndex": 4
+    },
+    "15662f2c-3322-4694-b8d9-597d535dc86b": {
+      "ProjectGuid": "15662f2c-3322-4694-b8d9-597d535dc86b",
+      "DisplayName": "masivi start",
+      "ColorIndex": 5
+    },
+    "63f69087-f27c-4552-b89a-2244024463b8": {
+      "ProjectGuid": "63f69087-f27c-4552-b89a-2244024463b8",
+      "DisplayName": "sbor na masiv",
+      "ColorIndex": 6
+    },
+    "73ddb897-6af2-467c-9cf8-ac71b30d3c30": {
+      "ProjectGuid": "73ddb897-6af2-467c-9cf8-ac71b30d3c30",
+      "DisplayName": "nai chesto sreshtano masiv",
+      "ColorIndex": 7
+    },
+    "62d39a50-0163-42e1-8ee8-122611117dd7": {
+      "ProjectGuid": "62d39a50-0163-42e1-8ee8-122611117dd7",
+      "DisplayName": "masiv na edin red sus separatori",
+      "ColorIndex": 8
+    },
+    "c7d6197e-4cf6-432e-aa78-1a8756319d64": {
+      "ProjectGuid": "c7d6197e-4cf6-432e-aa78-1a8756319d64",
+      "DisplayName": "nai chesto sreshtano chislo",
+      "ColorIndex": 9
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "1f5b61d5-96d7-4b70-a323-735088af32fe": {
+      "ProjectGuid": "1f5b61d5-96d7-4b70-a323-735088af32fe",
+      "DisplayName": "obrushtane na masiv",
+      "ColorIndex": 10
+    },
+    "65f7c1ad-89a6-4b7d-9763-2922de2c5597": {
+      "ProjectGuid": "65f7c1ad-89a6-4b7d-9763-2922de2c5597",
+      "DisplayName": "statistika na masiv",
+      "ColorIndex": 11
+    },
+    "b81d420f-0ee1-4171-ba8e-b9daea6f2c58": {
+      "ProjectGuid": "b81d420f-0ee1-4171-ba8e-b9daea6f2c58",
+      "DisplayName": "advancing",
+      "ColorIndex": 12
+    },
+    "b3d174c0-717d-4f13-b3d8-d8b0f152895a": {
+      "ProjectGuid": "b3d174c0-717d-4f13-b3d8-d8b0f152895a",
+      "DisplayName": "obrushtane i zavurtane na masiv",
+      "ColorIndex": 13
+    },
+    "20191df3-5efd-409b-9069-bcdc8fabc756": {
+      "ProjectGuid": "20191df3-5efd-409b-9069-bcdc8fabc756",
+      "DisplayName": "ladybug",
+      "ColorIndex": 14
+    },
+    "11aa5f26-84bb-4f5c-9fbd-31adee7859aa": {
+      "ProjectGuid": "11aa5f26-84bb-4f5c-9fbd-31adee7859aa",
+      "DisplayName": "boko",
+      "ColorIndex": 15
+    },
+    "74cc1e25-3d33-4c56-9580-ff9223f18211": {
+      "ProjectGuid": "74cc1e25-3d33-4c56-9580-ff9223f18211",
+      "DisplayName": "ladybug correct",
+      "ColorIndex": 0
+    },
+    "56ecfd2f-4138-4221-b94f-bccefe9f0bf6": {
+      "ProjectGuid": "56ecfd2f-4138-4221-b94f-bccefe9f0bf6",
+      "DisplayName": "maks ploshtadka",
+      "ColorIndex": 1
+    },
+    "bf9b87fe-182a-4aab-b3fc-4872e22cd81e": {
+      "ProjectGuid": "bf9b87fe-182a-4aab-b3fc-4872e22cd81e",
+      "DisplayName": "kamino",
+      "ColorIndex": 2
+    },
+    "c4b469a5-372a-431d-918b-be366690d247": {
+      "ProjectGuid": "c4b469a5-372a-431d-918b-be366690d247",
+      "DisplayName": "Anonymous Downsite",
+      "ColorIndex": 3
+    },
+    "86345ccc-cfe2-4634-b18a-8f72c18c9f64": {
+      "ProjectGuid": "86345ccc-cfe2-4634-b18a-8f72c18c9f64",
+      "DisplayName": "anon downsite",
+      "ColorIndex": 4
+    },
+    "b243ca1f-e933-471b-bc81-5eaf9e1f6b3e": {
+      "ProjectGuid": "b243ca1f-e933-471b-bc81-5eaf9e1f6b3e",
+      "DisplayName": "array_work",
+      "ColorIndex": 5
+    },
+    "7c3e524a-f2d0-46a3-9f65-5c12f5ecf83f": {
+      "ProjectGuid": "7c3e524a-f2d0-46a3-9f65-5c12f5ecf83f",
+      "DisplayName": "icarus",
+      "ColorIndex": 6
+    },
+    "f7c3a6d7-a96d-4e0a-b5a8-d84df1c70cde": {
+      "ProjectGuid": "f7c3a6d7-a96d-4e0a-b5a8-d84df1c70cde",
+      "DisplayName": "rainer",
+      "ColorIndex": 7
+    },
+    "953e5e8e-0da3-4206-9b38-07dce5738002": {
+      "ProjectGuid": "953e5e8e-0da3-4206-9b38-07dce5738002",
+      "DisplayName": "LearnMethods",
+      "ColorIndex": 8
+    },
+    "a24719b9-7db4-4809-8848-2519be617af5": {
+      "ProjectGuid": "a24719b9-7db4-4809-8848-2519be617af5",
+      "DisplayName": "magic words",
+      "ColorIndex": 9
+    },
+    "52683f64-88e0-4f50-bb9e-f124eb05ec55": {
+      "ProjectGuid": "52683f64-88e0-4f50-bb9e-f124eb05ec55",
+      "DisplayName": "string to int array",
+      "ColorIndex": 10
+    },
+    "e81464de-27b6-4374-ad77-3038e65222d2": {
+      "ProjectGuid": "e81464de-27b6-4374-ad77-3038e65222d2",
+      "DisplayName": "sbor na golemi chisla",
+      "ColorIndex": 11
+    },
+    "bd5147ee-74da-4f46-a162-133c9ce013ce": {
+      "ProjectGuid": "bd5147ee-74da-4f46-a162-133c9ce013ce",
+      "DisplayName": "umnoj.",
+      "ColorIndex": 12
+    },
+    "591ce59a-d793-419f-a9e6-73a14a4797c7": {
+      "ProjectGuid": "591ce59a-d793-419f-a9e6-73a14a4797c7",
+      "DisplayName": "tf this mf want dawg",
+      "ColorIndex": 13
+    },
+    "ae164556-78a5-4d38-8273-39a6d447736b": {
+      "ProjectGuid": "ae164556-78a5-4d38-8273-39a6d447736b",
+      "DisplayName": "tursene na dumi",
+      "ColorIndex": 14
+    },
+    "81bf80d9-43ea-40da-a63f-18147b2fba5d": {
+      "ProjectGuid": "81bf80d9-43ea-40da-a63f-18147b2fba5d",
+      "DisplayName": "bb scores",
+      "ColorIndex": 15
+    },
+    "788fec2d-7d0e-4274-8feb-6b01fd4bee75": {
+      "ProjectGuid": "788fec2d-7d0e-4274-8feb-6b01fd4bee75",
+      "DisplayName": "Legendary Farming",
+      "ColorIndex": 0
+    },
+    "57e74893-632d-4c8d-ad92-613a5deaf151": {
+      "ProjectGuid": "57e74893-632d-4c8d-ad92-613a5deaf151",
+      "DisplayName": "orders",
+      "ColorIndex": 1
+    },
+    "b9f14fab-a7d9-4147-b949-dc26a8b142fe": {
+      "ProjectGuid": "b9f14fab-a7d9-4147-b949-dc26a8b142fe",
+      "DisplayName": "phx_grid",
+      "ColorIndex": 2
+    },
+    "906d11f1-4fe7-4d49-8143-8b7b5f97ff87": {
+      "ProjectGuid": "906d11f1-4fe7-4d49-8143-8b7b5f97ff87",
+      "DisplayName": "Pheonix_grid",
+      "ColorIndex": 3
+    },
+    "3a8a05d5-d5c9-4a83-8d50-b2284e842d28": {
+      "ProjectGuid": "3a8a05d5-d5c9-4a83-8d50-b2284e842d28",
+      "DisplayName": "EasterEgg",
+      "ColorIndex": 4
+    },
+    "52226042-d7f7-441b-b546-88946755fd68": {
+      "ProjectGuid": "52226042-d7f7-441b-b546-88946755fd68",
+      "DisplayName": "Raincast",
+      "ColorIndex": 5
+    },
+    "1d7f3238-b7da-4e44-91f1-becad8cf896e": {
+      "ProjectGuid": "1d7f3238-b7da-4e44-91f1-becad8cf896e",
+      "DisplayName": "anonymous vox",
+      "ColorIndex": 6
+    }
+  },
+  "NextColorIndex": 7
+}

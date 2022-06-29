@@ -1,0 +1,8 @@
+C:\Users\Nasko\source\repos\modul 2\boko\obj\Debug\boko.csproj.AssemblyReference.cache
+C:\Users\Nasko\source\repos\modul 2\boko\obj\Debug\boko.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nasko\source\repos\modul 2\boko\obj\Debug\boko.csproj.CoreCompileInputs.cache
+C:\Users\Nasko\source\repos\modul 2\boko\bin\Debug\boko.exe.config
+C:\Users\Nasko\source\repos\modul 2\boko\bin\Debug\boko.exe
+C:\Users\Nasko\source\repos\modul 2\boko\bin\Debug\boko.pdb
+C:\Users\Nasko\source\repos\modul 2\boko\obj\Debug\boko.exe
+C:\Users\Nasko\source\repos\modul 2\boko\obj\Debug\boko.pdb

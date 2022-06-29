@@ -1,0 +1,16 @@
+C:\Users\Nasko\source\repos\modul 2\Pheonix_grid\bin\Debug\net5.0\Pheonix_grid.exe
+C:\Users\Nasko\source\repos\modul 2\Pheonix_grid\bin\Debug\net5.0\Pheonix_grid.deps.json
+C:\Users\Nasko\source\repos\modul 2\Pheonix_grid\bin\Debug\net5.0\Pheonix_grid.runtimeconfig.json
+C:\Users\Nasko\source\repos\modul 2\Pheonix_grid\bin\Debug\net5.0\Pheonix_grid.runtimeconfig.dev.json
+C:\Users\Nasko\source\repos\modul 2\Pheonix_grid\bin\Debug\net5.0\Pheonix_grid.dll
+C:\Users\Nasko\source\repos\modul 2\Pheonix_grid\bin\Debug\net5.0\ref\Pheonix_grid.dll
+C:\Users\Nasko\source\repos\modul 2\Pheonix_grid\bin\Debug\net5.0\Pheonix_grid.pdb
+C:\Users\Nasko\source\repos\modul 2\Pheonix_grid\obj\Debug\net5.0\Pheonix_grid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nasko\source\repos\modul 2\Pheonix_grid\obj\Debug\net5.0\Pheonix_grid.AssemblyInfoInputs.cache
+C:\Users\Nasko\source\repos\modul 2\Pheonix_grid\obj\Debug\net5.0\Pheonix_grid.AssemblyInfo.cs
+C:\Users\Nasko\source\repos\modul 2\Pheonix_grid\obj\Debug\net5.0\Pheonix_grid.csproj.CoreCompileInputs.cache
+C:\Users\Nasko\source\repos\modul 2\Pheonix_grid\obj\Debug\net5.0\Pheonix_grid.dll
+C:\Users\Nasko\source\repos\modul 2\Pheonix_grid\obj\Debug\net5.0\ref\Pheonix_grid.dll
+C:\Users\Nasko\source\repos\modul 2\Pheonix_grid\obj\Debug\net5.0\Pheonix_grid.pdb
+C:\Users\Nasko\source\repos\modul 2\Pheonix_grid\obj\Debug\net5.0\Pheonix_grid.genruntimeconfig.cache
+C:\Users\Nasko\source\repos\modul 2\Pheonix_grid\obj\Debug\net5.0\Pheonix_grid.csproj.AssemblyReference.cache

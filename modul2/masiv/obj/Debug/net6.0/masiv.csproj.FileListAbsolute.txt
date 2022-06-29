@@ -1,0 +1,14 @@
+C:\Users\Nasko\source\repos\modul 2\masiv\bin\Debug\net6.0\masiv.exe
+C:\Users\Nasko\source\repos\modul 2\masiv\bin\Debug\net6.0\masiv.deps.json
+C:\Users\Nasko\source\repos\modul 2\masiv\bin\Debug\net6.0\masiv.runtimeconfig.json
+C:\Users\Nasko\source\repos\modul 2\masiv\bin\Debug\net6.0\masiv.dll
+C:\Users\Nasko\source\repos\modul 2\masiv\bin\Debug\net6.0\ref\masiv.dll
+C:\Users\Nasko\source\repos\modul 2\masiv\bin\Debug\net6.0\masiv.pdb
+C:\Users\Nasko\source\repos\modul 2\masiv\obj\Debug\net6.0\masiv.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nasko\source\repos\modul 2\masiv\obj\Debug\net6.0\masiv.AssemblyInfoInputs.cache
+C:\Users\Nasko\source\repos\modul 2\masiv\obj\Debug\net6.0\masiv.AssemblyInfo.cs
+C:\Users\Nasko\source\repos\modul 2\masiv\obj\Debug\net6.0\masiv.csproj.CoreCompileInputs.cache
+C:\Users\Nasko\source\repos\modul 2\masiv\obj\Debug\net6.0\masiv.dll
+C:\Users\Nasko\source\repos\modul 2\masiv\obj\Debug\net6.0\ref\masiv.dll
+C:\Users\Nasko\source\repos\modul 2\masiv\obj\Debug\net6.0\masiv.pdb
+C:\Users\Nasko\source\repos\modul 2\masiv\obj\Debug\net6.0\masiv.genruntimeconfig.cache

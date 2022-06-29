@@ -1,0 +1,15 @@
+C:\Users\Nasko\source\repos\modul 2\nai chesto sreshtano chislo\bin\Debug\net6.0\nai chesto sreshtano chislo.exe
+C:\Users\Nasko\source\repos\modul 2\nai chesto sreshtano chislo\bin\Debug\net6.0\nai chesto sreshtano chislo.deps.json
+C:\Users\Nasko\source\repos\modul 2\nai chesto sreshtano chislo\bin\Debug\net6.0\nai chesto sreshtano chislo.runtimeconfig.json
+C:\Users\Nasko\source\repos\modul 2\nai chesto sreshtano chislo\bin\Debug\net6.0\nai chesto sreshtano chislo.dll
+C:\Users\Nasko\source\repos\modul 2\nai chesto sreshtano chislo\bin\Debug\net6.0\ref\nai chesto sreshtano chislo.dll
+C:\Users\Nasko\source\repos\modul 2\nai chesto sreshtano chislo\bin\Debug\net6.0\nai chesto sreshtano chislo.pdb
+C:\Users\Nasko\source\repos\modul 2\nai chesto sreshtano chislo\obj\Debug\net6.0\nai chesto sreshtano chislo.csproj.AssemblyReference.cache
+C:\Users\Nasko\source\repos\modul 2\nai chesto sreshtano chislo\obj\Debug\net6.0\nai chesto sreshtano chislo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nasko\source\repos\modul 2\nai chesto sreshtano chislo\obj\Debug\net6.0\nai chesto sreshtano chislo.AssemblyInfoInputs.cache
+C:\Users\Nasko\source\repos\modul 2\nai chesto sreshtano chislo\obj\Debug\net6.0\nai chesto sreshtano chislo.AssemblyInfo.cs
+C:\Users\Nasko\source\repos\modul 2\nai chesto sreshtano chislo\obj\Debug\net6.0\nai chesto sreshtano chislo.csproj.CoreCompileInputs.cache
+C:\Users\Nasko\source\repos\modul 2\nai chesto sreshtano chislo\obj\Debug\net6.0\nai chesto sreshtano chislo.dll
+C:\Users\Nasko\source\repos\modul 2\nai chesto sreshtano chislo\obj\Debug\net6.0\ref\nai chesto sreshtano chislo.dll
+C:\Users\Nasko\source\repos\modul 2\nai chesto sreshtano chislo\obj\Debug\net6.0\nai chesto sreshtano chislo.pdb
+C:\Users\Nasko\source\repos\modul 2\nai chesto sreshtano chislo\obj\Debug\net6.0\nai chesto sreshtano chislo.genruntimeconfig.cache

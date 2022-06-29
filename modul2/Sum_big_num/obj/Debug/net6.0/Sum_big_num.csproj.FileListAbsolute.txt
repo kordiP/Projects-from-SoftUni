@@ -1,0 +1,14 @@
+C:\Users\Nasko\source\repos\modul 2\Sum_big_num\bin\Debug\net6.0\Sum_big_num.exe
+C:\Users\Nasko\source\repos\modul 2\Sum_big_num\bin\Debug\net6.0\Sum_big_num.deps.json
+C:\Users\Nasko\source\repos\modul 2\Sum_big_num\bin\Debug\net6.0\Sum_big_num.runtimeconfig.json
+C:\Users\Nasko\source\repos\modul 2\Sum_big_num\bin\Debug\net6.0\Sum_big_num.dll
+C:\Users\Nasko\source\repos\modul 2\Sum_big_num\bin\Debug\net6.0\ref\Sum_big_num.dll
+C:\Users\Nasko\source\repos\modul 2\Sum_big_num\bin\Debug\net6.0\Sum_big_num.pdb
+C:\Users\Nasko\source\repos\modul 2\Sum_big_num\obj\Debug\net6.0\Sum_big_num.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nasko\source\repos\modul 2\Sum_big_num\obj\Debug\net6.0\Sum_big_num.AssemblyInfoInputs.cache
+C:\Users\Nasko\source\repos\modul 2\Sum_big_num\obj\Debug\net6.0\Sum_big_num.AssemblyInfo.cs
+C:\Users\Nasko\source\repos\modul 2\Sum_big_num\obj\Debug\net6.0\Sum_big_num.csproj.CoreCompileInputs.cache
+C:\Users\Nasko\source\repos\modul 2\Sum_big_num\obj\Debug\net6.0\Sum_big_num.dll
+C:\Users\Nasko\source\repos\modul 2\Sum_big_num\obj\Debug\net6.0\ref\Sum_big_num.dll
+C:\Users\Nasko\source\repos\modul 2\Sum_big_num\obj\Debug\net6.0\Sum_big_num.pdb
+C:\Users\Nasko\source\repos\modul 2\Sum_big_num\obj\Debug\net6.0\Sum_big_num.genruntimeconfig.cache

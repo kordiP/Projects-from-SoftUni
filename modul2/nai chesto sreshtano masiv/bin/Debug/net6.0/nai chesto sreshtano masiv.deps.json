@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "nai chesto sreshtano masiv/1.0.0": {
+        "runtime": {
+          "nai chesto sreshtano masiv.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "nai chesto sreshtano masiv/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

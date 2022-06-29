@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "masiv na edin red sus separatori/1.0.0": {
+        "runtime": {
+          "masiv na edin red sus separatori.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "masiv na edin red sus separatori/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,16 @@
+C:\Users\Nasko\source\repos\modul 2\Raincast\bin\Debug\net5.0\Raincast.exe
+C:\Users\Nasko\source\repos\modul 2\Raincast\bin\Debug\net5.0\Raincast.deps.json
+C:\Users\Nasko\source\repos\modul 2\Raincast\bin\Debug\net5.0\Raincast.runtimeconfig.json
+C:\Users\Nasko\source\repos\modul 2\Raincast\bin\Debug\net5.0\Raincast.runtimeconfig.dev.json
+C:\Users\Nasko\source\repos\modul 2\Raincast\bin\Debug\net5.0\Raincast.dll
+C:\Users\Nasko\source\repos\modul 2\Raincast\bin\Debug\net5.0\ref\Raincast.dll
+C:\Users\Nasko\source\repos\modul 2\Raincast\bin\Debug\net5.0\Raincast.pdb
+C:\Users\Nasko\source\repos\modul 2\Raincast\obj\Debug\net5.0\Raincast.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nasko\source\repos\modul 2\Raincast\obj\Debug\net5.0\Raincast.AssemblyInfoInputs.cache
+C:\Users\Nasko\source\repos\modul 2\Raincast\obj\Debug\net5.0\Raincast.AssemblyInfo.cs
+C:\Users\Nasko\source\repos\modul 2\Raincast\obj\Debug\net5.0\Raincast.csproj.CoreCompileInputs.cache
+C:\Users\Nasko\source\repos\modul 2\Raincast\obj\Debug\net5.0\Raincast.dll
+C:\Users\Nasko\source\repos\modul 2\Raincast\obj\Debug\net5.0\ref\Raincast.dll
+C:\Users\Nasko\source\repos\modul 2\Raincast\obj\Debug\net5.0\Raincast.pdb
+C:\Users\Nasko\source\repos\modul 2\Raincast\obj\Debug\net5.0\Raincast.genruntimeconfig.cache
+C:\Users\Nasko\source\repos\modul 2\Raincast\obj\Debug\net5.0\Raincast.csproj.AssemblyReference.cache

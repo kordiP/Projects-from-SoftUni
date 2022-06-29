@@ -1,0 +1,15 @@
+C:\Users\Nasko\source\repos\modul 2\EasterEgg\bin\Debug\net5.0\EasterEgg.exe
+C:\Users\Nasko\source\repos\modul 2\EasterEgg\bin\Debug\net5.0\EasterEgg.deps.json
+C:\Users\Nasko\source\repos\modul 2\EasterEgg\bin\Debug\net5.0\EasterEgg.runtimeconfig.json
+C:\Users\Nasko\source\repos\modul 2\EasterEgg\bin\Debug\net5.0\EasterEgg.runtimeconfig.dev.json
+C:\Users\Nasko\source\repos\modul 2\EasterEgg\bin\Debug\net5.0\EasterEgg.dll
+C:\Users\Nasko\source\repos\modul 2\EasterEgg\bin\Debug\net5.0\ref\EasterEgg.dll
+C:\Users\Nasko\source\repos\modul 2\EasterEgg\bin\Debug\net5.0\EasterEgg.pdb
+C:\Users\Nasko\source\repos\modul 2\EasterEgg\obj\Debug\net5.0\EasterEgg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nasko\source\repos\modul 2\EasterEgg\obj\Debug\net5.0\EasterEgg.AssemblyInfoInputs.cache
+C:\Users\Nasko\source\repos\modul 2\EasterEgg\obj\Debug\net5.0\EasterEgg.AssemblyInfo.cs
+C:\Users\Nasko\source\repos\modul 2\EasterEgg\obj\Debug\net5.0\EasterEgg.csproj.CoreCompileInputs.cache
+C:\Users\Nasko\source\repos\modul 2\EasterEgg\obj\Debug\net5.0\EasterEgg.dll
+C:\Users\Nasko\source\repos\modul 2\EasterEgg\obj\Debug\net5.0\ref\EasterEgg.dll
+C:\Users\Nasko\source\repos\modul 2\EasterEgg\obj\Debug\net5.0\EasterEgg.pdb
+C:\Users\Nasko\source\repos\modul 2\EasterEgg\obj\Debug\net5.0\EasterEgg.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\Nasko\source\repos\modul 2\sbor na golemi chisla\bin\Debug\net5.0\sbor na golemi chisla.exe
+C:\Users\Nasko\source\repos\modul 2\sbor na golemi chisla\bin\Debug\net5.0\sbor na golemi chisla.deps.json
+C:\Users\Nasko\source\repos\modul 2\sbor na golemi chisla\bin\Debug\net5.0\sbor na golemi chisla.runtimeconfig.json
+C:\Users\Nasko\source\repos\modul 2\sbor na golemi chisla\bin\Debug\net5.0\sbor na golemi chisla.runtimeconfig.dev.json
+C:\Users\Nasko\source\repos\modul 2\sbor na golemi chisla\bin\Debug\net5.0\sbor na golemi chisla.dll
+C:\Users\Nasko\source\repos\modul 2\sbor na golemi chisla\bin\Debug\net5.0\ref\sbor na golemi chisla.dll
+C:\Users\Nasko\source\repos\modul 2\sbor na golemi chisla\bin\Debug\net5.0\sbor na golemi chisla.pdb
+C:\Users\Nasko\source\repos\modul 2\sbor na golemi chisla\obj\Debug\net5.0\sbor na golemi chisla.csproj.AssemblyReference.cache
+C:\Users\Nasko\source\repos\modul 2\sbor na golemi chisla\obj\Debug\net5.0\sbor na golemi chisla.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nasko\source\repos\modul 2\sbor na golemi chisla\obj\Debug\net5.0\sbor na golemi chisla.AssemblyInfoInputs.cache
+C:\Users\Nasko\source\repos\modul 2\sbor na golemi chisla\obj\Debug\net5.0\sbor na golemi chisla.AssemblyInfo.cs
+C:\Users\Nasko\source\repos\modul 2\sbor na golemi chisla\obj\Debug\net5.0\sbor na golemi chisla.csproj.CoreCompileInputs.cache
+C:\Users\Nasko\source\repos\modul 2\sbor na golemi chisla\obj\Debug\net5.0\sbor na golemi chisla.dll
+C:\Users\Nasko\source\repos\modul 2\sbor na golemi chisla\obj\Debug\net5.0\ref\sbor na golemi chisla.dll
+C:\Users\Nasko\source\repos\modul 2\sbor na golemi chisla\obj\Debug\net5.0\sbor na golemi chisla.pdb
+C:\Users\Nasko\source\repos\modul 2\sbor na golemi chisla\obj\Debug\net5.0\sbor na golemi chisla.genruntimeconfig.cache

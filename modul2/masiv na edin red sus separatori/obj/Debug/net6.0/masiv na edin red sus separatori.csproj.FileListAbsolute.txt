@@ -1,0 +1,14 @@
+C:\Users\Nasko\source\repos\modul 2\masiv na edin red sus separatori\obj\Debug\net6.0\masiv na edin red sus separatori.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nasko\source\repos\modul 2\masiv na edin red sus separatori\obj\Debug\net6.0\masiv na edin red sus separatori.AssemblyInfoInputs.cache
+C:\Users\Nasko\source\repos\modul 2\masiv na edin red sus separatori\obj\Debug\net6.0\masiv na edin red sus separatori.AssemblyInfo.cs
+C:\Users\Nasko\source\repos\modul 2\masiv na edin red sus separatori\obj\Debug\net6.0\masiv na edin red sus separatori.csproj.CoreCompileInputs.cache
+C:\Users\Nasko\source\repos\modul 2\masiv na edin red sus separatori\bin\Debug\net6.0\masiv na edin red sus separatori.exe
+C:\Users\Nasko\source\repos\modul 2\masiv na edin red sus separatori\bin\Debug\net6.0\masiv na edin red sus separatori.deps.json
+C:\Users\Nasko\source\repos\modul 2\masiv na edin red sus separatori\bin\Debug\net6.0\masiv na edin red sus separatori.runtimeconfig.json
+C:\Users\Nasko\source\repos\modul 2\masiv na edin red sus separatori\bin\Debug\net6.0\masiv na edin red sus separatori.dll
+C:\Users\Nasko\source\repos\modul 2\masiv na edin red sus separatori\bin\Debug\net6.0\ref\masiv na edin red sus separatori.dll
+C:\Users\Nasko\source\repos\modul 2\masiv na edin red sus separatori\bin\Debug\net6.0\masiv na edin red sus separatori.pdb
+C:\Users\Nasko\source\repos\modul 2\masiv na edin red sus separatori\obj\Debug\net6.0\masiv na edin red sus separatori.dll
+C:\Users\Nasko\source\repos\modul 2\masiv na edin red sus separatori\obj\Debug\net6.0\ref\masiv na edin red sus separatori.dll
+C:\Users\Nasko\source\repos\modul 2\masiv na edin red sus separatori\obj\Debug\net6.0\masiv na edin red sus separatori.pdb
+C:\Users\Nasko\source\repos\modul 2\masiv na edin red sus separatori\obj\Debug\net6.0\masiv na edin red sus separatori.genruntimeconfig.cache

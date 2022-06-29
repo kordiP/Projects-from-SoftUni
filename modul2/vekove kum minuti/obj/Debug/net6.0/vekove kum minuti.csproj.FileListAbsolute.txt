@@ -1,0 +1,15 @@
+C:\Users\Nasko\source\repos\modul 2\vekove kum minuti\bin\Debug\net6.0\vekove kum minuti.exe
+C:\Users\Nasko\source\repos\modul 2\vekove kum minuti\bin\Debug\net6.0\vekove kum minuti.deps.json
+C:\Users\Nasko\source\repos\modul 2\vekove kum minuti\bin\Debug\net6.0\vekove kum minuti.runtimeconfig.json
+C:\Users\Nasko\source\repos\modul 2\vekove kum minuti\bin\Debug\net6.0\vekove kum minuti.dll
+C:\Users\Nasko\source\repos\modul 2\vekove kum minuti\bin\Debug\net6.0\ref\vekove kum minuti.dll
+C:\Users\Nasko\source\repos\modul 2\vekove kum minuti\bin\Debug\net6.0\vekove kum minuti.pdb
+C:\Users\Nasko\source\repos\modul 2\vekove kum minuti\obj\Debug\net6.0\vekove kum minuti.csproj.AssemblyReference.cache
+C:\Users\Nasko\source\repos\modul 2\vekove kum minuti\obj\Debug\net6.0\vekove kum minuti.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nasko\source\repos\modul 2\vekove kum minuti\obj\Debug\net6.0\vekove kum minuti.AssemblyInfoInputs.cache
+C:\Users\Nasko\source\repos\modul 2\vekove kum minuti\obj\Debug\net6.0\vekove kum minuti.AssemblyInfo.cs
+C:\Users\Nasko\source\repos\modul 2\vekove kum minuti\obj\Debug\net6.0\vekove kum minuti.csproj.CoreCompileInputs.cache
+C:\Users\Nasko\source\repos\modul 2\vekove kum minuti\obj\Debug\net6.0\vekove kum minuti.dll
+C:\Users\Nasko\source\repos\modul 2\vekove kum minuti\obj\Debug\net6.0\ref\vekove kum minuti.dll
+C:\Users\Nasko\source\repos\modul 2\vekove kum minuti\obj\Debug\net6.0\vekove kum minuti.pdb
+C:\Users\Nasko\source\repos\modul 2\vekove kum minuti\obj\Debug\net6.0\vekove kum minuti.genruntimeconfig.cache

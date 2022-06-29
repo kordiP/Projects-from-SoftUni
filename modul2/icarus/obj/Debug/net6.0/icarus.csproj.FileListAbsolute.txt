@@ -1,0 +1,15 @@
+C:\Users\Nasko\source\repos\modul 2\icarus\bin\Debug\net6.0\icarus.exe
+C:\Users\Nasko\source\repos\modul 2\icarus\bin\Debug\net6.0\icarus.deps.json
+C:\Users\Nasko\source\repos\modul 2\icarus\bin\Debug\net6.0\icarus.runtimeconfig.json
+C:\Users\Nasko\source\repos\modul 2\icarus\bin\Debug\net6.0\icarus.dll
+C:\Users\Nasko\source\repos\modul 2\icarus\bin\Debug\net6.0\ref\icarus.dll
+C:\Users\Nasko\source\repos\modul 2\icarus\bin\Debug\net6.0\icarus.pdb
+C:\Users\Nasko\source\repos\modul 2\icarus\obj\Debug\net6.0\icarus.csproj.AssemblyReference.cache
+C:\Users\Nasko\source\repos\modul 2\icarus\obj\Debug\net6.0\icarus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nasko\source\repos\modul 2\icarus\obj\Debug\net6.0\icarus.AssemblyInfoInputs.cache
+C:\Users\Nasko\source\repos\modul 2\icarus\obj\Debug\net6.0\icarus.AssemblyInfo.cs
+C:\Users\Nasko\source\repos\modul 2\icarus\obj\Debug\net6.0\icarus.csproj.CoreCompileInputs.cache
+C:\Users\Nasko\source\repos\modul 2\icarus\obj\Debug\net6.0\icarus.dll
+C:\Users\Nasko\source\repos\modul 2\icarus\obj\Debug\net6.0\ref\icarus.dll
+C:\Users\Nasko\source\repos\modul 2\icarus\obj\Debug\net6.0\icarus.pdb
+C:\Users\Nasko\source\repos\modul 2\icarus\obj\Debug\net6.0\icarus.genruntimeconfig.cache

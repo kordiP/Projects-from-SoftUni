@@ -1,0 +1,14 @@
+C:\Users\Nasko\source\repos\modul 2\obrushtabe ba masiv\bin\Debug\net6.0\obrushtabe ba masiv.exe
+C:\Users\Nasko\source\repos\modul 2\obrushtabe ba masiv\bin\Debug\net6.0\obrushtabe ba masiv.deps.json
+C:\Users\Nasko\source\repos\modul 2\obrushtabe ba masiv\bin\Debug\net6.0\obrushtabe ba masiv.runtimeconfig.json
+C:\Users\Nasko\source\repos\modul 2\obrushtabe ba masiv\bin\Debug\net6.0\obrushtabe ba masiv.dll
+C:\Users\Nasko\source\repos\modul 2\obrushtabe ba masiv\bin\Debug\net6.0\ref\obrushtabe ba masiv.dll
+C:\Users\Nasko\source\repos\modul 2\obrushtabe ba masiv\bin\Debug\net6.0\obrushtabe ba masiv.pdb
+C:\Users\Nasko\source\repos\modul 2\obrushtabe ba masiv\obj\Debug\net6.0\obrushtabe ba masiv.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nasko\source\repos\modul 2\obrushtabe ba masiv\obj\Debug\net6.0\obrushtabe ba masiv.AssemblyInfoInputs.cache
+C:\Users\Nasko\source\repos\modul 2\obrushtabe ba masiv\obj\Debug\net6.0\obrushtabe ba masiv.AssemblyInfo.cs
+C:\Users\Nasko\source\repos\modul 2\obrushtabe ba masiv\obj\Debug\net6.0\obrushtabe ba masiv.csproj.CoreCompileInputs.cache
+C:\Users\Nasko\source\repos\modul 2\obrushtabe ba masiv\obj\Debug\net6.0\obrushtabe ba masiv.dll
+C:\Users\Nasko\source\repos\modul 2\obrushtabe ba masiv\obj\Debug\net6.0\ref\obrushtabe ba masiv.dll
+C:\Users\Nasko\source\repos\modul 2\obrushtabe ba masiv\obj\Debug\net6.0\obrushtabe ba masiv.pdb
+C:\Users\Nasko\source\repos\modul 2\obrushtabe ba masiv\obj\Debug\net6.0\obrushtabe ba masiv.genruntimeconfig.cache

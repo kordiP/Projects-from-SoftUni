@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "sbor na masiv/1.0.0": {
+        "runtime": {
+          "sbor na masiv.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "sbor na masiv/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

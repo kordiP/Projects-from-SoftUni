@@ -1,0 +1,15 @@
+C:\Users\Nasko\source\repos\modul 2\rainer\bin\Debug\net6.0\rainer.exe
+C:\Users\Nasko\source\repos\modul 2\rainer\bin\Debug\net6.0\rainer.deps.json
+C:\Users\Nasko\source\repos\modul 2\rainer\bin\Debug\net6.0\rainer.runtimeconfig.json
+C:\Users\Nasko\source\repos\modul 2\rainer\bin\Debug\net6.0\rainer.dll
+C:\Users\Nasko\source\repos\modul 2\rainer\bin\Debug\net6.0\ref\rainer.dll
+C:\Users\Nasko\source\repos\modul 2\rainer\bin\Debug\net6.0\rainer.pdb
+C:\Users\Nasko\source\repos\modul 2\rainer\obj\Debug\net6.0\rainer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nasko\source\repos\modul 2\rainer\obj\Debug\net6.0\rainer.AssemblyInfoInputs.cache
+C:\Users\Nasko\source\repos\modul 2\rainer\obj\Debug\net6.0\rainer.AssemblyInfo.cs
+C:\Users\Nasko\source\repos\modul 2\rainer\obj\Debug\net6.0\rainer.csproj.CoreCompileInputs.cache
+C:\Users\Nasko\source\repos\modul 2\rainer\obj\Debug\net6.0\rainer.dll
+C:\Users\Nasko\source\repos\modul 2\rainer\obj\Debug\net6.0\ref\rainer.dll
+C:\Users\Nasko\source\repos\modul 2\rainer\obj\Debug\net6.0\rainer.pdb
+C:\Users\Nasko\source\repos\modul 2\rainer\obj\Debug\net6.0\rainer.genruntimeconfig.cache
+C:\Users\Nasko\source\repos\modul 2\rainer\obj\Debug\net6.0\rainer.csproj.AssemblyReference.cache

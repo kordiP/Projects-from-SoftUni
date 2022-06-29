@@ -1,0 +1,15 @@
+C:\Users\Nasko\source\repos\modul 2\ladybug net core\bin\Debug\net6.0\ladybug net core.exe
+C:\Users\Nasko\source\repos\modul 2\ladybug net core\bin\Debug\net6.0\ladybug net core.deps.json
+C:\Users\Nasko\source\repos\modul 2\ladybug net core\bin\Debug\net6.0\ladybug net core.runtimeconfig.json
+C:\Users\Nasko\source\repos\modul 2\ladybug net core\bin\Debug\net6.0\ladybug net core.dll
+C:\Users\Nasko\source\repos\modul 2\ladybug net core\bin\Debug\net6.0\ref\ladybug net core.dll
+C:\Users\Nasko\source\repos\modul 2\ladybug net core\bin\Debug\net6.0\ladybug net core.pdb
+C:\Users\Nasko\source\repos\modul 2\ladybug net core\obj\Debug\net6.0\ladybug net core.csproj.AssemblyReference.cache
+C:\Users\Nasko\source\repos\modul 2\ladybug net core\obj\Debug\net6.0\ladybug net core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nasko\source\repos\modul 2\ladybug net core\obj\Debug\net6.0\ladybug net core.AssemblyInfoInputs.cache
+C:\Users\Nasko\source\repos\modul 2\ladybug net core\obj\Debug\net6.0\ladybug net core.AssemblyInfo.cs
+C:\Users\Nasko\source\repos\modul 2\ladybug net core\obj\Debug\net6.0\ladybug net core.csproj.CoreCompileInputs.cache
+C:\Users\Nasko\source\repos\modul 2\ladybug net core\obj\Debug\net6.0\ladybug net core.dll
+C:\Users\Nasko\source\repos\modul 2\ladybug net core\obj\Debug\net6.0\ref\ladybug net core.dll
+C:\Users\Nasko\source\repos\modul 2\ladybug net core\obj\Debug\net6.0\ladybug net core.pdb
+C:\Users\Nasko\source\repos\modul 2\ladybug net core\obj\Debug\net6.0\ladybug net core.genruntimeconfig.cache

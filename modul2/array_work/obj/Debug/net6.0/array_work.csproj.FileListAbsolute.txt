@@ -1,0 +1,14 @@
+C:\Users\Nasko\source\repos\modul 2\array_work\bin\Debug\net6.0\array_work.exe
+C:\Users\Nasko\source\repos\modul 2\array_work\bin\Debug\net6.0\array_work.deps.json
+C:\Users\Nasko\source\repos\modul 2\array_work\bin\Debug\net6.0\array_work.runtimeconfig.json
+C:\Users\Nasko\source\repos\modul 2\array_work\bin\Debug\net6.0\array_work.dll
+C:\Users\Nasko\source\repos\modul 2\array_work\bin\Debug\net6.0\ref\array_work.dll
+C:\Users\Nasko\source\repos\modul 2\array_work\bin\Debug\net6.0\array_work.pdb
+C:\Users\Nasko\source\repos\modul 2\array_work\obj\Debug\net6.0\array_work.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nasko\source\repos\modul 2\array_work\obj\Debug\net6.0\array_work.AssemblyInfoInputs.cache
+C:\Users\Nasko\source\repos\modul 2\array_work\obj\Debug\net6.0\array_work.AssemblyInfo.cs
+C:\Users\Nasko\source\repos\modul 2\array_work\obj\Debug\net6.0\array_work.csproj.CoreCompileInputs.cache
+C:\Users\Nasko\source\repos\modul 2\array_work\obj\Debug\net6.0\array_work.dll
+C:\Users\Nasko\source\repos\modul 2\array_work\obj\Debug\net6.0\ref\array_work.dll
+C:\Users\Nasko\source\repos\modul 2\array_work\obj\Debug\net6.0\array_work.pdb
+C:\Users\Nasko\source\repos\modul 2\array_work\obj\Debug\net6.0\array_work.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\Nasko\source\repos\modul 2\statistika na masiv\bin\Debug\net6.0\statistika na masiv.exe
+C:\Users\Nasko\source\repos\modul 2\statistika na masiv\bin\Debug\net6.0\statistika na masiv.deps.json
+C:\Users\Nasko\source\repos\modul 2\statistika na masiv\bin\Debug\net6.0\statistika na masiv.runtimeconfig.json
+C:\Users\Nasko\source\repos\modul 2\statistika na masiv\bin\Debug\net6.0\statistika na masiv.dll
+C:\Users\Nasko\source\repos\modul 2\statistika na masiv\bin\Debug\net6.0\ref\statistika na masiv.dll
+C:\Users\Nasko\source\repos\modul 2\statistika na masiv\bin\Debug\net6.0\statistika na masiv.pdb
+C:\Users\Nasko\source\repos\modul 2\statistika na masiv\obj\Debug\net6.0\statistika na masiv.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nasko\source\repos\modul 2\statistika na masiv\obj\Debug\net6.0\statistika na masiv.AssemblyInfoInputs.cache
+C:\Users\Nasko\source\repos\modul 2\statistika na masiv\obj\Debug\net6.0\statistika na masiv.AssemblyInfo.cs
+C:\Users\Nasko\source\repos\modul 2\statistika na masiv\obj\Debug\net6.0\statistika na masiv.csproj.CoreCompileInputs.cache
+C:\Users\Nasko\source\repos\modul 2\statistika na masiv\obj\Debug\net6.0\statistika na masiv.dll
+C:\Users\Nasko\source\repos\modul 2\statistika na masiv\obj\Debug\net6.0\ref\statistika na masiv.dll
+C:\Users\Nasko\source\repos\modul 2\statistika na masiv\obj\Debug\net6.0\statistika na masiv.pdb
+C:\Users\Nasko\source\repos\modul 2\statistika na masiv\obj\Debug\net6.0\statistika na masiv.genruntimeconfig.cache
