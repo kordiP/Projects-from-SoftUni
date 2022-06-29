@@ -1,0 +1,8 @@
+C:\Users\Nasko\Desktop\repo\neshtotukaneshto\neshtotukaneshto\bin\Debug\neshtotukaneshto.exe.config
+C:\Users\Nasko\Desktop\repo\neshtotukaneshto\neshtotukaneshto\bin\Debug\neshtotukaneshto.exe
+C:\Users\Nasko\Desktop\repo\neshtotukaneshto\neshtotukaneshto\bin\Debug\neshtotukaneshto.pdb
+C:\Users\Nasko\Desktop\repo\neshtotukaneshto\neshtotukaneshto\obj\Debug\neshtotukaneshto.csproj.AssemblyReference.cache
+C:\Users\Nasko\Desktop\repo\neshtotukaneshto\neshtotukaneshto\obj\Debug\neshtotukaneshto.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nasko\Desktop\repo\neshtotukaneshto\neshtotukaneshto\obj\Debug\neshtotukaneshto.csproj.CoreCompileInputs.cache
+C:\Users\Nasko\Desktop\repo\neshtotukaneshto\neshtotukaneshto\obj\Debug\neshtotukaneshto.exe
+C:\Users\Nasko\Desktop\repo\neshtotukaneshto\neshtotukaneshto\obj\Debug\neshtotukaneshto.pdb
