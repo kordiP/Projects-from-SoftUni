@@ -1,0 +1,7 @@
+C:\Users\8b\source\repos\ocenki\ocenki\bin\Debug\ocenki.exe.config
+C:\Users\8b\source\repos\ocenki\ocenki\bin\Debug\ocenki.exe
+C:\Users\8b\source\repos\ocenki\ocenki\bin\Debug\ocenki.pdb
+C:\Users\8b\source\repos\ocenki\ocenki\obj\Debug\ocenki.csprojAssemblyReference.cache
+C:\Users\8b\source\repos\ocenki\ocenki\obj\Debug\ocenki.csproj.CoreCompileInputs.cache
+C:\Users\8b\source\repos\ocenki\ocenki\obj\Debug\ocenki.exe
+C:\Users\8b\source\repos\ocenki\ocenki\obj\Debug\ocenki.pdb
