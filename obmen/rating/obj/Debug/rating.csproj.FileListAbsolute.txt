@@ -1,0 +1,8 @@
+C:\Users\Nasko\source\repos\obmen\rating\obj\Debug\rating.csproj.AssemblyReference.cache
+C:\Users\Nasko\source\repos\obmen\rating\obj\Debug\rating.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nasko\source\repos\obmen\rating\obj\Debug\rating.csproj.CoreCompileInputs.cache
+C:\Users\Nasko\source\repos\obmen\rating\bin\Debug\rating.exe.config
+C:\Users\Nasko\source\repos\obmen\rating\bin\Debug\rating.exe
+C:\Users\Nasko\source\repos\obmen\rating\bin\Debug\rating.pdb
+C:\Users\Nasko\source\repos\obmen\rating\obj\Debug\rating.exe
+C:\Users\Nasko\source\repos\obmen\rating\obj\Debug\rating.pdb

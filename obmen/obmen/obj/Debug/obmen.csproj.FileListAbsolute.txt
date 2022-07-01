@@ -1,0 +1,8 @@
+C:\Users\Nasko\source\repos\obmen\obmen\bin\Debug\obmen.exe.config
+C:\Users\Nasko\source\repos\obmen\obmen\bin\Debug\obmen.exe
+C:\Users\Nasko\source\repos\obmen\obmen\bin\Debug\obmen.pdb
+C:\Users\Nasko\source\repos\obmen\obmen\obj\Debug\obmen.csproj.AssemblyReference.cache
+C:\Users\Nasko\source\repos\obmen\obmen\obj\Debug\obmen.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nasko\source\repos\obmen\obmen\obj\Debug\obmen.csproj.CoreCompileInputs.cache
+C:\Users\Nasko\source\repos\obmen\obmen\obj\Debug\obmen.exe
+C:\Users\Nasko\source\repos\obmen\obmen\obj\Debug\obmen.pdb

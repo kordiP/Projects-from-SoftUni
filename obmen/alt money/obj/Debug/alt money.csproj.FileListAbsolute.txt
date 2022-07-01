@@ -1,0 +1,8 @@
+C:\Users\Nasko\source\repos\obmen\alt money\bin\Debug\alt money.exe.config
+C:\Users\Nasko\source\repos\obmen\alt money\bin\Debug\alt money.exe
+C:\Users\Nasko\source\repos\obmen\alt money\bin\Debug\alt money.pdb
+C:\Users\Nasko\source\repos\obmen\alt money\obj\Debug\alt money.csproj.AssemblyReference.cache
+C:\Users\Nasko\source\repos\obmen\alt money\obj\Debug\alt money.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nasko\source\repos\obmen\alt money\obj\Debug\alt money.csproj.CoreCompileInputs.cache
+C:\Users\Nasko\source\repos\obmen\alt money\obj\Debug\alt money.exe
+C:\Users\Nasko\source\repos\obmen\alt money\obj\Debug\alt money.pdb

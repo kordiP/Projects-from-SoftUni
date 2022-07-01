@@ -1,0 +1,7 @@
+C:\Users\Nasko\source\repos\obmen\generirane na kodove\bin\Debug\generirane na kodove.exe.config
+C:\Users\Nasko\source\repos\obmen\generirane na kodove\bin\Debug\generirane na kodove.exe
+C:\Users\Nasko\source\repos\obmen\generirane na kodove\bin\Debug\generirane na kodove.pdb
+C:\Users\Nasko\source\repos\obmen\generirane na kodove\obj\Debug\generirane na kodove.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nasko\source\repos\obmen\generirane na kodove\obj\Debug\generirane na kodove.csproj.CoreCompileInputs.cache
+C:\Users\Nasko\source\repos\obmen\generirane na kodove\obj\Debug\generirane na kodove.exe
+C:\Users\Nasko\source\repos\obmen\generirane na kodove\obj\Debug\generirane na kodove.pdb
