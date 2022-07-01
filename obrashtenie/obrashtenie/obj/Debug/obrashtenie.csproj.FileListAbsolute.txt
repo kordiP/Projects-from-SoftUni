@@ -1,0 +1,7 @@
+C:\Users\8b\source\repos\obrashtenie\obrashtenie\bin\Debug\obrashtenie.exe.config
+C:\Users\8b\source\repos\obrashtenie\obrashtenie\bin\Debug\obrashtenie.exe
+C:\Users\8b\source\repos\obrashtenie\obrashtenie\bin\Debug\obrashtenie.pdb
+C:\Users\8b\source\repos\obrashtenie\obrashtenie\obj\Debug\obrashtenie.csprojAssemblyReference.cache
+C:\Users\8b\source\repos\obrashtenie\obrashtenie\obj\Debug\obrashtenie.csproj.CoreCompileInputs.cache
+C:\Users\8b\source\repos\obrashtenie\obrashtenie\obj\Debug\obrashtenie.exe
+C:\Users\8b\source\repos\obrashtenie\obrashtenie\obj\Debug\obrashtenie.pdb
