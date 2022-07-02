@@ -1,0 +1,16 @@
+C:\Users\ROG\source\repos\stack\stack\bin\Debug\net5.0\stack.exe
+C:\Users\ROG\source\repos\stack\stack\bin\Debug\net5.0\stack.deps.json
+C:\Users\ROG\source\repos\stack\stack\bin\Debug\net5.0\stack.runtimeconfig.json
+C:\Users\ROG\source\repos\stack\stack\bin\Debug\net5.0\stack.runtimeconfig.dev.json
+C:\Users\ROG\source\repos\stack\stack\bin\Debug\net5.0\stack.dll
+C:\Users\ROG\source\repos\stack\stack\bin\Debug\net5.0\stack.pdb
+C:\Users\ROG\source\repos\stack\stack\obj\Debug\net5.0\stack.csproj.AssemblyReference.cache
+C:\Users\ROG\source\repos\stack\stack\obj\Debug\net5.0\stack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ROG\source\repos\stack\stack\obj\Debug\net5.0\stack.AssemblyInfoInputs.cache
+C:\Users\ROG\source\repos\stack\stack\obj\Debug\net5.0\stack.AssemblyInfo.cs
+C:\Users\ROG\source\repos\stack\stack\obj\Debug\net5.0\stack.csproj.CoreCompileInputs.cache
+C:\Users\ROG\source\repos\stack\stack\obj\Debug\net5.0\stack.dll
+C:\Users\ROG\source\repos\stack\stack\obj\Debug\net5.0\refint\stack.dll
+C:\Users\ROG\source\repos\stack\stack\obj\Debug\net5.0\stack.pdb
+C:\Users\ROG\source\repos\stack\stack\obj\Debug\net5.0\stack.genruntimeconfig.cache
+C:\Users\ROG\source\repos\stack\stack\obj\Debug\net5.0\ref\stack.dll

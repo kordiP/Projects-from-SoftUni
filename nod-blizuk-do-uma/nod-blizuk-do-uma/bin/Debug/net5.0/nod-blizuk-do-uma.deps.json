@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "nod-blizuk-do-uma/1.0.0": {
+        "runtime": {
+          "nod-blizuk-do-uma.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "nod-blizuk-do-uma/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

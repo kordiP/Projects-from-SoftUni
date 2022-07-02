@@ -1,0 +1,16 @@
+C:\Users\ROG\source\repos\DynamicListWithReverse\DynamicListWithReverse\bin\Debug\net5.0\DynamicListWithReverse.exe
+C:\Users\ROG\source\repos\DynamicListWithReverse\DynamicListWithReverse\bin\Debug\net5.0\DynamicListWithReverse.deps.json
+C:\Users\ROG\source\repos\DynamicListWithReverse\DynamicListWithReverse\bin\Debug\net5.0\DynamicListWithReverse.runtimeconfig.json
+C:\Users\ROG\source\repos\DynamicListWithReverse\DynamicListWithReverse\bin\Debug\net5.0\DynamicListWithReverse.runtimeconfig.dev.json
+C:\Users\ROG\source\repos\DynamicListWithReverse\DynamicListWithReverse\bin\Debug\net5.0\DynamicListWithReverse.dll
+C:\Users\ROG\source\repos\DynamicListWithReverse\DynamicListWithReverse\bin\Debug\net5.0\DynamicListWithReverse.pdb
+C:\Users\ROG\source\repos\DynamicListWithReverse\DynamicListWithReverse\obj\Debug\net5.0\DynamicListWithReverse.csproj.AssemblyReference.cache
+C:\Users\ROG\source\repos\DynamicListWithReverse\DynamicListWithReverse\obj\Debug\net5.0\DynamicListWithReverse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ROG\source\repos\DynamicListWithReverse\DynamicListWithReverse\obj\Debug\net5.0\DynamicListWithReverse.AssemblyInfoInputs.cache
+C:\Users\ROG\source\repos\DynamicListWithReverse\DynamicListWithReverse\obj\Debug\net5.0\DynamicListWithReverse.AssemblyInfo.cs
+C:\Users\ROG\source\repos\DynamicListWithReverse\DynamicListWithReverse\obj\Debug\net5.0\DynamicListWithReverse.csproj.CoreCompileInputs.cache
+C:\Users\ROG\source\repos\DynamicListWithReverse\DynamicListWithReverse\obj\Debug\net5.0\DynamicListWithReverse.dll
+C:\Users\ROG\source\repos\DynamicListWithReverse\DynamicListWithReverse\obj\Debug\net5.0\refint\DynamicListWithReverse.dll
+C:\Users\ROG\source\repos\DynamicListWithReverse\DynamicListWithReverse\obj\Debug\net5.0\DynamicListWithReverse.pdb
+C:\Users\ROG\source\repos\DynamicListWithReverse\DynamicListWithReverse\obj\Debug\net5.0\DynamicListWithReverse.genruntimeconfig.cache
+C:\Users\ROG\source\repos\DynamicListWithReverse\DynamicListWithReverse\obj\Debug\net5.0\ref\DynamicListWithReverse.dll

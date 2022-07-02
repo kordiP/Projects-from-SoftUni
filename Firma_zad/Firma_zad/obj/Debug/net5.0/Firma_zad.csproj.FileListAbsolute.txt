@@ -1,0 +1,16 @@
+C:\Users\ROG\source\repos\Firma_zad\Firma_zad\bin\Debug\net5.0\Firma_zad.exe
+C:\Users\ROG\source\repos\Firma_zad\Firma_zad\bin\Debug\net5.0\Firma_zad.deps.json
+C:\Users\ROG\source\repos\Firma_zad\Firma_zad\bin\Debug\net5.0\Firma_zad.runtimeconfig.json
+C:\Users\ROG\source\repos\Firma_zad\Firma_zad\bin\Debug\net5.0\Firma_zad.runtimeconfig.dev.json
+C:\Users\ROG\source\repos\Firma_zad\Firma_zad\bin\Debug\net5.0\Firma_zad.dll
+C:\Users\ROG\source\repos\Firma_zad\Firma_zad\bin\Debug\net5.0\Firma_zad.pdb
+C:\Users\ROG\source\repos\Firma_zad\Firma_zad\obj\Debug\net5.0\Firma_zad.csproj.AssemblyReference.cache
+C:\Users\ROG\source\repos\Firma_zad\Firma_zad\obj\Debug\net5.0\Firma_zad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ROG\source\repos\Firma_zad\Firma_zad\obj\Debug\net5.0\Firma_zad.AssemblyInfoInputs.cache
+C:\Users\ROG\source\repos\Firma_zad\Firma_zad\obj\Debug\net5.0\Firma_zad.AssemblyInfo.cs
+C:\Users\ROG\source\repos\Firma_zad\Firma_zad\obj\Debug\net5.0\Firma_zad.csproj.CoreCompileInputs.cache
+C:\Users\ROG\source\repos\Firma_zad\Firma_zad\obj\Debug\net5.0\Firma_zad.dll
+C:\Users\ROG\source\repos\Firma_zad\Firma_zad\obj\Debug\net5.0\refint\Firma_zad.dll
+C:\Users\ROG\source\repos\Firma_zad\Firma_zad\obj\Debug\net5.0\Firma_zad.pdb
+C:\Users\ROG\source\repos\Firma_zad\Firma_zad\obj\Debug\net5.0\Firma_zad.genruntimeconfig.cache
+C:\Users\ROG\source\repos\Firma_zad\Firma_zad\obj\Debug\net5.0\ref\Firma_zad.dll

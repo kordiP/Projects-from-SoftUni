@@ -1,0 +1,16 @@
+C:\Users\ROG\source\repos\every_way_100\every_way_100\bin\Debug\net5.0\every_way_100.exe
+C:\Users\ROG\source\repos\every_way_100\every_way_100\bin\Debug\net5.0\every_way_100.deps.json
+C:\Users\ROG\source\repos\every_way_100\every_way_100\bin\Debug\net5.0\every_way_100.runtimeconfig.json
+C:\Users\ROG\source\repos\every_way_100\every_way_100\bin\Debug\net5.0\every_way_100.runtimeconfig.dev.json
+C:\Users\ROG\source\repos\every_way_100\every_way_100\bin\Debug\net5.0\every_way_100.dll
+C:\Users\ROG\source\repos\every_way_100\every_way_100\bin\Debug\net5.0\every_way_100.pdb
+C:\Users\ROG\source\repos\every_way_100\every_way_100\obj\Debug\net5.0\every_way_100.csproj.AssemblyReference.cache
+C:\Users\ROG\source\repos\every_way_100\every_way_100\obj\Debug\net5.0\every_way_100.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ROG\source\repos\every_way_100\every_way_100\obj\Debug\net5.0\every_way_100.AssemblyInfoInputs.cache
+C:\Users\ROG\source\repos\every_way_100\every_way_100\obj\Debug\net5.0\every_way_100.AssemblyInfo.cs
+C:\Users\ROG\source\repos\every_way_100\every_way_100\obj\Debug\net5.0\every_way_100.csproj.CoreCompileInputs.cache
+C:\Users\ROG\source\repos\every_way_100\every_way_100\obj\Debug\net5.0\every_way_100.dll
+C:\Users\ROG\source\repos\every_way_100\every_way_100\obj\Debug\net5.0\refint\every_way_100.dll
+C:\Users\ROG\source\repos\every_way_100\every_way_100\obj\Debug\net5.0\every_way_100.pdb
+C:\Users\ROG\source\repos\every_way_100\every_way_100\obj\Debug\net5.0\every_way_100.genruntimeconfig.cache
+C:\Users\ROG\source\repos\every_way_100\every_way_100\obj\Debug\net5.0\ref\every_way_100.dll

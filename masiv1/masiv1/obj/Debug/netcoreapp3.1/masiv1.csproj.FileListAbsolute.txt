@@ -1,0 +1,13 @@
+C:\Users\ROG\source\repos\masiv1\masiv1\bin\Debug\netcoreapp3.1\masiv1.exe
+C:\Users\ROG\source\repos\masiv1\masiv1\bin\Debug\netcoreapp3.1\masiv1.deps.json
+C:\Users\ROG\source\repos\masiv1\masiv1\bin\Debug\netcoreapp3.1\masiv1.runtimeconfig.json
+C:\Users\ROG\source\repos\masiv1\masiv1\bin\Debug\netcoreapp3.1\masiv1.runtimeconfig.dev.json
+C:\Users\ROG\source\repos\masiv1\masiv1\bin\Debug\netcoreapp3.1\masiv1.dll
+C:\Users\ROG\source\repos\masiv1\masiv1\bin\Debug\netcoreapp3.1\masiv1.pdb
+C:\Users\ROG\source\repos\masiv1\masiv1\obj\Debug\netcoreapp3.1\masiv1.csprojAssemblyReference.cache
+C:\Users\ROG\source\repos\masiv1\masiv1\obj\Debug\netcoreapp3.1\masiv1.AssemblyInfoInputs.cache
+C:\Users\ROG\source\repos\masiv1\masiv1\obj\Debug\netcoreapp3.1\masiv1.AssemblyInfo.cs
+C:\Users\ROG\source\repos\masiv1\masiv1\obj\Debug\netcoreapp3.1\masiv1.csproj.CoreCompileInputs.cache
+C:\Users\ROG\source\repos\masiv1\masiv1\obj\Debug\netcoreapp3.1\masiv1.dll
+C:\Users\ROG\source\repos\masiv1\masiv1\obj\Debug\netcoreapp3.1\masiv1.pdb
+C:\Users\ROG\source\repos\masiv1\masiv1\obj\Debug\netcoreapp3.1\masiv1.genruntimeconfig.cache

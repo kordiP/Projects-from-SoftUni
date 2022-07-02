@@ -1,0 +1,13 @@
+C:\Users\ROG\source\repos\ladybugs\ladybugs\bin\Debug\netcoreapp3.1\ladybugs.exe
+C:\Users\ROG\source\repos\ladybugs\ladybugs\bin\Debug\netcoreapp3.1\ladybugs.deps.json
+C:\Users\ROG\source\repos\ladybugs\ladybugs\bin\Debug\netcoreapp3.1\ladybugs.runtimeconfig.json
+C:\Users\ROG\source\repos\ladybugs\ladybugs\bin\Debug\netcoreapp3.1\ladybugs.runtimeconfig.dev.json
+C:\Users\ROG\source\repos\ladybugs\ladybugs\bin\Debug\netcoreapp3.1\ladybugs.dll
+C:\Users\ROG\source\repos\ladybugs\ladybugs\bin\Debug\netcoreapp3.1\ladybugs.pdb
+C:\Users\ROG\source\repos\ladybugs\ladybugs\obj\Debug\netcoreapp3.1\ladybugs.csprojAssemblyReference.cache
+C:\Users\ROG\source\repos\ladybugs\ladybugs\obj\Debug\netcoreapp3.1\ladybugs.AssemblyInfoInputs.cache
+C:\Users\ROG\source\repos\ladybugs\ladybugs\obj\Debug\netcoreapp3.1\ladybugs.AssemblyInfo.cs
+C:\Users\ROG\source\repos\ladybugs\ladybugs\obj\Debug\netcoreapp3.1\ladybugs.csproj.CoreCompileInputs.cache
+C:\Users\ROG\source\repos\ladybugs\ladybugs\obj\Debug\netcoreapp3.1\ladybugs.dll
+C:\Users\ROG\source\repos\ladybugs\ladybugs\obj\Debug\netcoreapp3.1\ladybugs.pdb
+C:\Users\ROG\source\repos\ladybugs\ladybugs\obj\Debug\netcoreapp3.1\ladybugs.genruntimeconfig.cache

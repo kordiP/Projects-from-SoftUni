@@ -1,0 +1,16 @@
+C:\Users\ROG\source\repos\nod na evklid\nod na evklid\bin\Debug\net5.0\nod na evklid.exe
+C:\Users\ROG\source\repos\nod na evklid\nod na evklid\bin\Debug\net5.0\nod na evklid.deps.json
+C:\Users\ROG\source\repos\nod na evklid\nod na evklid\bin\Debug\net5.0\nod na evklid.runtimeconfig.json
+C:\Users\ROG\source\repos\nod na evklid\nod na evklid\bin\Debug\net5.0\nod na evklid.runtimeconfig.dev.json
+C:\Users\ROG\source\repos\nod na evklid\nod na evklid\bin\Debug\net5.0\nod na evklid.dll
+C:\Users\ROG\source\repos\nod na evklid\nod na evklid\bin\Debug\net5.0\nod na evklid.pdb
+C:\Users\ROG\source\repos\nod na evklid\nod na evklid\obj\Debug\net5.0\nod na evklid.csproj.AssemblyReference.cache
+C:\Users\ROG\source\repos\nod na evklid\nod na evklid\obj\Debug\net5.0\nod na evklid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ROG\source\repos\nod na evklid\nod na evklid\obj\Debug\net5.0\nod na evklid.AssemblyInfoInputs.cache
+C:\Users\ROG\source\repos\nod na evklid\nod na evklid\obj\Debug\net5.0\nod na evklid.AssemblyInfo.cs
+C:\Users\ROG\source\repos\nod na evklid\nod na evklid\obj\Debug\net5.0\nod na evklid.csproj.CoreCompileInputs.cache
+C:\Users\ROG\source\repos\nod na evklid\nod na evklid\obj\Debug\net5.0\nod na evklid.dll
+C:\Users\ROG\source\repos\nod na evklid\nod na evklid\obj\Debug\net5.0\refint\nod na evklid.dll
+C:\Users\ROG\source\repos\nod na evklid\nod na evklid\obj\Debug\net5.0\nod na evklid.pdb
+C:\Users\ROG\source\repos\nod na evklid\nod na evklid\obj\Debug\net5.0\nod na evklid.genruntimeconfig.cache
+C:\Users\ROG\source\repos\nod na evklid\nod na evklid\obj\Debug\net5.0\ref\nod na evklid.dll

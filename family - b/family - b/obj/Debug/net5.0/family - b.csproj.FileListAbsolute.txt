@@ -1,0 +1,16 @@
+C:\Users\ROG\source\repos\family - b\family - b\bin\Debug\net5.0\family - b.exe
+C:\Users\ROG\source\repos\family - b\family - b\bin\Debug\net5.0\family - b.deps.json
+C:\Users\ROG\source\repos\family - b\family - b\bin\Debug\net5.0\family - b.runtimeconfig.json
+C:\Users\ROG\source\repos\family - b\family - b\bin\Debug\net5.0\family - b.runtimeconfig.dev.json
+C:\Users\ROG\source\repos\family - b\family - b\bin\Debug\net5.0\family - b.dll
+C:\Users\ROG\source\repos\family - b\family - b\bin\Debug\net5.0\family - b.pdb
+C:\Users\ROG\source\repos\family - b\family - b\obj\Debug\net5.0\family - b.csproj.AssemblyReference.cache
+C:\Users\ROG\source\repos\family - b\family - b\obj\Debug\net5.0\family - b.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ROG\source\repos\family - b\family - b\obj\Debug\net5.0\family - b.AssemblyInfoInputs.cache
+C:\Users\ROG\source\repos\family - b\family - b\obj\Debug\net5.0\family - b.AssemblyInfo.cs
+C:\Users\ROG\source\repos\family - b\family - b\obj\Debug\net5.0\family - b.csproj.CoreCompileInputs.cache
+C:\Users\ROG\source\repos\family - b\family - b\obj\Debug\net5.0\family - b.dll
+C:\Users\ROG\source\repos\family - b\family - b\obj\Debug\net5.0\refint\family - b.dll
+C:\Users\ROG\source\repos\family - b\family - b\obj\Debug\net5.0\family - b.pdb
+C:\Users\ROG\source\repos\family - b\family - b\obj\Debug\net5.0\family - b.genruntimeconfig.cache
+C:\Users\ROG\source\repos\family - b\family - b\obj\Debug\net5.0\ref\family - b.dll

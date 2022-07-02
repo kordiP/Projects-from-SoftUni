@@ -1,0 +1,16 @@
+C:\Users\ROG\source\repos\Game-Exam\Game-Exam\bin\Debug\net5.0\Game-Exam.exe
+C:\Users\ROG\source\repos\Game-Exam\Game-Exam\bin\Debug\net5.0\Game-Exam.deps.json
+C:\Users\ROG\source\repos\Game-Exam\Game-Exam\bin\Debug\net5.0\Game-Exam.runtimeconfig.json
+C:\Users\ROG\source\repos\Game-Exam\Game-Exam\bin\Debug\net5.0\Game-Exam.runtimeconfig.dev.json
+C:\Users\ROG\source\repos\Game-Exam\Game-Exam\bin\Debug\net5.0\Game-Exam.dll
+C:\Users\ROG\source\repos\Game-Exam\Game-Exam\bin\Debug\net5.0\Game-Exam.pdb
+C:\Users\ROG\source\repos\Game-Exam\Game-Exam\obj\Debug\net5.0\Game-Exam.csproj.AssemblyReference.cache
+C:\Users\ROG\source\repos\Game-Exam\Game-Exam\obj\Debug\net5.0\Game-Exam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ROG\source\repos\Game-Exam\Game-Exam\obj\Debug\net5.0\Game-Exam.AssemblyInfoInputs.cache
+C:\Users\ROG\source\repos\Game-Exam\Game-Exam\obj\Debug\net5.0\Game-Exam.AssemblyInfo.cs
+C:\Users\ROG\source\repos\Game-Exam\Game-Exam\obj\Debug\net5.0\Game-Exam.csproj.CoreCompileInputs.cache
+C:\Users\ROG\source\repos\Game-Exam\Game-Exam\obj\Debug\net5.0\Game-Exam.dll
+C:\Users\ROG\source\repos\Game-Exam\Game-Exam\obj\Debug\net5.0\refint\Game-Exam.dll
+C:\Users\ROG\source\repos\Game-Exam\Game-Exam\obj\Debug\net5.0\Game-Exam.pdb
+C:\Users\ROG\source\repos\Game-Exam\Game-Exam\obj\Debug\net5.0\Game-Exam.genruntimeconfig.cache
+C:\Users\ROG\source\repos\Game-Exam\Game-Exam\obj\Debug\net5.0\ref\Game-Exam.dll

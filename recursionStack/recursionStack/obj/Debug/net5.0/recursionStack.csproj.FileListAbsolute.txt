@@ -1,0 +1,16 @@
+C:\Users\ROG\source\repos\recursionStack\recursionStack\bin\Debug\net5.0\recursionStack.exe
+C:\Users\ROG\source\repos\recursionStack\recursionStack\bin\Debug\net5.0\recursionStack.deps.json
+C:\Users\ROG\source\repos\recursionStack\recursionStack\bin\Debug\net5.0\recursionStack.runtimeconfig.json
+C:\Users\ROG\source\repos\recursionStack\recursionStack\bin\Debug\net5.0\recursionStack.runtimeconfig.dev.json
+C:\Users\ROG\source\repos\recursionStack\recursionStack\bin\Debug\net5.0\recursionStack.dll
+C:\Users\ROG\source\repos\recursionStack\recursionStack\bin\Debug\net5.0\recursionStack.pdb
+C:\Users\ROG\source\repos\recursionStack\recursionStack\obj\Debug\net5.0\recursionStack.csproj.AssemblyReference.cache
+C:\Users\ROG\source\repos\recursionStack\recursionStack\obj\Debug\net5.0\recursionStack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ROG\source\repos\recursionStack\recursionStack\obj\Debug\net5.0\recursionStack.AssemblyInfoInputs.cache
+C:\Users\ROG\source\repos\recursionStack\recursionStack\obj\Debug\net5.0\recursionStack.AssemblyInfo.cs
+C:\Users\ROG\source\repos\recursionStack\recursionStack\obj\Debug\net5.0\recursionStack.csproj.CoreCompileInputs.cache
+C:\Users\ROG\source\repos\recursionStack\recursionStack\obj\Debug\net5.0\recursionStack.dll
+C:\Users\ROG\source\repos\recursionStack\recursionStack\obj\Debug\net5.0\refint\recursionStack.dll
+C:\Users\ROG\source\repos\recursionStack\recursionStack\obj\Debug\net5.0\recursionStack.pdb
+C:\Users\ROG\source\repos\recursionStack\recursionStack\obj\Debug\net5.0\recursionStack.genruntimeconfig.cache
+C:\Users\ROG\source\repos\recursionStack\recursionStack\obj\Debug\net5.0\ref\recursionStack.dll

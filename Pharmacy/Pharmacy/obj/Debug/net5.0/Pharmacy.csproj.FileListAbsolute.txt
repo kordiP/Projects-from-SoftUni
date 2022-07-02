@@ -1,0 +1,16 @@
+C:\Users\ROG\source\repos\Pharmacy\Pharmacy\bin\Debug\net5.0\Pharmacy.exe
+C:\Users\ROG\source\repos\Pharmacy\Pharmacy\bin\Debug\net5.0\Pharmacy.deps.json
+C:\Users\ROG\source\repos\Pharmacy\Pharmacy\bin\Debug\net5.0\Pharmacy.runtimeconfig.json
+C:\Users\ROG\source\repos\Pharmacy\Pharmacy\bin\Debug\net5.0\Pharmacy.runtimeconfig.dev.json
+C:\Users\ROG\source\repos\Pharmacy\Pharmacy\bin\Debug\net5.0\Pharmacy.dll
+C:\Users\ROG\source\repos\Pharmacy\Pharmacy\bin\Debug\net5.0\Pharmacy.pdb
+C:\Users\ROG\source\repos\Pharmacy\Pharmacy\obj\Debug\net5.0\Pharmacy.csproj.AssemblyReference.cache
+C:\Users\ROG\source\repos\Pharmacy\Pharmacy\obj\Debug\net5.0\Pharmacy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ROG\source\repos\Pharmacy\Pharmacy\obj\Debug\net5.0\Pharmacy.AssemblyInfoInputs.cache
+C:\Users\ROG\source\repos\Pharmacy\Pharmacy\obj\Debug\net5.0\Pharmacy.AssemblyInfo.cs
+C:\Users\ROG\source\repos\Pharmacy\Pharmacy\obj\Debug\net5.0\Pharmacy.csproj.CoreCompileInputs.cache
+C:\Users\ROG\source\repos\Pharmacy\Pharmacy\obj\Debug\net5.0\Pharmacy.dll
+C:\Users\ROG\source\repos\Pharmacy\Pharmacy\obj\Debug\net5.0\refint\Pharmacy.dll
+C:\Users\ROG\source\repos\Pharmacy\Pharmacy\obj\Debug\net5.0\Pharmacy.pdb
+C:\Users\ROG\source\repos\Pharmacy\Pharmacy\obj\Debug\net5.0\Pharmacy.genruntimeconfig.cache
+C:\Users\ROG\source\repos\Pharmacy\Pharmacy\obj\Debug\net5.0\ref\Pharmacy.dll

@@ -1,0 +1,16 @@
+C:\Users\ROG\source\repos\lds\lds\bin\Debug\net5.0\lds.exe
+C:\Users\ROG\source\repos\lds\lds\bin\Debug\net5.0\lds.deps.json
+C:\Users\ROG\source\repos\lds\lds\bin\Debug\net5.0\lds.runtimeconfig.json
+C:\Users\ROG\source\repos\lds\lds\bin\Debug\net5.0\lds.runtimeconfig.dev.json
+C:\Users\ROG\source\repos\lds\lds\bin\Debug\net5.0\lds.dll
+C:\Users\ROG\source\repos\lds\lds\bin\Debug\net5.0\lds.pdb
+C:\Users\ROG\source\repos\lds\lds\obj\Debug\net5.0\lds.csproj.AssemblyReference.cache
+C:\Users\ROG\source\repos\lds\lds\obj\Debug\net5.0\lds.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ROG\source\repos\lds\lds\obj\Debug\net5.0\lds.AssemblyInfoInputs.cache
+C:\Users\ROG\source\repos\lds\lds\obj\Debug\net5.0\lds.AssemblyInfo.cs
+C:\Users\ROG\source\repos\lds\lds\obj\Debug\net5.0\lds.csproj.CoreCompileInputs.cache
+C:\Users\ROG\source\repos\lds\lds\obj\Debug\net5.0\lds.dll
+C:\Users\ROG\source\repos\lds\lds\obj\Debug\net5.0\refint\lds.dll
+C:\Users\ROG\source\repos\lds\lds\obj\Debug\net5.0\lds.pdb
+C:\Users\ROG\source\repos\lds\lds\obj\Debug\net5.0\lds.genruntimeconfig.cache
+C:\Users\ROG\source\repos\lds\lds\obj\Debug\net5.0\ref\lds.dll

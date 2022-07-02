@@ -1,0 +1,13 @@
+C:\Users\ROG\source\repos\списък\списък\obj\Debug\netcoreapp3.1\списък.csprojAssemblyReference.cache
+C:\Users\ROG\source\repos\списък\списък\obj\Debug\netcoreapp3.1\списък.AssemblyInfoInputs.cache
+C:\Users\ROG\source\repos\списък\списък\obj\Debug\netcoreapp3.1\списък.AssemblyInfo.cs
+C:\Users\ROG\source\repos\списък\списък\obj\Debug\netcoreapp3.1\списък.csproj.CoreCompileInputs.cache
+C:\Users\ROG\source\repos\списък\списък\bin\Debug\netcoreapp3.1\списък.exe
+C:\Users\ROG\source\repos\списък\списък\bin\Debug\netcoreapp3.1\списък.deps.json
+C:\Users\ROG\source\repos\списък\списък\bin\Debug\netcoreapp3.1\списък.runtimeconfig.json
+C:\Users\ROG\source\repos\списък\списък\bin\Debug\netcoreapp3.1\списък.runtimeconfig.dev.json
+C:\Users\ROG\source\repos\списък\списък\bin\Debug\netcoreapp3.1\списък.dll
+C:\Users\ROG\source\repos\списък\списък\bin\Debug\netcoreapp3.1\списък.pdb
+C:\Users\ROG\source\repos\списък\списък\obj\Debug\netcoreapp3.1\списък.dll
+C:\Users\ROG\source\repos\списък\списък\obj\Debug\netcoreapp3.1\списък.pdb
+C:\Users\ROG\source\repos\списък\списък\obj\Debug\netcoreapp3.1\списък.genruntimeconfig.cache

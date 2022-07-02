@@ -1,0 +1,7 @@
+C:\Users\ROG\source\repos\exam 2\obm bureau\bin\Debug\obm bureau.exe.config
+C:\Users\ROG\source\repos\exam 2\obm bureau\bin\Debug\obm bureau.exe
+C:\Users\ROG\source\repos\exam 2\obm bureau\bin\Debug\obm bureau.pdb
+C:\Users\ROG\source\repos\exam 2\obm bureau\obj\Debug\obm bureau.csprojAssemblyReference.cache
+C:\Users\ROG\source\repos\exam 2\obm bureau\obj\Debug\obm bureau.csproj.CoreCompileInputs.cache
+C:\Users\ROG\source\repos\exam 2\obm bureau\obj\Debug\obm bureau.exe
+C:\Users\ROG\source\repos\exam 2\obm bureau\obj\Debug\obm bureau.pdb
