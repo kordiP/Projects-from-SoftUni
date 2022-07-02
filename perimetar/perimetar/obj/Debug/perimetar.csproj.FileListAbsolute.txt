@@ -1,0 +1,10 @@
+C:\Users\8b\source\repos\perimetar\perimetar\bin\Debug\perimetar.exe.config
+C:\Users\8b\source\repos\perimetar\perimetar\bin\Debug\perimetar.exe
+C:\Users\8b\source\repos\perimetar\perimetar\bin\Debug\perimetar.pdb
+C:\Users\8b\source\repos\perimetar\perimetar\obj\Debug\perimetar.csprojAssemblyReference.cache
+C:\Users\8b\source\repos\perimetar\perimetar\obj\Debug\perimetar.Form1.resources
+C:\Users\8b\source\repos\perimetar\perimetar\obj\Debug\perimetar.Properties.Resources.resources
+C:\Users\8b\source\repos\perimetar\perimetar\obj\Debug\perimetar.csproj.GenerateResource.cache
+C:\Users\8b\source\repos\perimetar\perimetar\obj\Debug\perimetar.csproj.CoreCompileInputs.cache
+C:\Users\8b\source\repos\perimetar\perimetar\obj\Debug\perimetar.exe
+C:\Users\8b\source\repos\perimetar\perimetar\obj\Debug\perimetar.pdb
