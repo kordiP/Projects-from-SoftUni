@@ -1,0 +1,9 @@
+C:\Users\8b\source\repos\Ok I need names\Ok I need names\obj\Debug\Ok_I_need_names.Form1.resources
+C:\Users\8b\source\repos\Ok I need names\Ok I need names\obj\Debug\Ok_I_need_names.Properties.Resources.resources
+C:\Users\8b\source\repos\Ok I need names\Ok I need names\obj\Debug\Ok I need names.csproj.GenerateResource.cache
+C:\Users\8b\source\repos\Ok I need names\Ok I need names\obj\Debug\Ok I need names.csproj.CoreCompileInputs.cache
+C:\Users\8b\source\repos\Ok I need names\Ok I need names\bin\Debug\Ok I need names.exe.config
+C:\Users\8b\source\repos\Ok I need names\Ok I need names\bin\Debug\Ok I need names.exe
+C:\Users\8b\source\repos\Ok I need names\Ok I need names\bin\Debug\Ok I need names.pdb
+C:\Users\8b\source\repos\Ok I need names\Ok I need names\obj\Debug\Ok I need names.exe
+C:\Users\8b\source\repos\Ok I need names\Ok I need names\obj\Debug\Ok I need names.pdb
