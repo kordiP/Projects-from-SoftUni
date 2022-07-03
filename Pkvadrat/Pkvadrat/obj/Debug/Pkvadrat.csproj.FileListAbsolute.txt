@@ -1,0 +1,7 @@
+C:\Users\8b\source\repos\Pkvadrat\Pkvadrat\bin\Debug\Pkvadrat.exe.config
+C:\Users\8b\source\repos\Pkvadrat\Pkvadrat\bin\Debug\Pkvadrat.exe
+C:\Users\8b\source\repos\Pkvadrat\Pkvadrat\bin\Debug\Pkvadrat.pdb
+C:\Users\8b\source\repos\Pkvadrat\Pkvadrat\obj\Debug\Pkvadrat.csprojAssemblyReference.cache
+C:\Users\8b\source\repos\Pkvadrat\Pkvadrat\obj\Debug\Pkvadrat.csproj.CoreCompileInputs.cache
+C:\Users\8b\source\repos\Pkvadrat\Pkvadrat\obj\Debug\Pkvadrat.exe
+C:\Users\8b\source\repos\Pkvadrat\Pkvadrat\obj\Debug\Pkvadrat.pdb
