@@ -1,0 +1,11 @@
+C:\Users\8b\source\repos\perimetarP\perimetarP\bin\Debug\netcoreapp2.1\perimetarP.deps.json
+C:\Users\8b\source\repos\perimetarP\perimetarP\bin\Debug\netcoreapp2.1\perimetarP.runtimeconfig.json
+C:\Users\8b\source\repos\perimetarP\perimetarP\bin\Debug\netcoreapp2.1\perimetarP.runtimeconfig.dev.json
+C:\Users\8b\source\repos\perimetarP\perimetarP\bin\Debug\netcoreapp2.1\perimetarP.dll
+C:\Users\8b\source\repos\perimetarP\perimetarP\bin\Debug\netcoreapp2.1\perimetarP.pdb
+C:\Users\8b\source\repos\perimetarP\perimetarP\obj\Debug\netcoreapp2.1\perimetarP.csprojAssemblyReference.cache
+C:\Users\8b\source\repos\perimetarP\perimetarP\obj\Debug\netcoreapp2.1\perimetarP.csproj.CoreCompileInputs.cache
+C:\Users\8b\source\repos\perimetarP\perimetarP\obj\Debug\netcoreapp2.1\perimetarP.AssemblyInfoInputs.cache
+C:\Users\8b\source\repos\perimetarP\perimetarP\obj\Debug\netcoreapp2.1\perimetarP.AssemblyInfo.cs
+C:\Users\8b\source\repos\perimetarP\perimetarP\obj\Debug\netcoreapp2.1\perimetarP.dll
+C:\Users\8b\source\repos\perimetarP\perimetarP\obj\Debug\netcoreapp2.1\perimetarP.pdb
