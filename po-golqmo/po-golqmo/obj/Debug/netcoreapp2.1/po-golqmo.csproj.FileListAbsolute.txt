@@ -1,0 +1,11 @@
+C:\Users\8b\source\repos\po-golqmo\po-golqmo\bin\Debug\netcoreapp2.1\po-golqmo.deps.json
+C:\Users\8b\source\repos\po-golqmo\po-golqmo\bin\Debug\netcoreapp2.1\po-golqmo.runtimeconfig.json
+C:\Users\8b\source\repos\po-golqmo\po-golqmo\bin\Debug\netcoreapp2.1\po-golqmo.runtimeconfig.dev.json
+C:\Users\8b\source\repos\po-golqmo\po-golqmo\bin\Debug\netcoreapp2.1\po-golqmo.dll
+C:\Users\8b\source\repos\po-golqmo\po-golqmo\bin\Debug\netcoreapp2.1\po-golqmo.pdb
+C:\Users\8b\source\repos\po-golqmo\po-golqmo\obj\Debug\netcoreapp2.1\po-golqmo.csprojAssemblyReference.cache
+C:\Users\8b\source\repos\po-golqmo\po-golqmo\obj\Debug\netcoreapp2.1\po-golqmo.csproj.CoreCompileInputs.cache
+C:\Users\8b\source\repos\po-golqmo\po-golqmo\obj\Debug\netcoreapp2.1\po-golqmo.AssemblyInfoInputs.cache
+C:\Users\8b\source\repos\po-golqmo\po-golqmo\obj\Debug\netcoreapp2.1\po-golqmo.AssemblyInfo.cs
+C:\Users\8b\source\repos\po-golqmo\po-golqmo\obj\Debug\netcoreapp2.1\po-golqmo.dll
+C:\Users\8b\source\repos\po-golqmo\po-golqmo\obj\Debug\netcoreapp2.1\po-golqmo.pdb
