@@ -1,0 +1,7 @@
+C:\Users\Nasko\source\repos\podgotovka za izpit\transport price\bin\Debug\transport price.exe.config
+C:\Users\Nasko\source\repos\podgotovka za izpit\transport price\bin\Debug\transport price.exe
+C:\Users\Nasko\source\repos\podgotovka za izpit\transport price\bin\Debug\transport price.pdb
+C:\Users\Nasko\source\repos\podgotovka za izpit\transport price\obj\Debug\transport price.csprojAssemblyReference.cache
+C:\Users\Nasko\source\repos\podgotovka za izpit\transport price\obj\Debug\transport price.csproj.CoreCompileInputs.cache
+C:\Users\Nasko\source\repos\podgotovka za izpit\transport price\obj\Debug\transport price.exe
+C:\Users\Nasko\source\repos\podgotovka za izpit\transport price\obj\Debug\transport price.pdb

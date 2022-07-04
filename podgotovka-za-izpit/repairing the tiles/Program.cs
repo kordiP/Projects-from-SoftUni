@@ -1,0 +1,13 @@
+﻿double n = double.Parse(Console.ReadLine());
+double w = double.Parse(Console.ReadLine());
+double l = double.Parse(Console.ReadLine());
+double m = double.Parse(Console.ReadLine());
+double o = double.Parse(Console.ReadLine());
+double obshto_plosht = n * n;
+double peika = m * o;
+double plosht_za_plochki = w * l;
+double plosht_za_pokrivane = obshto_plosht - peika;
+double plochki_broi = plosht_za_pokrivane / plosht_za_plochki;
+double vreme = plochki_broi * 0.2;
+Console.WriteLine(plochki_broi);
+Console.WriteLine(vreme);

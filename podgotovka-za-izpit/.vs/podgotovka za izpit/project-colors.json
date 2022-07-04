@@ -1,0 +1,91 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e8419ff1-37e0-42d6-bfa3-fab79cdf3b86": {
+      "ProjectGuid": "e8419ff1-37e0-42d6-bfa3-fab79cdf3b86",
+      "DisplayName": "histograma",
+      "ColorIndex": 0
+    },
+    "384f40d9-4f74-4c20-8e7a-527d76b00100": {
+      "ProjectGuid": "384f40d9-4f74-4c20-8e7a-527d76b00100",
+      "DisplayName": "zamuk",
+      "ColorIndex": 1
+    },
+    "ab77c31f-095f-4149-b98e-ec521b840ae2": {
+      "ProjectGuid": "ab77c31f-095f-4149-b98e-ec521b840ae2",
+      "DisplayName": "krepost",
+      "ColorIndex": 2
+    },
+    "014f8c27-47b1-4fe9-a66b-34387e5e3ffd": {
+      "ProjectGuid": "014f8c27-47b1-4fe9-a66b-34387e5e3ffd",
+      "DisplayName": "uchebna zala",
+      "ColorIndex": 3
+    },
+    "0bb2eae3-ecc5-43cd-b432-204bdf0bd215": {
+      "ProjectGuid": "0bb2eae3-ecc5-43cd-b432-204bdf0bd215",
+      "DisplayName": "transport price",
+      "ColorIndex": 4
+    },
+    "4fb00bcb-0687-40c7-9987-1846f2821696": {
+      "ProjectGuid": "4fb00bcb-0687-40c7-9987-1846f2821696",
+      "DisplayName": "na vreme za izpita",
+      "ColorIndex": 5
+    },
+    "b4d0f298-3a06-4551-b54f-c04af58097f6": {
+      "ProjectGuid": "b4d0f298-3a06-4551-b54f-c04af58097f6",
+      "DisplayName": "magicheski chisla",
+      "ColorIndex": 6
+    },
+    "1dc7d90c-0ba8-4d8c-9aa3-d6120cfd2c3b": {
+      "ProjectGuid": "1dc7d90c-0ba8-4d8c-9aa3-d6120cfd2c3b",
+      "DisplayName": "magicheski chisla net core 6",
+      "ColorIndex": 7
+    },
+    "65122378-bfce-40fe-9672-0433f81acb00": {
+      "ProjectGuid": "65122378-bfce-40fe-9672-0433f81acb00",
+      "DisplayName": "vegetable market",
+      "ColorIndex": 8
+    },
+    "8b39bed3-5276-4de4-934c-a652e5f80f89": {
+      "ProjectGuid": "8b39bed3-5276-4de4-934c-a652e5f80f89",
+      "DisplayName": "pool pipes",
+      "ColorIndex": 9
+    },
+    "8d982084-a604-41b8-a130-d3419df053fa": {
+      "ProjectGuid": "8d982084-a604-41b8-a130-d3419df053fa",
+      "DisplayName": "stupid password generator",
+      "ColorIndex": 10
+    },
+    "779dc53a-9da8-4788-ac82-231f871c5f85": {
+      "ProjectGuid": "779dc53a-9da8-4788-ac82-231f871c5f85",
+      "DisplayName": "trip",
+      "ColorIndex": 11
+    },
+    "e56739b7-2667-4089-888b-78462640f2a9": {
+      "ProjectGuid": "e56739b7-2667-4089-888b-78462640f2a9",
+      "DisplayName": "rng",
+      "ColorIndex": 12
+    },
+    "ff889d0c-37f5-4372-af59-2c947ef71b7e": {
+      "ProjectGuid": "ff889d0c-37f5-4372-af59-2c947ef71b7e",
+      "DisplayName": "delene",
+      "ColorIndex": 13
+    },
+    "85eb09f0-9041-4f5a-a4c2-934569be5424": {
+      "ProjectGuid": "85eb09f0-9041-4f5a-a4c2-934569be5424",
+      "DisplayName": "butterfly",
+      "ColorIndex": 14
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "bbda899f-9ba8-43dd-a047-0f87d5a9c905": {
+      "ProjectGuid": "bbda899f-9ba8-43dd-a047-0f87d5a9c905",
+      "DisplayName": "repairing the tiles",
+      "ColorIndex": 15
+    }
+  },
+  "NextColorIndex": 0
+}

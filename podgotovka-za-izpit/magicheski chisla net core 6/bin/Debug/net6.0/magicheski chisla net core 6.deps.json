@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "magicheski chisla net core 6/1.0.0": {
+        "runtime": {
+          "magicheski chisla net core 6.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "magicheski chisla net core 6/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

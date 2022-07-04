@@ -1,0 +1,15 @@
+C:\Users\Nasko\source\repos\podgotovka za izpit\na vreme za izpita\bin\Debug\na vreme za izpita.exe.config
+C:\Users\Nasko\source\repos\podgotovka za izpit\na vreme za izpita\bin\Debug\na vreme za izpita.exe
+C:\Users\Nasko\source\repos\podgotovka za izpit\na vreme za izpita\bin\Debug\na vreme za izpita.pdb
+C:\Users\Nasko\source\repos\podgotovka za izpit\na vreme za izpita\obj\Debug\na vreme za izpita.csprojAssemblyReference.cache
+C:\Users\Nasko\source\repos\podgotovka za izpit\na vreme za izpita\obj\Debug\na vreme za izpita.csproj.CoreCompileInputs.cache
+C:\Users\Nasko\source\repos\podgotovka za izpit\na vreme za izpita\obj\Debug\na vreme za izpita.exe
+C:\Users\Nasko\source\repos\podgotovka za izpit\na vreme za izpita\obj\Debug\na vreme za izpita.pdb
+F:\work stuff\podgotovka za izpit\na vreme za izpita\bin\Debug\na vreme za izpita.exe.config
+F:\work stuff\podgotovka za izpit\na vreme za izpita\bin\Debug\na vreme za izpita.exe
+F:\work stuff\podgotovka za izpit\na vreme za izpita\bin\Debug\na vreme za izpita.pdb
+F:\work stuff\podgotovka za izpit\na vreme za izpita\obj\Debug\na vreme za izpita.csproj.AssemblyReference.cache
+F:\work stuff\podgotovka za izpit\na vreme za izpita\obj\Debug\na vreme za izpita.csproj.SuggestedBindingRedirects.cache
+F:\work stuff\podgotovka za izpit\na vreme za izpita\obj\Debug\na vreme za izpita.csproj.CoreCompileInputs.cache
+F:\work stuff\podgotovka za izpit\na vreme za izpita\obj\Debug\na vreme za izpita.exe
+F:\work stuff\podgotovka za izpit\na vreme za izpita\obj\Debug\na vreme za izpita.pdb

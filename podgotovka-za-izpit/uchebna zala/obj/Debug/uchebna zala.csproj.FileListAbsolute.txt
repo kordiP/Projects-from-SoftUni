@@ -1,0 +1,15 @@
+C:\Users\Nasko\source\repos\podgotovka za izpit\uchebna zala\bin\Debug\uchebna zala.exe.config
+C:\Users\Nasko\source\repos\podgotovka za izpit\uchebna zala\bin\Debug\uchebna zala.exe
+C:\Users\Nasko\source\repos\podgotovka za izpit\uchebna zala\bin\Debug\uchebna zala.pdb
+C:\Users\Nasko\source\repos\podgotovka za izpit\uchebna zala\obj\Debug\uchebna zala.csprojAssemblyReference.cache
+C:\Users\Nasko\source\repos\podgotovka za izpit\uchebna zala\obj\Debug\uchebna zala.csproj.CoreCompileInputs.cache
+C:\Users\Nasko\source\repos\podgotovka za izpit\uchebna zala\obj\Debug\uchebna zala.exe
+C:\Users\Nasko\source\repos\podgotovka za izpit\uchebna zala\obj\Debug\uchebna zala.pdb
+F:\work stuff\podgotovka za izpit\uchebna zala\bin\Debug\uchebna zala.exe.config
+F:\work stuff\podgotovka za izpit\uchebna zala\bin\Debug\uchebna zala.exe
+F:\work stuff\podgotovka za izpit\uchebna zala\bin\Debug\uchebna zala.pdb
+F:\work stuff\podgotovka za izpit\uchebna zala\obj\Debug\uchebna zala.csproj.AssemblyReference.cache
+F:\work stuff\podgotovka za izpit\uchebna zala\obj\Debug\uchebna zala.csproj.SuggestedBindingRedirects.cache
+F:\work stuff\podgotovka za izpit\uchebna zala\obj\Debug\uchebna zala.csproj.CoreCompileInputs.cache
+F:\work stuff\podgotovka za izpit\uchebna zala\obj\Debug\uchebna zala.exe
+F:\work stuff\podgotovka za izpit\uchebna zala\obj\Debug\uchebna zala.pdb

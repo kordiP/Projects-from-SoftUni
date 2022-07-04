@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "GpZyJkwy1eOebqEv49GVQqT8GqMgGqiNam/AqyYMdyJkV9perHQqyje5EBp9ERdXn9T8mJw9cqPk96dvN1hrCg==",
+  "success": true,
+  "projectFilePath": "F:\\work stuff\\podgotovka za izpit\\stupid password generator\\stupid password generator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nasko\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512",
+    "C:\\Users\\Nasko\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Nasko\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Nasko\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

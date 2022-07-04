@@ -1,0 +1,15 @@
+C:\Users\Nasko\source\repos\podgotovka za izpit\histograma\bin\Debug\histograma.exe.config
+C:\Users\Nasko\source\repos\podgotovka za izpit\histograma\bin\Debug\histograma.exe
+C:\Users\Nasko\source\repos\podgotovka za izpit\histograma\bin\Debug\histograma.pdb
+C:\Users\Nasko\source\repos\podgotovka za izpit\histograma\obj\Debug\histograma.csprojAssemblyReference.cache
+C:\Users\Nasko\source\repos\podgotovka za izpit\histograma\obj\Debug\histograma.csproj.CoreCompileInputs.cache
+C:\Users\Nasko\source\repos\podgotovka za izpit\histograma\obj\Debug\histograma.exe
+C:\Users\Nasko\source\repos\podgotovka za izpit\histograma\obj\Debug\histograma.pdb
+F:\work stuff\podgotovka za izpit\histograma\bin\Debug\histograma.exe.config
+F:\work stuff\podgotovka za izpit\histograma\bin\Debug\histograma.exe
+F:\work stuff\podgotovka za izpit\histograma\bin\Debug\histograma.pdb
+F:\work stuff\podgotovka za izpit\histograma\obj\Debug\histograma.csproj.AssemblyReference.cache
+F:\work stuff\podgotovka za izpit\histograma\obj\Debug\histograma.csproj.SuggestedBindingRedirects.cache
+F:\work stuff\podgotovka za izpit\histograma\obj\Debug\histograma.csproj.CoreCompileInputs.cache
+F:\work stuff\podgotovka za izpit\histograma\obj\Debug\histograma.exe
+F:\work stuff\podgotovka za izpit\histograma\obj\Debug\histograma.pdb
