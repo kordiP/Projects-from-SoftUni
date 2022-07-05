@@ -1,0 +1,10 @@
+C:\Users\8b\source\repos\PokajiSkrii\PokajiSkrii\bin\Debug\PokajiSkrii.exe.config
+C:\Users\8b\source\repos\PokajiSkrii\PokajiSkrii\bin\Debug\PokajiSkrii.exe
+C:\Users\8b\source\repos\PokajiSkrii\PokajiSkrii\bin\Debug\PokajiSkrii.pdb
+C:\Users\8b\source\repos\PokajiSkrii\PokajiSkrii\obj\Debug\PokajiSkrii.csprojAssemblyReference.cache
+C:\Users\8b\source\repos\PokajiSkrii\PokajiSkrii\obj\Debug\PokajiSkrii.Form1.resources
+C:\Users\8b\source\repos\PokajiSkrii\PokajiSkrii\obj\Debug\PokajiSkrii.Properties.Resources.resources
+C:\Users\8b\source\repos\PokajiSkrii\PokajiSkrii\obj\Debug\PokajiSkrii.csproj.GenerateResource.cache
+C:\Users\8b\source\repos\PokajiSkrii\PokajiSkrii\obj\Debug\PokajiSkrii.csproj.CoreCompileInputs.cache
+C:\Users\8b\source\repos\PokajiSkrii\PokajiSkrii\obj\Debug\PokajiSkrii.exe
+C:\Users\8b\source\repos\PokajiSkrii\PokajiSkrii\obj\Debug\PokajiSkrii.pdb
