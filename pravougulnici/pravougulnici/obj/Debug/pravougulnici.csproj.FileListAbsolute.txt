@@ -1,0 +1,7 @@
+C:\Users\8b\source\repos\pravougulnici\pravougulnici\bin\Debug\pravougulnici.exe.config
+C:\Users\8b\source\repos\pravougulnici\pravougulnici\bin\Debug\pravougulnici.exe
+C:\Users\8b\source\repos\pravougulnici\pravougulnici\bin\Debug\pravougulnici.pdb
+C:\Users\8b\source\repos\pravougulnici\pravougulnici\obj\Debug\pravougulnici.csprojAssemblyReference.cache
+C:\Users\8b\source\repos\pravougulnici\pravougulnici\obj\Debug\pravougulnici.csproj.CoreCompileInputs.cache
+C:\Users\8b\source\repos\pravougulnici\pravougulnici\obj\Debug\pravougulnici.exe
+C:\Users\8b\source\repos\pravougulnici\pravougulnici\obj\Debug\pravougulnici.pdb
