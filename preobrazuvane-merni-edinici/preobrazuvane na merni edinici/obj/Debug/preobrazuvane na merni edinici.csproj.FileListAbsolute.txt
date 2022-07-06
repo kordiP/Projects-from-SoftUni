@@ -1,0 +1,7 @@
+F:\work stuff\preobrazuvane na merni edinici\preobrazuvane na merni edinici\bin\Debug\preobrazuvane na merni edinici.exe.config
+F:\work stuff\preobrazuvane na merni edinici\preobrazuvane na merni edinici\bin\Debug\preobrazuvane na merni edinici.exe
+F:\work stuff\preobrazuvane na merni edinici\preobrazuvane na merni edinici\bin\Debug\preobrazuvane na merni edinici.pdb
+F:\work stuff\preobrazuvane na merni edinici\preobrazuvane na merni edinici\obj\Debug\preobrazuvane na merni edinici.csprojAssemblyReference.cache
+F:\work stuff\preobrazuvane na merni edinici\preobrazuvane na merni edinici\obj\Debug\preobrazuvane na merni edinici.csproj.CoreCompileInputs.cache
+F:\work stuff\preobrazuvane na merni edinici\preobrazuvane na merni edinici\obj\Debug\preobrazuvane na merni edinici.exe
+F:\work stuff\preobrazuvane na merni edinici\preobrazuvane na merni edinici\obj\Debug\preobrazuvane na merni edinici.pdb
