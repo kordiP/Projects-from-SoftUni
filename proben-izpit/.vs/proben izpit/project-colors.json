@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "63f761a7-a428-40c7-a842-13d8035e823c": {
+      "ProjectGuid": "63f761a7-a428-40c7-a842-13d8035e823c",
+      "DisplayName": "proben izpit",
+      "ColorIndex": 0
+    },
+    "506fdbc3-ed17-4a80-a12b-d19a12ce5a7d": {
+      "ProjectGuid": "506fdbc3-ed17-4a80-a12b-d19a12ce5a7d",
+      "DisplayName": "zad2",
+      "ColorIndex": 1
+    },
+    "44be99d9-b94c-4d60-a6fc-361dbbf0c554": {
+      "ProjectGuid": "44be99d9-b94c-4d60-a6fc-361dbbf0c554",
+      "DisplayName": "sezonna prodajba",
+      "ColorIndex": 2
+    },
+    "efda676a-474f-4743-9c2c-21618f82639e": {
+      "ProjectGuid": "efda676a-474f-4743-9c2c-21618f82639e",
+      "DisplayName": "zadacha 2",
+      "ColorIndex": 3
+    },
+    "e8ee738a-fbf2-48ad-ac04-3ac6f0ddb550": {
+      "ProjectGuid": "e8ee738a-fbf2-48ad-ac04-3ac6f0ddb550",
+      "DisplayName": "test",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}
