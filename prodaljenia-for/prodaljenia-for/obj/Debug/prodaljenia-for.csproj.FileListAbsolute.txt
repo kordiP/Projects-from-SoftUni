@@ -1,0 +1,15 @@
+C:\Users\ROG\source\repos\prodaljenia-for\prodaljenia-for\bin\Debug\prodaljenia-for.exe.config
+C:\Users\ROG\source\repos\prodaljenia-for\prodaljenia-for\bin\Debug\prodaljenia-for.exe
+C:\Users\ROG\source\repos\prodaljenia-for\prodaljenia-for\bin\Debug\prodaljenia-for.pdb
+C:\Users\ROG\source\repos\prodaljenia-for\prodaljenia-for\obj\Debug\prodaljenia-for.csprojAssemblyReference.cache
+C:\Users\ROG\source\repos\prodaljenia-for\prodaljenia-for\obj\Debug\prodaljenia-for.csproj.CoreCompileInputs.cache
+C:\Users\ROG\source\repos\prodaljenia-for\prodaljenia-for\obj\Debug\prodaljenia-for.exe
+C:\Users\ROG\source\repos\prodaljenia-for\prodaljenia-for\obj\Debug\prodaljenia-for.pdb
+C:\Users\Nasko\Desktop\repo\prodaljenia-for\prodaljenia-for\bin\Debug\prodaljenia-for.exe.config
+C:\Users\Nasko\Desktop\repo\prodaljenia-for\prodaljenia-for\bin\Debug\prodaljenia-for.exe
+C:\Users\Nasko\Desktop\repo\prodaljenia-for\prodaljenia-for\bin\Debug\prodaljenia-for.pdb
+C:\Users\Nasko\Desktop\repo\prodaljenia-for\prodaljenia-for\obj\Debug\prodaljenia-for.csproj.AssemblyReference.cache
+C:\Users\Nasko\Desktop\repo\prodaljenia-for\prodaljenia-for\obj\Debug\prodaljenia-for.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nasko\Desktop\repo\prodaljenia-for\prodaljenia-for\obj\Debug\prodaljenia-for.csproj.CoreCompileInputs.cache
+C:\Users\Nasko\Desktop\repo\prodaljenia-for\prodaljenia-for\obj\Debug\prodaljenia-for.exe
+C:\Users\Nasko\Desktop\repo\prodaljenia-for\prodaljenia-for\obj\Debug\prodaljenia-for.pdb
