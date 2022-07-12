@@ -1,0 +1,8 @@
+C:\Users\Nasko\Desktop\repo\Queue_Self_Made\Queue_Self_Made\bin\Debug\Queue_Self_Made.exe.config
+C:\Users\Nasko\Desktop\repo\Queue_Self_Made\Queue_Self_Made\bin\Debug\Queue_Self_Made.exe
+C:\Users\Nasko\Desktop\repo\Queue_Self_Made\Queue_Self_Made\bin\Debug\Queue_Self_Made.pdb
+C:\Users\Nasko\Desktop\repo\Queue_Self_Made\Queue_Self_Made\obj\Debug\Queue_Self_Made.csproj.AssemblyReference.cache
+C:\Users\Nasko\Desktop\repo\Queue_Self_Made\Queue_Self_Made\obj\Debug\Queue_Self_Made.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nasko\Desktop\repo\Queue_Self_Made\Queue_Self_Made\obj\Debug\Queue_Self_Made.csproj.CoreCompileInputs.cache
+C:\Users\Nasko\Desktop\repo\Queue_Self_Made\Queue_Self_Made\obj\Debug\Queue_Self_Made.exe
+C:\Users\Nasko\Desktop\repo\Queue_Self_Made\Queue_Self_Made\obj\Debug\Queue_Self_Made.pdb
