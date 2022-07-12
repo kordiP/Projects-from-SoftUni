@@ -1,0 +1,15 @@
+C:\Users\Nasko\source\repos\RadioButtonCalc\RadioButtonCalc\bin\Debug\netcoreapp3.1\RadioButtonCalc.exe
+C:\Users\Nasko\source\repos\RadioButtonCalc\RadioButtonCalc\bin\Debug\netcoreapp3.1\RadioButtonCalc.deps.json
+C:\Users\Nasko\source\repos\RadioButtonCalc\RadioButtonCalc\bin\Debug\netcoreapp3.1\RadioButtonCalc.runtimeconfig.json
+C:\Users\Nasko\source\repos\RadioButtonCalc\RadioButtonCalc\bin\Debug\netcoreapp3.1\RadioButtonCalc.runtimeconfig.dev.json
+C:\Users\Nasko\source\repos\RadioButtonCalc\RadioButtonCalc\bin\Debug\netcoreapp3.1\RadioButtonCalc.dll
+C:\Users\Nasko\source\repos\RadioButtonCalc\RadioButtonCalc\bin\Debug\netcoreapp3.1\RadioButtonCalc.pdb
+C:\Users\Nasko\source\repos\RadioButtonCalc\RadioButtonCalc\obj\Debug\netcoreapp3.1\RadioButtonCalc.csprojAssemblyReference.cache
+C:\Users\Nasko\source\repos\RadioButtonCalc\RadioButtonCalc\obj\Debug\netcoreapp3.1\RadioButtonCalc.Form1.resources
+C:\Users\Nasko\source\repos\RadioButtonCalc\RadioButtonCalc\obj\Debug\netcoreapp3.1\RadioButtonCalc.csproj.GenerateResource.cache
+C:\Users\Nasko\source\repos\RadioButtonCalc\RadioButtonCalc\obj\Debug\netcoreapp3.1\RadioButtonCalc.AssemblyInfoInputs.cache
+C:\Users\Nasko\source\repos\RadioButtonCalc\RadioButtonCalc\obj\Debug\netcoreapp3.1\RadioButtonCalc.AssemblyInfo.cs
+C:\Users\Nasko\source\repos\RadioButtonCalc\RadioButtonCalc\obj\Debug\netcoreapp3.1\RadioButtonCalc.csproj.CoreCompileInputs.cache
+C:\Users\Nasko\source\repos\RadioButtonCalc\RadioButtonCalc\obj\Debug\netcoreapp3.1\RadioButtonCalc.dll
+C:\Users\Nasko\source\repos\RadioButtonCalc\RadioButtonCalc\obj\Debug\netcoreapp3.1\RadioButtonCalc.pdb
+C:\Users\Nasko\source\repos\RadioButtonCalc\RadioButtonCalc\obj\Debug\netcoreapp3.1\RadioButtonCalc.genruntimeconfig.cache
