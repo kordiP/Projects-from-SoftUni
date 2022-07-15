@@ -1,0 +1,11 @@
+C:\Users\8b\source\repos\razelqne\razelqne\bin\Debug\netcoreapp2.1\razelqne.deps.json
+C:\Users\8b\source\repos\razelqne\razelqne\bin\Debug\netcoreapp2.1\razelqne.runtimeconfig.json
+C:\Users\8b\source\repos\razelqne\razelqne\bin\Debug\netcoreapp2.1\razelqne.runtimeconfig.dev.json
+C:\Users\8b\source\repos\razelqne\razelqne\bin\Debug\netcoreapp2.1\razelqne.dll
+C:\Users\8b\source\repos\razelqne\razelqne\bin\Debug\netcoreapp2.1\razelqne.pdb
+C:\Users\8b\source\repos\razelqne\razelqne\obj\Debug\netcoreapp2.1\razelqne.csprojAssemblyReference.cache
+C:\Users\8b\source\repos\razelqne\razelqne\obj\Debug\netcoreapp2.1\razelqne.csproj.CoreCompileInputs.cache
+C:\Users\8b\source\repos\razelqne\razelqne\obj\Debug\netcoreapp2.1\razelqne.AssemblyInfoInputs.cache
+C:\Users\8b\source\repos\razelqne\razelqne\obj\Debug\netcoreapp2.1\razelqne.AssemblyInfo.cs
+C:\Users\8b\source\repos\razelqne\razelqne\obj\Debug\netcoreapp2.1\razelqne.dll
+C:\Users\8b\source\repos\razelqne\razelqne\obj\Debug\netcoreapp2.1\razelqne.pdb
