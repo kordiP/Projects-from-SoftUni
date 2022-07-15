@@ -1,0 +1,16 @@
+C:\Users\Nasko\source\repos\Restaurant\Restaurant\bin\Debug\net5.0\Restaurant.exe
+C:\Users\Nasko\source\repos\Restaurant\Restaurant\bin\Debug\net5.0\Restaurant.deps.json
+C:\Users\Nasko\source\repos\Restaurant\Restaurant\bin\Debug\net5.0\Restaurant.runtimeconfig.json
+C:\Users\Nasko\source\repos\Restaurant\Restaurant\bin\Debug\net5.0\Restaurant.runtimeconfig.dev.json
+C:\Users\Nasko\source\repos\Restaurant\Restaurant\bin\Debug\net5.0\Restaurant.dll
+C:\Users\Nasko\source\repos\Restaurant\Restaurant\bin\Debug\net5.0\ref\Restaurant.dll
+C:\Users\Nasko\source\repos\Restaurant\Restaurant\bin\Debug\net5.0\Restaurant.pdb
+C:\Users\Nasko\source\repos\Restaurant\Restaurant\obj\Debug\net5.0\Restaurant.csproj.AssemblyReference.cache
+C:\Users\Nasko\source\repos\Restaurant\Restaurant\obj\Debug\net5.0\Restaurant.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nasko\source\repos\Restaurant\Restaurant\obj\Debug\net5.0\Restaurant.AssemblyInfoInputs.cache
+C:\Users\Nasko\source\repos\Restaurant\Restaurant\obj\Debug\net5.0\Restaurant.AssemblyInfo.cs
+C:\Users\Nasko\source\repos\Restaurant\Restaurant\obj\Debug\net5.0\Restaurant.csproj.CoreCompileInputs.cache
+C:\Users\Nasko\source\repos\Restaurant\Restaurant\obj\Debug\net5.0\Restaurant.dll
+C:\Users\Nasko\source\repos\Restaurant\Restaurant\obj\Debug\net5.0\ref\Restaurant.dll
+C:\Users\Nasko\source\repos\Restaurant\Restaurant\obj\Debug\net5.0\Restaurant.pdb
+C:\Users\Nasko\source\repos\Restaurant\Restaurant\obj\Debug\net5.0\Restaurant.genruntimeconfig.cache
