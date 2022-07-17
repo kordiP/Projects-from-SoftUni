@@ -1,0 +1,11 @@
+C:\Users\8b\source\repos\simvoli\simvoli\bin\Debug\netcoreapp2.1\simvoli.deps.json
+C:\Users\8b\source\repos\simvoli\simvoli\bin\Debug\netcoreapp2.1\simvoli.runtimeconfig.json
+C:\Users\8b\source\repos\simvoli\simvoli\bin\Debug\netcoreapp2.1\simvoli.runtimeconfig.dev.json
+C:\Users\8b\source\repos\simvoli\simvoli\bin\Debug\netcoreapp2.1\simvoli.dll
+C:\Users\8b\source\repos\simvoli\simvoli\bin\Debug\netcoreapp2.1\simvoli.pdb
+C:\Users\8b\source\repos\simvoli\simvoli\obj\Debug\netcoreapp2.1\simvoli.csprojAssemblyReference.cache
+C:\Users\8b\source\repos\simvoli\simvoli\obj\Debug\netcoreapp2.1\simvoli.csproj.CoreCompileInputs.cache
+C:\Users\8b\source\repos\simvoli\simvoli\obj\Debug\netcoreapp2.1\simvoli.AssemblyInfoInputs.cache
+C:\Users\8b\source\repos\simvoli\simvoli\obj\Debug\netcoreapp2.1\simvoli.AssemblyInfo.cs
+C:\Users\8b\source\repos\simvoli\simvoli\obj\Debug\netcoreapp2.1\simvoli.dll
+C:\Users\8b\source\repos\simvoli\simvoli\obj\Debug\netcoreapp2.1\simvoli.pdb
