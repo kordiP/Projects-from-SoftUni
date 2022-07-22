@@ -1,0 +1,11 @@
+C:\Users\8b\source\repos\sta\sta\bin\Debug\netcoreapp2.1\sta.deps.json
+C:\Users\8b\source\repos\sta\sta\bin\Debug\netcoreapp2.1\sta.runtimeconfig.json
+C:\Users\8b\source\repos\sta\sta\bin\Debug\netcoreapp2.1\sta.runtimeconfig.dev.json
+C:\Users\8b\source\repos\sta\sta\bin\Debug\netcoreapp2.1\sta.dll
+C:\Users\8b\source\repos\sta\sta\bin\Debug\netcoreapp2.1\sta.pdb
+C:\Users\8b\source\repos\sta\sta\obj\Debug\netcoreapp2.1\sta.csprojAssemblyReference.cache
+C:\Users\8b\source\repos\sta\sta\obj\Debug\netcoreapp2.1\sta.csproj.CoreCompileInputs.cache
+C:\Users\8b\source\repos\sta\sta\obj\Debug\netcoreapp2.1\sta.AssemblyInfoInputs.cache
+C:\Users\8b\source\repos\sta\sta\obj\Debug\netcoreapp2.1\sta.AssemblyInfo.cs
+C:\Users\8b\source\repos\sta\sta\obj\Debug\netcoreapp2.1\sta.dll
+C:\Users\8b\source\repos\sta\sta\obj\Debug\netcoreapp2.1\sta.pdb
