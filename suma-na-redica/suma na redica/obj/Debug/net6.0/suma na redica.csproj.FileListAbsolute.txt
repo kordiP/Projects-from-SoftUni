@@ -1,0 +1,30 @@
+C:\Users\Nasko\source\repos\suma na redica\suma na redica\obj\Debug\net6.0\suma na redica.csproj.AssemblyReference.cache
+C:\Users\Nasko\source\repos\suma na redica\suma na redica\obj\Debug\net6.0\suma na redica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nasko\source\repos\suma na redica\suma na redica\obj\Debug\net6.0\suma na redica.AssemblyInfoInputs.cache
+C:\Users\Nasko\source\repos\suma na redica\suma na redica\obj\Debug\net6.0\suma na redica.AssemblyInfo.cs
+C:\Users\Nasko\source\repos\suma na redica\suma na redica\obj\Debug\net6.0\suma na redica.csproj.CoreCompileInputs.cache
+C:\Users\Nasko\source\repos\suma na redica\suma na redica\bin\Debug\net6.0\suma na redica.exe
+C:\Users\Nasko\source\repos\suma na redica\suma na redica\bin\Debug\net6.0\suma na redica.deps.json
+C:\Users\Nasko\source\repos\suma na redica\suma na redica\bin\Debug\net6.0\suma na redica.runtimeconfig.json
+C:\Users\Nasko\source\repos\suma na redica\suma na redica\bin\Debug\net6.0\suma na redica.dll
+C:\Users\Nasko\source\repos\suma na redica\suma na redica\bin\Debug\net6.0\ref\suma na redica.dll
+C:\Users\Nasko\source\repos\suma na redica\suma na redica\bin\Debug\net6.0\suma na redica.pdb
+C:\Users\Nasko\source\repos\suma na redica\suma na redica\obj\Debug\net6.0\suma na redica.dll
+C:\Users\Nasko\source\repos\suma na redica\suma na redica\obj\Debug\net6.0\ref\suma na redica.dll
+C:\Users\Nasko\source\repos\suma na redica\suma na redica\obj\Debug\net6.0\suma na redica.pdb
+C:\Users\Nasko\source\repos\suma na redica\suma na redica\obj\Debug\net6.0\suma na redica.genruntimeconfig.cache
+C:\Users\Nasko\Desktop\repo\suma-na-redica\suma na redica\bin\Debug\net6.0\suma na redica.exe
+C:\Users\Nasko\Desktop\repo\suma-na-redica\suma na redica\bin\Debug\net6.0\suma na redica.deps.json
+C:\Users\Nasko\Desktop\repo\suma-na-redica\suma na redica\bin\Debug\net6.0\suma na redica.runtimeconfig.json
+C:\Users\Nasko\Desktop\repo\suma-na-redica\suma na redica\bin\Debug\net6.0\suma na redica.dll
+C:\Users\Nasko\Desktop\repo\suma-na-redica\suma na redica\bin\Debug\net6.0\suma na redica.pdb
+C:\Users\Nasko\Desktop\repo\suma-na-redica\suma na redica\obj\Debug\net6.0\suma na redica.csproj.AssemblyReference.cache
+C:\Users\Nasko\Desktop\repo\suma-na-redica\suma na redica\obj\Debug\net6.0\suma na redica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nasko\Desktop\repo\suma-na-redica\suma na redica\obj\Debug\net6.0\suma na redica.AssemblyInfoInputs.cache
+C:\Users\Nasko\Desktop\repo\suma-na-redica\suma na redica\obj\Debug\net6.0\suma na redica.AssemblyInfo.cs
+C:\Users\Nasko\Desktop\repo\suma-na-redica\suma na redica\obj\Debug\net6.0\suma na redica.csproj.CoreCompileInputs.cache
+C:\Users\Nasko\Desktop\repo\suma-na-redica\suma na redica\obj\Debug\net6.0\suma na redica.dll
+C:\Users\Nasko\Desktop\repo\suma-na-redica\suma na redica\obj\Debug\net6.0\refint\suma na redica.dll
+C:\Users\Nasko\Desktop\repo\suma-na-redica\suma na redica\obj\Debug\net6.0\suma na redica.pdb
+C:\Users\Nasko\Desktop\repo\suma-na-redica\suma na redica\obj\Debug\net6.0\suma na redica.genruntimeconfig.cache
+C:\Users\Nasko\Desktop\repo\suma-na-redica\suma na redica\obj\Debug\net6.0\ref\suma na redica.dll
