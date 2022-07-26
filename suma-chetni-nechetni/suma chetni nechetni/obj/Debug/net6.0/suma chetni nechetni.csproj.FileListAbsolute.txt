@@ -1,0 +1,15 @@
+C:\Users\Nasko\source\repos\suma chetni nechetni\suma chetni nechetni\bin\Debug\net6.0\suma chetni nechetni.exe
+C:\Users\Nasko\source\repos\suma chetni nechetni\suma chetni nechetni\bin\Debug\net6.0\suma chetni nechetni.deps.json
+C:\Users\Nasko\source\repos\suma chetni nechetni\suma chetni nechetni\bin\Debug\net6.0\suma chetni nechetni.runtimeconfig.json
+C:\Users\Nasko\source\repos\suma chetni nechetni\suma chetni nechetni\bin\Debug\net6.0\suma chetni nechetni.dll
+C:\Users\Nasko\source\repos\suma chetni nechetni\suma chetni nechetni\bin\Debug\net6.0\ref\suma chetni nechetni.dll
+C:\Users\Nasko\source\repos\suma chetni nechetni\suma chetni nechetni\bin\Debug\net6.0\suma chetni nechetni.pdb
+C:\Users\Nasko\source\repos\suma chetni nechetni\suma chetni nechetni\obj\Debug\net6.0\suma chetni nechetni.csproj.AssemblyReference.cache
+C:\Users\Nasko\source\repos\suma chetni nechetni\suma chetni nechetni\obj\Debug\net6.0\suma chetni nechetni.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nasko\source\repos\suma chetni nechetni\suma chetni nechetni\obj\Debug\net6.0\suma chetni nechetni.AssemblyInfoInputs.cache
+C:\Users\Nasko\source\repos\suma chetni nechetni\suma chetni nechetni\obj\Debug\net6.0\suma chetni nechetni.AssemblyInfo.cs
+C:\Users\Nasko\source\repos\suma chetni nechetni\suma chetni nechetni\obj\Debug\net6.0\suma chetni nechetni.csproj.CoreCompileInputs.cache
+C:\Users\Nasko\source\repos\suma chetni nechetni\suma chetni nechetni\obj\Debug\net6.0\suma chetni nechetni.dll
+C:\Users\Nasko\source\repos\suma chetni nechetni\suma chetni nechetni\obj\Debug\net6.0\ref\suma chetni nechetni.dll
+C:\Users\Nasko\source\repos\suma chetni nechetni\suma chetni nechetni\obj\Debug\net6.0\suma chetni nechetni.pdb
+C:\Users\Nasko\source\repos\suma chetni nechetni\suma chetni nechetni\obj\Debug\net6.0\suma chetni nechetni.genruntimeconfig.cache
