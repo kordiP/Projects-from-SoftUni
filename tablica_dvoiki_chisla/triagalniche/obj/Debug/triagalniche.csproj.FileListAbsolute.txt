@@ -1,0 +1,6 @@
+C:\Users\Nasko\source\repos\tablica_dvoiki_chisla\triagalniche\bin\Debug\triagalniche.exe.config
+C:\Users\Nasko\source\repos\tablica_dvoiki_chisla\triagalniche\bin\Debug\triagalniche.exe
+C:\Users\Nasko\source\repos\tablica_dvoiki_chisla\triagalniche\bin\Debug\triagalniche.pdb
+C:\Users\Nasko\source\repos\tablica_dvoiki_chisla\triagalniche\obj\Debug\triagalniche.csproj.CoreCompileInputs.cache
+C:\Users\Nasko\source\repos\tablica_dvoiki_chisla\triagalniche\obj\Debug\triagalniche.exe
+C:\Users\Nasko\source\repos\tablica_dvoiki_chisla\triagalniche\obj\Debug\triagalniche.pdb

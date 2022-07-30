@@ -1,0 +1,6 @@
+C:\Users\Nasko\source\repos\tablica_dvoiki_chisla\triangle\bin\Debug\triangle.exe.config
+C:\Users\Nasko\source\repos\tablica_dvoiki_chisla\triangle\bin\Debug\triangle.exe
+C:\Users\Nasko\source\repos\tablica_dvoiki_chisla\triangle\bin\Debug\triangle.pdb
+C:\Users\Nasko\source\repos\tablica_dvoiki_chisla\triangle\obj\Debug\triangle.csproj.CoreCompileInputs.cache
+C:\Users\Nasko\source\repos\tablica_dvoiki_chisla\triangle\obj\Debug\triangle.exe
+C:\Users\Nasko\source\repos\tablica_dvoiki_chisla\triangle\obj\Debug\triangle.pdb

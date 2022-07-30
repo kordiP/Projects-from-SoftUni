@@ -1,0 +1,7 @@
+C:\Users\Nasko\source\repos\tablica_dvoiki_chisla\tablica_dvoiki_chisla\bin\Debug\tablica_dvoiki_chisla.exe.config
+C:\Users\Nasko\source\repos\tablica_dvoiki_chisla\tablica_dvoiki_chisla\bin\Debug\tablica_dvoiki_chisla.exe
+C:\Users\Nasko\source\repos\tablica_dvoiki_chisla\tablica_dvoiki_chisla\bin\Debug\tablica_dvoiki_chisla.pdb
+C:\Users\Nasko\source\repos\tablica_dvoiki_chisla\tablica_dvoiki_chisla\obj\Debug\tablica_dvoiki_chisla.csprojAssemblyReference.cache
+C:\Users\Nasko\source\repos\tablica_dvoiki_chisla\tablica_dvoiki_chisla\obj\Debug\tablica_dvoiki_chisla.csproj.CoreCompileInputs.cache
+C:\Users\Nasko\source\repos\tablica_dvoiki_chisla\tablica_dvoiki_chisla\obj\Debug\tablica_dvoiki_chisla.exe
+C:\Users\Nasko\source\repos\tablica_dvoiki_chisla\tablica_dvoiki_chisla\obj\Debug\tablica_dvoiki_chisla.pdb
