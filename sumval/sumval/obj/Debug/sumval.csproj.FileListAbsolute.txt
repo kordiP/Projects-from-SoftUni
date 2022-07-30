@@ -1,0 +1,7 @@
+C:\Users\ROG\source\repos\sumval\sumval\bin\Debug\sumval.exe.config
+C:\Users\ROG\source\repos\sumval\sumval\bin\Debug\sumval.exe
+C:\Users\ROG\source\repos\sumval\sumval\bin\Debug\sumval.pdb
+C:\Users\ROG\source\repos\sumval\sumval\obj\Debug\sumval.csprojAssemblyReference.cache
+C:\Users\ROG\source\repos\sumval\sumval\obj\Debug\sumval.csproj.CoreCompileInputs.cache
+C:\Users\ROG\source\repos\sumval\sumval\obj\Debug\sumval.exe
+C:\Users\ROG\source\repos\sumval\sumval\obj\Debug\sumval.pdb
