@@ -1,0 +1,11 @@
+C:\Users\8b\source\repos\test4e\test4e\bin\Debug\netcoreapp2.1\test4e.deps.json
+C:\Users\8b\source\repos\test4e\test4e\bin\Debug\netcoreapp2.1\test4e.runtimeconfig.json
+C:\Users\8b\source\repos\test4e\test4e\bin\Debug\netcoreapp2.1\test4e.runtimeconfig.dev.json
+C:\Users\8b\source\repos\test4e\test4e\bin\Debug\netcoreapp2.1\test4e.dll
+C:\Users\8b\source\repos\test4e\test4e\bin\Debug\netcoreapp2.1\test4e.pdb
+C:\Users\8b\source\repos\test4e\test4e\obj\Debug\netcoreapp2.1\test4e.csprojAssemblyReference.cache
+C:\Users\8b\source\repos\test4e\test4e\obj\Debug\netcoreapp2.1\test4e.csproj.CoreCompileInputs.cache
+C:\Users\8b\source\repos\test4e\test4e\obj\Debug\netcoreapp2.1\test4e.AssemblyInfoInputs.cache
+C:\Users\8b\source\repos\test4e\test4e\obj\Debug\netcoreapp2.1\test4e.AssemblyInfo.cs
+C:\Users\8b\source\repos\test4e\test4e\obj\Debug\netcoreapp2.1\test4e.dll
+C:\Users\8b\source\repos\test4e\test4e\obj\Debug\netcoreapp2.1\test4e.pdb
