@@ -1,0 +1,9 @@
+C:\Users\8b\source\repos\Test again I know\Test again I know\bin\Debug\Test again I know.exe.config
+C:\Users\8b\source\repos\Test again I know\Test again I know\bin\Debug\Test again I know.exe
+C:\Users\8b\source\repos\Test again I know\Test again I know\bin\Debug\Test again I know.pdb
+C:\Users\8b\source\repos\Test again I know\Test again I know\obj\Debug\Test_again_I_know.Form1.resources
+C:\Users\8b\source\repos\Test again I know\Test again I know\obj\Debug\Test_again_I_know.Properties.Resources.resources
+C:\Users\8b\source\repos\Test again I know\Test again I know\obj\Debug\Test again I know.csproj.GenerateResource.cache
+C:\Users\8b\source\repos\Test again I know\Test again I know\obj\Debug\Test again I know.csproj.CoreCompileInputs.cache
+C:\Users\8b\source\repos\Test again I know\Test again I know\obj\Debug\Test again I know.exe
+C:\Users\8b\source\repos\Test again I know\Test again I know\obj\Debug\Test again I know.pdb
