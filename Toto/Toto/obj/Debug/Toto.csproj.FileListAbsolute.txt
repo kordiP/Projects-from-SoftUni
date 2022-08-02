@@ -1,0 +1,20 @@
+C:\Users\8b\source\repos\Toto\Toto\obj\Debug\Toto.csprojAssemblyReference.cache
+C:\Users\8b\source\repos\Toto\Toto\obj\Debug\Toto.Form1.resources
+C:\Users\8b\source\repos\Toto\Toto\obj\Debug\Toto.Properties.Resources.resources
+C:\Users\8b\source\repos\Toto\Toto\obj\Debug\Toto.csproj.GenerateResource.cache
+C:\Users\8b\source\repos\Toto\Toto\obj\Debug\Toto.csproj.CoreCompileInputs.cache
+C:\Users\8b\source\repos\Toto\Toto\bin\Debug\Toto.exe.config
+C:\Users\8b\source\repos\Toto\Toto\bin\Debug\Toto.exe
+C:\Users\8b\source\repos\Toto\Toto\bin\Debug\Toto.pdb
+C:\Users\8b\source\repos\Toto\Toto\obj\Debug\Toto.exe
+C:\Users\8b\source\repos\Toto\Toto\obj\Debug\Toto.pdb
+E:\work stuff\Toto\Toto\bin\Debug\Toto.exe.config
+E:\work stuff\Toto\Toto\bin\Debug\Toto.exe
+E:\work stuff\Toto\Toto\bin\Debug\Toto.pdb
+E:\work stuff\Toto\Toto\obj\Debug\Toto.csprojAssemblyReference.cache
+E:\work stuff\Toto\Toto\obj\Debug\Toto.Form1.resources
+E:\work stuff\Toto\Toto\obj\Debug\Toto.Properties.Resources.resources
+E:\work stuff\Toto\Toto\obj\Debug\Toto.csproj.GenerateResource.cache
+E:\work stuff\Toto\Toto\obj\Debug\Toto.csproj.CoreCompileInputs.cache
+E:\work stuff\Toto\Toto\obj\Debug\Toto.exe
+E:\work stuff\Toto\Toto\obj\Debug\Toto.pdb
