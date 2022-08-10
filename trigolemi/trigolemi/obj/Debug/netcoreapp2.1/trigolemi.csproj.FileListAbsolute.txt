@@ -1,0 +1,11 @@
+C:\Users\8b\source\repos\trigolemi\trigolemi\bin\Debug\netcoreapp2.1\trigolemi.deps.json
+C:\Users\8b\source\repos\trigolemi\trigolemi\bin\Debug\netcoreapp2.1\trigolemi.runtimeconfig.json
+C:\Users\8b\source\repos\trigolemi\trigolemi\bin\Debug\netcoreapp2.1\trigolemi.runtimeconfig.dev.json
+C:\Users\8b\source\repos\trigolemi\trigolemi\bin\Debug\netcoreapp2.1\trigolemi.dll
+C:\Users\8b\source\repos\trigolemi\trigolemi\bin\Debug\netcoreapp2.1\trigolemi.pdb
+C:\Users\8b\source\repos\trigolemi\trigolemi\obj\Debug\netcoreapp2.1\trigolemi.csprojAssemblyReference.cache
+C:\Users\8b\source\repos\trigolemi\trigolemi\obj\Debug\netcoreapp2.1\trigolemi.csproj.CoreCompileInputs.cache
+C:\Users\8b\source\repos\trigolemi\trigolemi\obj\Debug\netcoreapp2.1\trigolemi.AssemblyInfoInputs.cache
+C:\Users\8b\source\repos\trigolemi\trigolemi\obj\Debug\netcoreapp2.1\trigolemi.AssemblyInfo.cs
+C:\Users\8b\source\repos\trigolemi\trigolemi\obj\Debug\netcoreapp2.1\trigolemi.dll
+C:\Users\8b\source\repos\trigolemi\trigolemi\obj\Debug\netcoreapp2.1\trigolemi.pdb
