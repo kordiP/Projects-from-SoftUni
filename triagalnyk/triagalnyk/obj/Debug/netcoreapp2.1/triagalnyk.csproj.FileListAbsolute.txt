@@ -1,0 +1,23 @@
+C:\Users\8b\source\repos\triagalnyk\triagalnyk\bin\Debug\netcoreapp2.1\triagalnyk.deps.json
+C:\Users\8b\source\repos\triagalnyk\triagalnyk\bin\Debug\netcoreapp2.1\triagalnyk.runtimeconfig.json
+C:\Users\8b\source\repos\triagalnyk\triagalnyk\bin\Debug\netcoreapp2.1\triagalnyk.runtimeconfig.dev.json
+C:\Users\8b\source\repos\triagalnyk\triagalnyk\bin\Debug\netcoreapp2.1\triagalnyk.dll
+C:\Users\8b\source\repos\triagalnyk\triagalnyk\bin\Debug\netcoreapp2.1\triagalnyk.pdb
+C:\Users\8b\source\repos\triagalnyk\triagalnyk\obj\Debug\netcoreapp2.1\triagalnyk.csprojAssemblyReference.cache
+C:\Users\8b\source\repos\triagalnyk\triagalnyk\obj\Debug\netcoreapp2.1\triagalnyk.csproj.CoreCompileInputs.cache
+C:\Users\8b\source\repos\triagalnyk\triagalnyk\obj\Debug\netcoreapp2.1\triagalnyk.AssemblyInfoInputs.cache
+C:\Users\8b\source\repos\triagalnyk\triagalnyk\obj\Debug\netcoreapp2.1\triagalnyk.AssemblyInfo.cs
+C:\Users\8b\source\repos\triagalnyk\triagalnyk\obj\Debug\netcoreapp2.1\triagalnyk.dll
+C:\Users\8b\source\repos\triagalnyk\triagalnyk\obj\Debug\netcoreapp2.1\triagalnyk.pdb
+E:\work stuff\triagalnyk\triagalnyk\bin\Debug\netcoreapp2.1\triagalnyk.deps.json
+E:\work stuff\triagalnyk\triagalnyk\bin\Debug\netcoreapp2.1\triagalnyk.runtimeconfig.json
+E:\work stuff\triagalnyk\triagalnyk\bin\Debug\netcoreapp2.1\triagalnyk.runtimeconfig.dev.json
+E:\work stuff\triagalnyk\triagalnyk\bin\Debug\netcoreapp2.1\triagalnyk.dll
+E:\work stuff\triagalnyk\triagalnyk\bin\Debug\netcoreapp2.1\triagalnyk.pdb
+E:\work stuff\triagalnyk\triagalnyk\obj\Debug\netcoreapp2.1\triagalnyk.csprojAssemblyReference.cache
+E:\work stuff\triagalnyk\triagalnyk\obj\Debug\netcoreapp2.1\triagalnyk.AssemblyInfoInputs.cache
+E:\work stuff\triagalnyk\triagalnyk\obj\Debug\netcoreapp2.1\triagalnyk.AssemblyInfo.cs
+E:\work stuff\triagalnyk\triagalnyk\obj\Debug\netcoreapp2.1\triagalnyk.csproj.CoreCompileInputs.cache
+E:\work stuff\triagalnyk\triagalnyk\obj\Debug\netcoreapp2.1\triagalnyk.dll
+E:\work stuff\triagalnyk\triagalnyk\obj\Debug\netcoreapp2.1\triagalnyk.pdb
+E:\work stuff\triagalnyk\triagalnyk\obj\Debug\netcoreapp2.1\triagalnyk.genruntimeconfig.cache
