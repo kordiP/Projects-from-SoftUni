@@ -1,0 +1,11 @@
+C:\Users\8b\source\repos\Yeet\Yeet\bin\Debug\netcoreapp2.1\Yeet.deps.json
+C:\Users\8b\source\repos\Yeet\Yeet\bin\Debug\netcoreapp2.1\Yeet.runtimeconfig.json
+C:\Users\8b\source\repos\Yeet\Yeet\bin\Debug\netcoreapp2.1\Yeet.runtimeconfig.dev.json
+C:\Users\8b\source\repos\Yeet\Yeet\bin\Debug\netcoreapp2.1\Yeet.dll
+C:\Users\8b\source\repos\Yeet\Yeet\bin\Debug\netcoreapp2.1\Yeet.pdb
+C:\Users\8b\source\repos\Yeet\Yeet\obj\Debug\netcoreapp2.1\Yeet.csprojAssemblyReference.cache
+C:\Users\8b\source\repos\Yeet\Yeet\obj\Debug\netcoreapp2.1\Yeet.csproj.CoreCompileInputs.cache
+C:\Users\8b\source\repos\Yeet\Yeet\obj\Debug\netcoreapp2.1\Yeet.AssemblyInfoInputs.cache
+C:\Users\8b\source\repos\Yeet\Yeet\obj\Debug\netcoreapp2.1\Yeet.AssemblyInfo.cs
+C:\Users\8b\source\repos\Yeet\Yeet\obj\Debug\netcoreapp2.1\Yeet.dll
+C:\Users\8b\source\repos\Yeet\Yeet\obj\Debug\netcoreapp2.1\Yeet.pdb

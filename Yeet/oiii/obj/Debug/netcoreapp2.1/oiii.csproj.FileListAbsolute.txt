@@ -1,0 +1,11 @@
+C:\Users\8b\source\repos\Yeet\oiii\bin\Debug\netcoreapp2.1\oiii.deps.json
+C:\Users\8b\source\repos\Yeet\oiii\bin\Debug\netcoreapp2.1\oiii.runtimeconfig.json
+C:\Users\8b\source\repos\Yeet\oiii\bin\Debug\netcoreapp2.1\oiii.runtimeconfig.dev.json
+C:\Users\8b\source\repos\Yeet\oiii\bin\Debug\netcoreapp2.1\oiii.dll
+C:\Users\8b\source\repos\Yeet\oiii\bin\Debug\netcoreapp2.1\oiii.pdb
+C:\Users\8b\source\repos\Yeet\oiii\obj\Debug\netcoreapp2.1\oiii.csproj.CoreCompileInputs.cache
+C:\Users\8b\source\repos\Yeet\oiii\obj\Debug\netcoreapp2.1\oiii.AssemblyInfoInputs.cache
+C:\Users\8b\source\repos\Yeet\oiii\obj\Debug\netcoreapp2.1\oiii.AssemblyInfo.cs
+C:\Users\8b\source\repos\Yeet\oiii\obj\Debug\netcoreapp2.1\oiii.dll
+C:\Users\8b\source\repos\Yeet\oiii\obj\Debug\netcoreapp2.1\oiii.pdb
+C:\Users\8b\source\repos\Yeet\oiii\obj\Debug\netcoreapp2.1\oiii.csprojAssemblyReference.cache
