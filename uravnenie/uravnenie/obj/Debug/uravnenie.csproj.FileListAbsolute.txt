@@ -1,0 +1,7 @@
+C:\Users\8b\source\repos\uravnenie\uravnenie\bin\Debug\uravnenie.exe.config
+C:\Users\8b\source\repos\uravnenie\uravnenie\bin\Debug\uravnenie.exe
+C:\Users\8b\source\repos\uravnenie\uravnenie\bin\Debug\uravnenie.pdb
+C:\Users\8b\source\repos\uravnenie\uravnenie\obj\Debug\uravnenie.csprojAssemblyReference.cache
+C:\Users\8b\source\repos\uravnenie\uravnenie\obj\Debug\uravnenie.csproj.CoreCompileInputs.cache
+C:\Users\8b\source\repos\uravnenie\uravnenie\obj\Debug\uravnenie.exe
+C:\Users\8b\source\repos\uravnenie\uravnenie\obj\Debug\uravnenie.pdb
