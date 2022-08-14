@@ -1,0 +1,7 @@
+C:\Users\Nasko\source\repos\zadacha9b\zadacha9b\bin\Debug\zadacha9b.exe.config
+C:\Users\Nasko\source\repos\zadacha9b\zadacha9b\bin\Debug\zadacha9b.exe
+C:\Users\Nasko\source\repos\zadacha9b\zadacha9b\bin\Debug\zadacha9b.pdb
+C:\Users\Nasko\source\repos\zadacha9b\zadacha9b\obj\Debug\zadacha9b.csprojAssemblyReference.cache
+C:\Users\Nasko\source\repos\zadacha9b\zadacha9b\obj\Debug\zadacha9b.csproj.CoreCompileInputs.cache
+C:\Users\Nasko\source\repos\zadacha9b\zadacha9b\obj\Debug\zadacha9b.exe
+C:\Users\Nasko\source\repos\zadacha9b\zadacha9b\obj\Debug\zadacha9b.pdb

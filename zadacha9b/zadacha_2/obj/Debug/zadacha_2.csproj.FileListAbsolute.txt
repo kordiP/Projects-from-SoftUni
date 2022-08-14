@@ -1,0 +1,6 @@
+C:\Users\Nasko\source\repos\zadacha9b\zadacha_2\bin\Debug\zadacha_2.exe.config
+C:\Users\Nasko\source\repos\zadacha9b\zadacha_2\bin\Debug\zadacha_2.exe
+C:\Users\Nasko\source\repos\zadacha9b\zadacha_2\bin\Debug\zadacha_2.pdb
+C:\Users\Nasko\source\repos\zadacha9b\zadacha_2\obj\Debug\zadacha_2.csproj.CoreCompileInputs.cache
+C:\Users\Nasko\source\repos\zadacha9b\zadacha_2\obj\Debug\zadacha_2.exe
+C:\Users\Nasko\source\repos\zadacha9b\zadacha_2\obj\Debug\zadacha_2.pdb
