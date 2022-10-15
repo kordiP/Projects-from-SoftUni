@@ -1,0 +1,14 @@
+D:\m05\Shopping System\ShoppingSystem\ShoppingSystem\bin\Debug\netcoreapp3.1\ShoppingSystem.exe
+D:\m05\Shopping System\ShoppingSystem\ShoppingSystem\bin\Debug\netcoreapp3.1\ShoppingSystem.deps.json
+D:\m05\Shopping System\ShoppingSystem\ShoppingSystem\bin\Debug\netcoreapp3.1\ShoppingSystem.runtimeconfig.json
+D:\m05\Shopping System\ShoppingSystem\ShoppingSystem\bin\Debug\netcoreapp3.1\ShoppingSystem.runtimeconfig.dev.json
+D:\m05\Shopping System\ShoppingSystem\ShoppingSystem\bin\Debug\netcoreapp3.1\ShoppingSystem.dll
+D:\m05\Shopping System\ShoppingSystem\ShoppingSystem\bin\Debug\netcoreapp3.1\ShoppingSystem.pdb
+D:\m05\Shopping System\ShoppingSystem\ShoppingSystem\obj\Debug\netcoreapp3.1\ShoppingSystem.csproj.AssemblyReference.cache
+D:\m05\Shopping System\ShoppingSystem\ShoppingSystem\obj\Debug\netcoreapp3.1\ShoppingSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\m05\Shopping System\ShoppingSystem\ShoppingSystem\obj\Debug\netcoreapp3.1\ShoppingSystem.AssemblyInfoInputs.cache
+D:\m05\Shopping System\ShoppingSystem\ShoppingSystem\obj\Debug\netcoreapp3.1\ShoppingSystem.AssemblyInfo.cs
+D:\m05\Shopping System\ShoppingSystem\ShoppingSystem\obj\Debug\netcoreapp3.1\ShoppingSystem.csproj.CoreCompileInputs.cache
+D:\m05\Shopping System\ShoppingSystem\ShoppingSystem\obj\Debug\netcoreapp3.1\ShoppingSystem.dll
+D:\m05\Shopping System\ShoppingSystem\ShoppingSystem\obj\Debug\netcoreapp3.1\ShoppingSystem.pdb
+D:\m05\Shopping System\ShoppingSystem\ShoppingSystem\obj\Debug\netcoreapp3.1\ShoppingSystem.genruntimeconfig.cache
