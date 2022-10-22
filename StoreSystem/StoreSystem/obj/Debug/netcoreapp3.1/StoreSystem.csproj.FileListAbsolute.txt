@@ -1,0 +1,14 @@
+C:\Users\Nasko\Desktop\StoreSystem\StoreSystem\StoreSystem\bin\Debug\netcoreapp3.1\StoreSystem.exe
+C:\Users\Nasko\Desktop\StoreSystem\StoreSystem\StoreSystem\bin\Debug\netcoreapp3.1\StoreSystem.deps.json
+C:\Users\Nasko\Desktop\StoreSystem\StoreSystem\StoreSystem\bin\Debug\netcoreapp3.1\StoreSystem.runtimeconfig.json
+C:\Users\Nasko\Desktop\StoreSystem\StoreSystem\StoreSystem\bin\Debug\netcoreapp3.1\StoreSystem.runtimeconfig.dev.json
+C:\Users\Nasko\Desktop\StoreSystem\StoreSystem\StoreSystem\bin\Debug\netcoreapp3.1\StoreSystem.dll
+C:\Users\Nasko\Desktop\StoreSystem\StoreSystem\StoreSystem\bin\Debug\netcoreapp3.1\StoreSystem.pdb
+C:\Users\Nasko\Desktop\StoreSystem\StoreSystem\StoreSystem\obj\Debug\netcoreapp3.1\StoreSystem.csproj.AssemblyReference.cache
+C:\Users\Nasko\Desktop\StoreSystem\StoreSystem\StoreSystem\obj\Debug\netcoreapp3.1\StoreSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nasko\Desktop\StoreSystem\StoreSystem\StoreSystem\obj\Debug\netcoreapp3.1\StoreSystem.AssemblyInfoInputs.cache
+C:\Users\Nasko\Desktop\StoreSystem\StoreSystem\StoreSystem\obj\Debug\netcoreapp3.1\StoreSystem.AssemblyInfo.cs
+C:\Users\Nasko\Desktop\StoreSystem\StoreSystem\StoreSystem\obj\Debug\netcoreapp3.1\StoreSystem.csproj.CoreCompileInputs.cache
+C:\Users\Nasko\Desktop\StoreSystem\StoreSystem\StoreSystem\obj\Debug\netcoreapp3.1\StoreSystem.dll
+C:\Users\Nasko\Desktop\StoreSystem\StoreSystem\StoreSystem\obj\Debug\netcoreapp3.1\StoreSystem.pdb
+C:\Users\Nasko\Desktop\StoreSystem\StoreSystem\StoreSystem\obj\Debug\netcoreapp3.1\StoreSystem.genruntimeconfig.cache
