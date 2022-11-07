@@ -1,0 +1,14 @@
+C:\Users\Nasko\Desktop\repo\Text-animation-test\Text-animation-test\bin\Debug\netcoreapp3.1\Text-animation-test.exe
+C:\Users\Nasko\Desktop\repo\Text-animation-test\Text-animation-test\bin\Debug\netcoreapp3.1\Text-animation-test.deps.json
+C:\Users\Nasko\Desktop\repo\Text-animation-test\Text-animation-test\bin\Debug\netcoreapp3.1\Text-animation-test.runtimeconfig.json
+C:\Users\Nasko\Desktop\repo\Text-animation-test\Text-animation-test\bin\Debug\netcoreapp3.1\Text-animation-test.runtimeconfig.dev.json
+C:\Users\Nasko\Desktop\repo\Text-animation-test\Text-animation-test\bin\Debug\netcoreapp3.1\Text-animation-test.dll
+C:\Users\Nasko\Desktop\repo\Text-animation-test\Text-animation-test\bin\Debug\netcoreapp3.1\Text-animation-test.pdb
+C:\Users\Nasko\Desktop\repo\Text-animation-test\Text-animation-test\obj\Debug\netcoreapp3.1\Text-animation-test.csproj.AssemblyReference.cache
+C:\Users\Nasko\Desktop\repo\Text-animation-test\Text-animation-test\obj\Debug\netcoreapp3.1\Text-animation-test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nasko\Desktop\repo\Text-animation-test\Text-animation-test\obj\Debug\netcoreapp3.1\Text-animation-test.AssemblyInfoInputs.cache
+C:\Users\Nasko\Desktop\repo\Text-animation-test\Text-animation-test\obj\Debug\netcoreapp3.1\Text-animation-test.AssemblyInfo.cs
+C:\Users\Nasko\Desktop\repo\Text-animation-test\Text-animation-test\obj\Debug\netcoreapp3.1\Text-animation-test.csproj.CoreCompileInputs.cache
+C:\Users\Nasko\Desktop\repo\Text-animation-test\Text-animation-test\obj\Debug\netcoreapp3.1\Text-animation-test.dll
+C:\Users\Nasko\Desktop\repo\Text-animation-test\Text-animation-test\obj\Debug\netcoreapp3.1\Text-animation-test.pdb
+C:\Users\Nasko\Desktop\repo\Text-animation-test\Text-animation-test\obj\Debug\netcoreapp3.1\Text-animation-test.genruntimeconfig.cache
