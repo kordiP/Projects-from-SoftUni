@@ -1,0 +1,14 @@
+C:\Users\Nasko\Desktop\repo\Zoo\Zoo\bin\Debug\netcoreapp3.1\Zoo.exe
+C:\Users\Nasko\Desktop\repo\Zoo\Zoo\bin\Debug\netcoreapp3.1\Zoo.deps.json
+C:\Users\Nasko\Desktop\repo\Zoo\Zoo\bin\Debug\netcoreapp3.1\Zoo.runtimeconfig.json
+C:\Users\Nasko\Desktop\repo\Zoo\Zoo\bin\Debug\netcoreapp3.1\Zoo.runtimeconfig.dev.json
+C:\Users\Nasko\Desktop\repo\Zoo\Zoo\bin\Debug\netcoreapp3.1\Zoo.dll
+C:\Users\Nasko\Desktop\repo\Zoo\Zoo\bin\Debug\netcoreapp3.1\Zoo.pdb
+C:\Users\Nasko\Desktop\repo\Zoo\Zoo\obj\Debug\netcoreapp3.1\Zoo.csproj.AssemblyReference.cache
+C:\Users\Nasko\Desktop\repo\Zoo\Zoo\obj\Debug\netcoreapp3.1\Zoo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nasko\Desktop\repo\Zoo\Zoo\obj\Debug\netcoreapp3.1\Zoo.AssemblyInfoInputs.cache
+C:\Users\Nasko\Desktop\repo\Zoo\Zoo\obj\Debug\netcoreapp3.1\Zoo.AssemblyInfo.cs
+C:\Users\Nasko\Desktop\repo\Zoo\Zoo\obj\Debug\netcoreapp3.1\Zoo.csproj.CoreCompileInputs.cache
+C:\Users\Nasko\Desktop\repo\Zoo\Zoo\obj\Debug\netcoreapp3.1\Zoo.dll
+C:\Users\Nasko\Desktop\repo\Zoo\Zoo\obj\Debug\netcoreapp3.1\Zoo.pdb
+C:\Users\Nasko\Desktop\repo\Zoo\Zoo\obj\Debug\netcoreapp3.1\Zoo.genruntimeconfig.cache
