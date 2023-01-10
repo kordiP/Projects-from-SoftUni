@@ -34,7 +34,7 @@ C# Programming, which includes the following 12 themes:
 2) Methods in classes
 3) Data capsulation in OOP
 4) Static members in classes
-5) Abstraction, interfaces, inheritance and polymorphism *** NOT STUDIED YET, WILL BE NEXT YEAR!
+5) Abstraction, interfaces, inheritance and polymorphism 
 
 
 # 4. Introduction to Algorythms and Data Structures
