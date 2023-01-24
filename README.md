@@ -1,4 +1,4 @@
-# Projects-from-SoftUni--Year-1
+# Projects-from-SoftUni
 
 This repository includes every problem I solved in SoftUni's collaboration with MON --> IT-kariera. 
 
@@ -6,7 +6,7 @@ This repository includes every problem I solved in SoftUni's collaboration with 
 
 # What are the projects about?
 
-C# Programming, which includes the following 5 themes:
+C# Programming, which includes the following 12 themes:
 
 
 # 1. Introduction to programming
@@ -34,7 +34,7 @@ C# Programming, which includes the following 5 themes:
 2) Methods in classes
 3) Data capsulation in OOP
 4) Static members in classes
-5) Abstraction, interfaces, inheritance and polymorphism *** NOT STUDIED YET, WILL BE NEXT YEAR!
+5) Abstraction, interfaces, inheritance and polymorphism 
 
 
 # 4. Introduction to Algorythms and Data Structures
@@ -46,5 +46,12 @@ C# Programming, which includes the following 5 themes:
 5) Searching algorythms
 6) Lists, sorting and searching
 
+# 5. Object-Oriented-Programming
+
+<add themes>
+
+# 6. Databases
+
+<add themes>
 Thank you for stopping by, appreciate it!
 
