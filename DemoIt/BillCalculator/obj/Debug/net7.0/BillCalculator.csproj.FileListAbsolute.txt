@@ -1,0 +1,15 @@
+C:\Users\Nasko\Desktop\repo\DemoIt\BillCalculator\bin\Debug\net7.0\BillCalculator.exe
+C:\Users\Nasko\Desktop\repo\DemoIt\BillCalculator\bin\Debug\net7.0\BillCalculator.deps.json
+C:\Users\Nasko\Desktop\repo\DemoIt\BillCalculator\bin\Debug\net7.0\BillCalculator.runtimeconfig.json
+C:\Users\Nasko\Desktop\repo\DemoIt\BillCalculator\bin\Debug\net7.0\BillCalculator.dll
+C:\Users\Nasko\Desktop\repo\DemoIt\BillCalculator\bin\Debug\net7.0\BillCalculator.pdb
+C:\Users\Nasko\Desktop\repo\DemoIt\BillCalculator\obj\Debug\net7.0\BillCalculator.csproj.AssemblyReference.cache
+C:\Users\Nasko\Desktop\repo\DemoIt\BillCalculator\obj\Debug\net7.0\BillCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nasko\Desktop\repo\DemoIt\BillCalculator\obj\Debug\net7.0\BillCalculator.AssemblyInfoInputs.cache
+C:\Users\Nasko\Desktop\repo\DemoIt\BillCalculator\obj\Debug\net7.0\BillCalculator.AssemblyInfo.cs
+C:\Users\Nasko\Desktop\repo\DemoIt\BillCalculator\obj\Debug\net7.0\BillCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Nasko\Desktop\repo\DemoIt\BillCalculator\obj\Debug\net7.0\BillCalculator.dll
+C:\Users\Nasko\Desktop\repo\DemoIt\BillCalculator\obj\Debug\net7.0\refint\BillCalculator.dll
+C:\Users\Nasko\Desktop\repo\DemoIt\BillCalculator\obj\Debug\net7.0\BillCalculator.pdb
+C:\Users\Nasko\Desktop\repo\DemoIt\BillCalculator\obj\Debug\net7.0\BillCalculator.genruntimeconfig.cache
+C:\Users\Nasko\Desktop\repo\DemoIt\BillCalculator\obj\Debug\net7.0\ref\BillCalculator.dll
