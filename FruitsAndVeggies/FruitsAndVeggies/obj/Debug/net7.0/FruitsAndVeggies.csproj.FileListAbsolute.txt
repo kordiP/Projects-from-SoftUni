@@ -1,0 +1,15 @@
+C:\Users\Nasko\Desktop\repo\FruitsAndVeggies\FruitsAndVeggies\bin\Debug\net7.0\FruitsAndVeggies.exe
+C:\Users\Nasko\Desktop\repo\FruitsAndVeggies\FruitsAndVeggies\bin\Debug\net7.0\FruitsAndVeggies.deps.json
+C:\Users\Nasko\Desktop\repo\FruitsAndVeggies\FruitsAndVeggies\bin\Debug\net7.0\FruitsAndVeggies.runtimeconfig.json
+C:\Users\Nasko\Desktop\repo\FruitsAndVeggies\FruitsAndVeggies\bin\Debug\net7.0\FruitsAndVeggies.dll
+C:\Users\Nasko\Desktop\repo\FruitsAndVeggies\FruitsAndVeggies\bin\Debug\net7.0\FruitsAndVeggies.pdb
+C:\Users\Nasko\Desktop\repo\FruitsAndVeggies\FruitsAndVeggies\obj\Debug\net7.0\FruitsAndVeggies.csproj.AssemblyReference.cache
+C:\Users\Nasko\Desktop\repo\FruitsAndVeggies\FruitsAndVeggies\obj\Debug\net7.0\FruitsAndVeggies.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nasko\Desktop\repo\FruitsAndVeggies\FruitsAndVeggies\obj\Debug\net7.0\FruitsAndVeggies.AssemblyInfoInputs.cache
+C:\Users\Nasko\Desktop\repo\FruitsAndVeggies\FruitsAndVeggies\obj\Debug\net7.0\FruitsAndVeggies.AssemblyInfo.cs
+C:\Users\Nasko\Desktop\repo\FruitsAndVeggies\FruitsAndVeggies\obj\Debug\net7.0\FruitsAndVeggies.csproj.CoreCompileInputs.cache
+C:\Users\Nasko\Desktop\repo\FruitsAndVeggies\FruitsAndVeggies\obj\Debug\net7.0\FruitsAndVeggies.dll
+C:\Users\Nasko\Desktop\repo\FruitsAndVeggies\FruitsAndVeggies\obj\Debug\net7.0\refint\FruitsAndVeggies.dll
+C:\Users\Nasko\Desktop\repo\FruitsAndVeggies\FruitsAndVeggies\obj\Debug\net7.0\FruitsAndVeggies.pdb
+C:\Users\Nasko\Desktop\repo\FruitsAndVeggies\FruitsAndVeggies\obj\Debug\net7.0\FruitsAndVeggies.genruntimeconfig.cache
+C:\Users\Nasko\Desktop\repo\FruitsAndVeggies\FruitsAndVeggies\obj\Debug\net7.0\ref\FruitsAndVeggies.dll
