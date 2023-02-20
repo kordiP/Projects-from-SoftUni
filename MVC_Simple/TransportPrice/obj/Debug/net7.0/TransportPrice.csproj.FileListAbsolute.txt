@@ -1,0 +1,15 @@
+C:\Users\Nasko\Desktop\repo\MVC_Simple\TransportPrice\bin\Debug\net7.0\TransportPrice.exe
+C:\Users\Nasko\Desktop\repo\MVC_Simple\TransportPrice\bin\Debug\net7.0\TransportPrice.deps.json
+C:\Users\Nasko\Desktop\repo\MVC_Simple\TransportPrice\bin\Debug\net7.0\TransportPrice.runtimeconfig.json
+C:\Users\Nasko\Desktop\repo\MVC_Simple\TransportPrice\bin\Debug\net7.0\TransportPrice.dll
+C:\Users\Nasko\Desktop\repo\MVC_Simple\TransportPrice\bin\Debug\net7.0\TransportPrice.pdb
+C:\Users\Nasko\Desktop\repo\MVC_Simple\TransportPrice\obj\Debug\net7.0\TransportPrice.csproj.AssemblyReference.cache
+C:\Users\Nasko\Desktop\repo\MVC_Simple\TransportPrice\obj\Debug\net7.0\TransportPrice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nasko\Desktop\repo\MVC_Simple\TransportPrice\obj\Debug\net7.0\TransportPrice.AssemblyInfoInputs.cache
+C:\Users\Nasko\Desktop\repo\MVC_Simple\TransportPrice\obj\Debug\net7.0\TransportPrice.AssemblyInfo.cs
+C:\Users\Nasko\Desktop\repo\MVC_Simple\TransportPrice\obj\Debug\net7.0\TransportPrice.csproj.CoreCompileInputs.cache
+C:\Users\Nasko\Desktop\repo\MVC_Simple\TransportPrice\obj\Debug\net7.0\TransportPrice.dll
+C:\Users\Nasko\Desktop\repo\MVC_Simple\TransportPrice\obj\Debug\net7.0\refint\TransportPrice.dll
+C:\Users\Nasko\Desktop\repo\MVC_Simple\TransportPrice\obj\Debug\net7.0\TransportPrice.pdb
+C:\Users\Nasko\Desktop\repo\MVC_Simple\TransportPrice\obj\Debug\net7.0\TransportPrice.genruntimeconfig.cache
+C:\Users\Nasko\Desktop\repo\MVC_Simple\TransportPrice\obj\Debug\net7.0\ref\TransportPrice.dll
