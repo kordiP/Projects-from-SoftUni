@@ -1,0 +1,7 @@
+C:\Users\Nasko\source\repos\enshti\enshti\bin\Debug\enshti.exe.config
+C:\Users\Nasko\source\repos\enshti\enshti\bin\Debug\enshti.exe
+C:\Users\Nasko\source\repos\enshti\enshti\bin\Debug\enshti.pdb
+C:\Users\Nasko\source\repos\enshti\enshti\obj\Debug\enshti.csprojAssemblyReference.cache
+C:\Users\Nasko\source\repos\enshti\enshti\obj\Debug\enshti.csproj.CoreCompileInputs.cache
+C:\Users\Nasko\source\repos\enshti\enshti\obj\Debug\enshti.exe
+C:\Users\Nasko\source\repos\enshti\enshti\obj\Debug\enshti.pdb

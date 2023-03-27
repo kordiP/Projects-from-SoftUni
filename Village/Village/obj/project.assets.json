@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\m05\\Village\\Village\\Village\\Village.csproj",
+      "projectUniqueName": "C:\\Users\\Nasko\\Desktop\\repo\\Village\\Village\\Village.csproj",
       "projectName": "Village",
-      "projectPath": "E:\\m05\\Village\\Village\\Village\\Village.csproj",
+      "projectPath": "C:\\Users\\Nasko\\Desktop\\repo\\Village\\Village\\Village.csproj",
       "packagesPath": "C:\\Users\\Nasko\\.nuget\\packages\\",
-      "outputPath": "E:\\m05\\Village\\Village\\Village\\obj\\",
+      "outputPath": "C:\\Users\\Nasko\\Desktop\\repo\\Village\\Village\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

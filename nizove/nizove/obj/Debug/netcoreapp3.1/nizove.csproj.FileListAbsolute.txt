@@ -1,0 +1,13 @@
+C:\Users\Nasko\source\repos\nizove\nizove\bin\Debug\netcoreapp3.1\nizove.exe
+C:\Users\Nasko\source\repos\nizove\nizove\bin\Debug\netcoreapp3.1\nizove.deps.json
+C:\Users\Nasko\source\repos\nizove\nizove\bin\Debug\netcoreapp3.1\nizove.runtimeconfig.json
+C:\Users\Nasko\source\repos\nizove\nizove\bin\Debug\netcoreapp3.1\nizove.runtimeconfig.dev.json
+C:\Users\Nasko\source\repos\nizove\nizove\bin\Debug\netcoreapp3.1\nizove.dll
+C:\Users\Nasko\source\repos\nizove\nizove\bin\Debug\netcoreapp3.1\nizove.pdb
+C:\Users\Nasko\source\repos\nizove\nizove\obj\Debug\netcoreapp3.1\nizove.csprojAssemblyReference.cache
+C:\Users\Nasko\source\repos\nizove\nizove\obj\Debug\netcoreapp3.1\nizove.AssemblyInfoInputs.cache
+C:\Users\Nasko\source\repos\nizove\nizove\obj\Debug\netcoreapp3.1\nizove.AssemblyInfo.cs
+C:\Users\Nasko\source\repos\nizove\nizove\obj\Debug\netcoreapp3.1\nizove.csproj.CoreCompileInputs.cache
+C:\Users\Nasko\source\repos\nizove\nizove\obj\Debug\netcoreapp3.1\nizove.dll
+C:\Users\Nasko\source\repos\nizove\nizove\obj\Debug\netcoreapp3.1\nizove.pdb
+C:\Users\Nasko\source\repos\nizove\nizove\obj\Debug\netcoreapp3.1\nizove.genruntimeconfig.cache

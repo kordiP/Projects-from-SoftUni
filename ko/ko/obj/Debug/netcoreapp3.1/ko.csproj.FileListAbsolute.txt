@@ -1,0 +1,16 @@
+C:\Users\Nasko\Desktop\repo\ko\ko\bin\Debug\netcoreapp3.1\ko.exe
+C:\Users\Nasko\Desktop\repo\ko\ko\bin\Debug\netcoreapp3.1\ko.deps.json
+C:\Users\Nasko\Desktop\repo\ko\ko\bin\Debug\netcoreapp3.1\ko.runtimeconfig.json
+C:\Users\Nasko\Desktop\repo\ko\ko\bin\Debug\netcoreapp3.1\ko.runtimeconfig.dev.json
+C:\Users\Nasko\Desktop\repo\ko\ko\bin\Debug\netcoreapp3.1\ko.dll
+C:\Users\Nasko\Desktop\repo\ko\ko\bin\Debug\netcoreapp3.1\ko.pdb
+C:\Users\Nasko\Desktop\repo\ko\ko\obj\Debug\netcoreapp3.1\ko.csproj.AssemblyReference.cache
+C:\Users\Nasko\Desktop\repo\ko\ko\obj\Debug\netcoreapp3.1\ko.Form1.resources
+C:\Users\Nasko\Desktop\repo\ko\ko\obj\Debug\netcoreapp3.1\ko.csproj.GenerateResource.cache
+C:\Users\Nasko\Desktop\repo\ko\ko\obj\Debug\netcoreapp3.1\ko.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nasko\Desktop\repo\ko\ko\obj\Debug\netcoreapp3.1\ko.AssemblyInfoInputs.cache
+C:\Users\Nasko\Desktop\repo\ko\ko\obj\Debug\netcoreapp3.1\ko.AssemblyInfo.cs
+C:\Users\Nasko\Desktop\repo\ko\ko\obj\Debug\netcoreapp3.1\ko.csproj.CoreCompileInputs.cache
+C:\Users\Nasko\Desktop\repo\ko\ko\obj\Debug\netcoreapp3.1\ko.dll
+C:\Users\Nasko\Desktop\repo\ko\ko\obj\Debug\netcoreapp3.1\ko.pdb
+C:\Users\Nasko\Desktop\repo\ko\ko\obj\Debug\netcoreapp3.1\ko.genruntimeconfig.cache

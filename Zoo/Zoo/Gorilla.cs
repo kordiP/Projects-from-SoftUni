@@ -8,7 +8,6 @@ namespace Zoo
     {
         public Gorilla(string name) : base(name)
         {
-            base.Name = name;
         }
         public override string ToString()
         {

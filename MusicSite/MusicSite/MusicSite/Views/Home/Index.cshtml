@@ -1,0 +1,13 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+@model MusicSite.ViewModels.IndexAllSongsViewModel
+
+@foreach(var song in Model.Songs)
+{
+    <h1>@song.Name</h1>
+        <iframe width="560" height="315" src="@song.Link" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        <h1>@song.Category</h1>
+            <h1>@song.Description</h1>
+            <a asp-route-id="@song.Id" asp-area="" asp-action="AddToPlaylist" asp-controller="Playlist" class="btn btn-primary btn-lg" role="button">Add to playlist</a>
+}

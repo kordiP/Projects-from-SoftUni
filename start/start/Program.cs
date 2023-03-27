@@ -6,7 +6,7 @@ namespace start
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee");
+            Console.WriteLine("Press ENTER to stop.");
             Console.ReadLine();
         }
     }

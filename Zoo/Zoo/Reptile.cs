@@ -8,7 +8,6 @@ namespace Zoo
     {
         public Reptile(string name):base(name)
         {
-            base.Name = name;
         }
     }
 }

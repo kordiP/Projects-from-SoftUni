@@ -1,42 +1,49 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
+﻿using BrokerCompanySystem;
+using System;
 
 namespace BrokerCompanySystem
 {
-    internal class Engine
+    internal class EngineV1
     {
         public void Run()
         {
             ControllerClass controllerClass = new ControllerClass();
-            Console.WriteLine("Commands:\nCreateCompany*<name>\nRegisterBuilding*<type, name, city, stars, rentAmount, companyName>\nRegisterBroker*<name, age, city, companyName>\nRentBuilding*<companyName, buildingName, brokerName>\nCompanyInfo*<name>\nShutdown<>\n");
-            string[] input = Console.ReadLine().Split('*');
-            while (input[0] != "Shutdown")
+            MainMenu();
+            ConsoleKey input = Console.ReadKey().Key;
+            Console.Clear();
+            if (input == ConsoleKey.D1)
             {
-                switch (input[0])
-                {
-                    case "CreateCompany":
-                        Console.WriteLine(controllerClass.CreateCompany(input[1]));
-                        break;
-                    case "RegisterBuilding":
-                        Console.WriteLine(controllerClass.RegisterBuilding(input[1], input[2], input[3], int.Parse(input[4]), double.Parse(input[5]), input[6]));
-                        break;
-                    case "RegisterBroker":
-                        Console.WriteLine(controllerClass.RegisterBroker(input[1], int.Parse(input[2]), input[3], input[4]));
-                        break;
-                    case "RentBuilding":
-                        Console.WriteLine(controllerClass.RentBuilding(input[1], input[2], input[3]));
-                        break;
-                    case "CompanyInfo":
-                        Console.WriteLine(controllerClass.CompanyInfo(input[1]));
-                        break;
-                    default:
-                        Console.WriteLine("fuckin dumbahh cant write no command right bruh (ToT)");
-                        break;
-                }
-                input = Console.ReadLine().Split('*');
+                Console.WriteLine(controllerClass.CreateCompany(ClearAndSaveStrings("You chose to create a company. What name would you like to give to it?\n")));
+                input = Console.ReadKey().Key;
+                if (input == ConsoleKey.Escape) MainMenu();
             }
-            Console.WriteLine(controllerClass.Shutdown());
+        }
+        private void MainMenu()
+        {
+            Console.WriteLine("\n                   Broker Company System Menu.\n\n\n\n1. Create Company\n\n2. Register Building\n\n3. Register Broker\n\n4. Rent Building\n\n5. Company Info\n\n6. Shutdown\n\n");
+
+        }
+        private string ClearAndSaveStrings(string outputForWriting)
+        {
+            Console.WriteLine(outputForWriting);
+            string returnThat = Console.ReadLine();
+            Console.Clear();
+            Console.WriteLine("Press ESC to go back.");
+            return returnThat;
+        }
+        private int ClearAndSaveInts(int returnThat, string outputForWriting)
+        {
+            Console.WriteLine(outputForWriting);
+            returnThat = int.Parse(Console.ReadLine());
+            Console.Clear();
+            return returnThat;
+        }
+        private double ClearAndSaveDoubles(double returnThat, string outputForWriting)
+        {
+            Console.WriteLine(outputForWriting);
+            returnThat = double.Parse(Console.ReadLine());
+            Console.Clear();
+            return returnThat;
         }
     }
 }

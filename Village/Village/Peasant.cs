@@ -14,26 +14,24 @@ namespace Village
                 else throw new ArgumentException("Productivity cannot be less or equal to 0!");
             }
         }
-        private int agePeasant;
-        public int AgePeasant
+        public override int Age
         {
-            get { return agePeasant; }
+            get { return base.Age; }
             set
             {
-                if (value <= 110) agePeasant = value;
+                if (value <= 110) base.Age = value;
                 else throw new ArgumentException("Age cannot be greater than 110!");
             }
         }
         public Peasant(string name, int age, int productivity) : base(name, age)
         {
             Name = name;
-            AgePeasant = age;
-            Productivity = productivity;
             Age = age;
+            Productivity = productivity;
         }
         public override string ToString()
         {
-            return $"Name: {Name}\nAge: { Age}\nProductivity: { Productivity}\n";
+            return $"Name: {Name}\nAge: {Age}\nProductivity: {Productivity}\n";
         }
     }
 }

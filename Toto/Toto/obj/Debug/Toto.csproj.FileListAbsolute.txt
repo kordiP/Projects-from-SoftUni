@@ -18,3 +18,14 @@ E:\work stuff\Toto\Toto\obj\Debug\Toto.csproj.GenerateResource.cache
 E:\work stuff\Toto\Toto\obj\Debug\Toto.csproj.CoreCompileInputs.cache
 E:\work stuff\Toto\Toto\obj\Debug\Toto.exe
 E:\work stuff\Toto\Toto\obj\Debug\Toto.pdb
+C:\Users\Nasko\Desktop\repo\Toto\Toto\bin\Debug\Toto.exe.config
+C:\Users\Nasko\Desktop\repo\Toto\Toto\bin\Debug\Toto.exe
+C:\Users\Nasko\Desktop\repo\Toto\Toto\bin\Debug\Toto.pdb
+C:\Users\Nasko\Desktop\repo\Toto\Toto\obj\Debug\Toto.csproj.AssemblyReference.cache
+C:\Users\Nasko\Desktop\repo\Toto\Toto\obj\Debug\Toto.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nasko\Desktop\repo\Toto\Toto\obj\Debug\Toto.Form1.resources
+C:\Users\Nasko\Desktop\repo\Toto\Toto\obj\Debug\Toto.Properties.Resources.resources
+C:\Users\Nasko\Desktop\repo\Toto\Toto\obj\Debug\Toto.csproj.GenerateResource.cache
+C:\Users\Nasko\Desktop\repo\Toto\Toto\obj\Debug\Toto.csproj.CoreCompileInputs.cache
+C:\Users\Nasko\Desktop\repo\Toto\Toto\obj\Debug\Toto.exe
+C:\Users\Nasko\Desktop\repo\Toto\Toto\obj\Debug\Toto.pdb

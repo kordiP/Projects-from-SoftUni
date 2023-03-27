@@ -15,7 +15,7 @@ namespace Village
             }
         }
         private int age;
-        public int Age
+        public virtual int Age
         {
             get { return age; }
             set

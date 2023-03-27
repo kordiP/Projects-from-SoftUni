@@ -10,6 +10,11 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
+  	  int n = 100;
+	  for (int i = 0; i<=n; i++)
+	      {
+		Console.WriteLine("Chislo: " + i);
+	      }
         }
     }
 }

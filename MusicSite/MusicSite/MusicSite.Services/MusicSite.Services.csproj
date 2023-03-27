@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\MusicSite.Data.Models\MusicSite.Data.Models.csproj" />
+    <ProjectReference Include="..\MusicSite.Data\MusicSite.Data.csproj" />
+    <ProjectReference Include="..\MusicSite.ViewModels\MusicSite.ViewModels.csproj" />
+  </ItemGroup>
+
+</Project>

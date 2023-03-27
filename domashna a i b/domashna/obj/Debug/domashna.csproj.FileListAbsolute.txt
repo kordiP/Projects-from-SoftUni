@@ -1,0 +1,20 @@
+C:\Users\ROG\source\repos\domashna\domashna\bin\Debug\domashna.exe.config
+C:\Users\ROG\source\repos\domashna\domashna\bin\Debug\domashna.exe
+C:\Users\ROG\source\repos\domashna\domashna\bin\Debug\domashna.pdb
+C:\Users\ROG\source\repos\domashna\domashna\obj\Debug\domashna.csprojAssemblyReference.cache
+C:\Users\ROG\source\repos\domashna\domashna\obj\Debug\domashna.Form1.resources
+C:\Users\ROG\source\repos\domashna\domashna\obj\Debug\domashna.Properties.Resources.resources
+C:\Users\ROG\source\repos\domashna\domashna\obj\Debug\domashna.csproj.GenerateResource.cache
+C:\Users\ROG\source\repos\domashna\domashna\obj\Debug\domashna.csproj.CoreCompileInputs.cache
+C:\Users\ROG\source\repos\domashna\domashna\obj\Debug\domashna.exe
+C:\Users\ROG\source\repos\domashna\domashna\obj\Debug\domashna.pdb
+F:\work stuff\domashna\domashna\bin\Debug\domashna.exe.config
+F:\work stuff\domashna\domashna\bin\Debug\domashna.exe
+F:\work stuff\domashna\domashna\bin\Debug\domashna.pdb
+F:\work stuff\domashna\domashna\obj\Debug\domashna.csprojAssemblyReference.cache
+F:\work stuff\domashna\domashna\obj\Debug\domashna.Form1.resources
+F:\work stuff\domashna\domashna\obj\Debug\domashna.Properties.Resources.resources
+F:\work stuff\domashna\domashna\obj\Debug\domashna.csproj.GenerateResource.cache
+F:\work stuff\domashna\domashna\obj\Debug\domashna.csproj.CoreCompileInputs.cache
+F:\work stuff\domashna\domashna\obj\Debug\domashna.exe
+F:\work stuff\domashna\domashna\obj\Debug\domashna.pdb

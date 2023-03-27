@@ -1,0 +1,10 @@
+C:\Users\ROG\source\repos\domashnaZAdIs\domashnaZAdIs\bin\Debug\domashnaZAdIs.exe.config
+C:\Users\ROG\source\repos\domashnaZAdIs\domashnaZAdIs\bin\Debug\domashnaZAdIs.exe
+C:\Users\ROG\source\repos\domashnaZAdIs\domashnaZAdIs\bin\Debug\domashnaZAdIs.pdb
+C:\Users\ROG\source\repos\domashnaZAdIs\domashnaZAdIs\obj\Debug\domashnaZAdIs.csprojAssemblyReference.cache
+C:\Users\ROG\source\repos\domashnaZAdIs\domashnaZAdIs\obj\Debug\domashnaZAdIs.Form1.resources
+C:\Users\ROG\source\repos\domashnaZAdIs\domashnaZAdIs\obj\Debug\domashnaZAdIs.Properties.Resources.resources
+C:\Users\ROG\source\repos\domashnaZAdIs\domashnaZAdIs\obj\Debug\domashnaZAdIs.csproj.GenerateResource.cache
+C:\Users\ROG\source\repos\domashnaZAdIs\domashnaZAdIs\obj\Debug\domashnaZAdIs.csproj.CoreCompileInputs.cache
+C:\Users\ROG\source\repos\domashnaZAdIs\domashnaZAdIs\obj\Debug\domashnaZAdIs.exe
+C:\Users\ROG\source\repos\domashnaZAdIs\domashnaZAdIs\obj\Debug\domashnaZAdIs.pdb

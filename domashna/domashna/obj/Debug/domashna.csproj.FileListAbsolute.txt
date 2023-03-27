@@ -1,0 +1,7 @@
+C:\Users\Nasko\source\repos\domashna\domashna\bin\Debug\domashna.exe.config
+C:\Users\Nasko\source\repos\domashna\domashna\bin\Debug\domashna.exe
+C:\Users\Nasko\source\repos\domashna\domashna\bin\Debug\domashna.pdb
+C:\Users\Nasko\source\repos\domashna\domashna\obj\Debug\domashna.csprojAssemblyReference.cache
+C:\Users\Nasko\source\repos\domashna\domashna\obj\Debug\domashna.csproj.CoreCompileInputs.cache
+C:\Users\Nasko\source\repos\domashna\domashna\obj\Debug\domashna.exe
+C:\Users\Nasko\source\repos\domashna\domashna\obj\Debug\domashna.pdb

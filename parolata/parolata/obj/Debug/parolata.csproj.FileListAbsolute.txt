@@ -1,0 +1,7 @@
+C:\Users\Nasko\source\repos\parolata\parolata\bin\Debug\parolata.exe.config
+C:\Users\Nasko\source\repos\parolata\parolata\bin\Debug\parolata.exe
+C:\Users\Nasko\source\repos\parolata\parolata\bin\Debug\parolata.pdb
+C:\Users\Nasko\source\repos\parolata\parolata\obj\Debug\parolata.csprojAssemblyReference.cache
+C:\Users\Nasko\source\repos\parolata\parolata\obj\Debug\parolata.csproj.CoreCompileInputs.cache
+C:\Users\Nasko\source\repos\parolata\parolata\obj\Debug\parolata.exe
+C:\Users\Nasko\source\repos\parolata\parolata\obj\Debug\parolata.pdb

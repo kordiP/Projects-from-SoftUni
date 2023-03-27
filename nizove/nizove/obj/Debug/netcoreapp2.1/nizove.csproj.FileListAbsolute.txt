@@ -1,0 +1,10 @@
+C:\Users\8b\source\repos\nizove\nizove\bin\Debug\netcoreapp2.1\nizove.deps.json
+C:\Users\8b\source\repos\nizove\nizove\bin\Debug\netcoreapp2.1\nizove.runtimeconfig.json
+C:\Users\8b\source\repos\nizove\nizove\bin\Debug\netcoreapp2.1\nizove.runtimeconfig.dev.json
+C:\Users\8b\source\repos\nizove\nizove\bin\Debug\netcoreapp2.1\nizove.dll
+C:\Users\8b\source\repos\nizove\nizove\bin\Debug\netcoreapp2.1\nizove.pdb
+C:\Users\8b\source\repos\nizove\nizove\obj\Debug\netcoreapp2.1\nizove.csproj.CoreCompileInputs.cache
+C:\Users\8b\source\repos\nizove\nizove\obj\Debug\netcoreapp2.1\nizove.AssemblyInfoInputs.cache
+C:\Users\8b\source\repos\nizove\nizove\obj\Debug\netcoreapp2.1\nizove.AssemblyInfo.cs
+C:\Users\8b\source\repos\nizove\nizove\obj\Debug\netcoreapp2.1\nizove.dll
+C:\Users\8b\source\repos\nizove\nizove\obj\Debug\netcoreapp2.1\nizove.pdb

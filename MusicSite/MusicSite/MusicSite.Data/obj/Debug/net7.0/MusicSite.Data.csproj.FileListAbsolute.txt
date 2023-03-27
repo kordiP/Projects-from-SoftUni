@@ -1,0 +1,17 @@
+C:\Users\Nasko\Desktop\repo\MusicSite\MusicSite.Data\bin\Debug\net7.0\MusicSite.Data.deps.json
+C:\Users\Nasko\Desktop\repo\MusicSite\MusicSite.Data\bin\Debug\net7.0\MusicSite.Data.runtimeconfig.json
+C:\Users\Nasko\Desktop\repo\MusicSite\MusicSite.Data\bin\Debug\net7.0\MusicSite.Data.dll
+C:\Users\Nasko\Desktop\repo\MusicSite\MusicSite.Data\bin\Debug\net7.0\MusicSite.Data.pdb
+C:\Users\Nasko\Desktop\repo\MusicSite\MusicSite.Data\bin\Debug\net7.0\MusicSite.Data.Models.dll
+C:\Users\Nasko\Desktop\repo\MusicSite\MusicSite.Data\bin\Debug\net7.0\MusicSite.Data.Models.pdb
+C:\Users\Nasko\Desktop\repo\MusicSite\MusicSite.Data\obj\Debug\net7.0\MusicSite.Data.csproj.AssemblyReference.cache
+C:\Users\Nasko\Desktop\repo\MusicSite\MusicSite.Data\obj\Debug\net7.0\MusicSite.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nasko\Desktop\repo\MusicSite\MusicSite.Data\obj\Debug\net7.0\MusicSite.Data.AssemblyInfoInputs.cache
+C:\Users\Nasko\Desktop\repo\MusicSite\MusicSite.Data\obj\Debug\net7.0\MusicSite.Data.AssemblyInfo.cs
+C:\Users\Nasko\Desktop\repo\MusicSite\MusicSite.Data\obj\Debug\net7.0\MusicSite.Data.csproj.CoreCompileInputs.cache
+C:\Users\Nasko\Desktop\repo\MusicSite\MusicSite.Data\obj\Debug\net7.0\MusicSite.Data.csproj.CopyComplete
+C:\Users\Nasko\Desktop\repo\MusicSite\MusicSite.Data\obj\Debug\net7.0\MusicSite.Data.dll
+C:\Users\Nasko\Desktop\repo\MusicSite\MusicSite.Data\obj\Debug\net7.0\refint\MusicSite.Data.dll
+C:\Users\Nasko\Desktop\repo\MusicSite\MusicSite.Data\obj\Debug\net7.0\MusicSite.Data.pdb
+C:\Users\Nasko\Desktop\repo\MusicSite\MusicSite.Data\obj\Debug\net7.0\MusicSite.Data.genruntimeconfig.cache
+C:\Users\Nasko\Desktop\repo\MusicSite\MusicSite.Data\obj\Debug\net7.0\ref\MusicSite.Data.dll

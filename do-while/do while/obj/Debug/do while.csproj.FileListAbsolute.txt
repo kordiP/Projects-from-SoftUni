@@ -1,0 +1,7 @@
+D:\work stuff\do while\do while\bin\Debug\do while.exe.config
+D:\work stuff\do while\do while\bin\Debug\do while.exe
+D:\work stuff\do while\do while\bin\Debug\do while.pdb
+D:\work stuff\do while\do while\obj\Debug\do while.csprojAssemblyReference.cache
+D:\work stuff\do while\do while\obj\Debug\do while.csproj.CoreCompileInputs.cache
+D:\work stuff\do while\do while\obj\Debug\do while.exe
+D:\work stuff\do while\do while\obj\Debug\do while.pdb

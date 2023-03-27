@@ -1,0 +1,12 @@
+C:\Users\Nasko\Desktop\repo\MusicSite\MusicSite.ViewModels\bin\Debug\net7.0\MusicSite.ViewModels.deps.json
+C:\Users\Nasko\Desktop\repo\MusicSite\MusicSite.ViewModels\bin\Debug\net7.0\MusicSite.ViewModels.dll
+C:\Users\Nasko\Desktop\repo\MusicSite\MusicSite.ViewModels\bin\Debug\net7.0\MusicSite.ViewModels.pdb
+C:\Users\Nasko\Desktop\repo\MusicSite\MusicSite.ViewModels\obj\Debug\net7.0\MusicSite.ViewModels.csproj.AssemblyReference.cache
+C:\Users\Nasko\Desktop\repo\MusicSite\MusicSite.ViewModels\obj\Debug\net7.0\MusicSite.ViewModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nasko\Desktop\repo\MusicSite\MusicSite.ViewModels\obj\Debug\net7.0\MusicSite.ViewModels.AssemblyInfoInputs.cache
+C:\Users\Nasko\Desktop\repo\MusicSite\MusicSite.ViewModels\obj\Debug\net7.0\MusicSite.ViewModels.AssemblyInfo.cs
+C:\Users\Nasko\Desktop\repo\MusicSite\MusicSite.ViewModels\obj\Debug\net7.0\MusicSite.ViewModels.csproj.CoreCompileInputs.cache
+C:\Users\Nasko\Desktop\repo\MusicSite\MusicSite.ViewModels\obj\Debug\net7.0\MusicSite.ViewModels.dll
+C:\Users\Nasko\Desktop\repo\MusicSite\MusicSite.ViewModels\obj\Debug\net7.0\refint\MusicSite.ViewModels.dll
+C:\Users\Nasko\Desktop\repo\MusicSite\MusicSite.ViewModels\obj\Debug\net7.0\MusicSite.ViewModels.pdb
+C:\Users\Nasko\Desktop\repo\MusicSite\MusicSite.ViewModels\obj\Debug\net7.0\ref\MusicSite.ViewModels.dll

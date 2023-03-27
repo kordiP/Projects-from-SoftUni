@@ -1,0 +1,11 @@
+﻿
+@{
+    ViewData["Title"] = "PlaylistAll";
+}
+@model MusicSite.ViewModels.IndexPlaylistViewModel
+<h2>PlaylistAll</h2>
+@foreach(var song in Model.Songs)
+{
+        <iframe width="560" height="315" src="@song.Link" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+}
+
