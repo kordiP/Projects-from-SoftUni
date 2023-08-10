@@ -1,0 +1,15 @@
+C:\Users\Nasko\Desktop\repo-GitHub\test_Matura\test_Matura\bin\Debug\net7.0\test_Matura.exe
+C:\Users\Nasko\Desktop\repo-GitHub\test_Matura\test_Matura\bin\Debug\net7.0\test_Matura.deps.json
+C:\Users\Nasko\Desktop\repo-GitHub\test_Matura\test_Matura\bin\Debug\net7.0\test_Matura.runtimeconfig.json
+C:\Users\Nasko\Desktop\repo-GitHub\test_Matura\test_Matura\bin\Debug\net7.0\test_Matura.dll
+C:\Users\Nasko\Desktop\repo-GitHub\test_Matura\test_Matura\bin\Debug\net7.0\test_Matura.pdb
+C:\Users\Nasko\Desktop\repo-GitHub\test_Matura\test_Matura\obj\Debug\net7.0\test_Matura.csproj.AssemblyReference.cache
+C:\Users\Nasko\Desktop\repo-GitHub\test_Matura\test_Matura\obj\Debug\net7.0\test_Matura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nasko\Desktop\repo-GitHub\test_Matura\test_Matura\obj\Debug\net7.0\test_Matura.AssemblyInfoInputs.cache
+C:\Users\Nasko\Desktop\repo-GitHub\test_Matura\test_Matura\obj\Debug\net7.0\test_Matura.AssemblyInfo.cs
+C:\Users\Nasko\Desktop\repo-GitHub\test_Matura\test_Matura\obj\Debug\net7.0\test_Matura.csproj.CoreCompileInputs.cache
+C:\Users\Nasko\Desktop\repo-GitHub\test_Matura\test_Matura\obj\Debug\net7.0\test_Matura.dll
+C:\Users\Nasko\Desktop\repo-GitHub\test_Matura\test_Matura\obj\Debug\net7.0\refint\test_Matura.dll
+C:\Users\Nasko\Desktop\repo-GitHub\test_Matura\test_Matura\obj\Debug\net7.0\test_Matura.pdb
+C:\Users\Nasko\Desktop\repo-GitHub\test_Matura\test_Matura\obj\Debug\net7.0\test_Matura.genruntimeconfig.cache
+C:\Users\Nasko\Desktop\repo-GitHub\test_Matura\test_Matura\obj\Debug\net7.0\ref\test_Matura.dll
