@@ -1,0 +1,14 @@
+C:\Users\Nasko\Desktop\repo-GitHub\m10_Algorythms\EgyptianDecimals\bin\Debug\net7.0\EgyptianDecimals.exe
+C:\Users\Nasko\Desktop\repo-GitHub\m10_Algorythms\EgyptianDecimals\bin\Debug\net7.0\EgyptianDecimals.deps.json
+C:\Users\Nasko\Desktop\repo-GitHub\m10_Algorythms\EgyptianDecimals\bin\Debug\net7.0\EgyptianDecimals.runtimeconfig.json
+C:\Users\Nasko\Desktop\repo-GitHub\m10_Algorythms\EgyptianDecimals\bin\Debug\net7.0\EgyptianDecimals.dll
+C:\Users\Nasko\Desktop\repo-GitHub\m10_Algorythms\EgyptianDecimals\bin\Debug\net7.0\EgyptianDecimals.pdb
+C:\Users\Nasko\Desktop\repo-GitHub\m10_Algorythms\EgyptianDecimals\obj\Debug\net7.0\EgyptianDecimals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nasko\Desktop\repo-GitHub\m10_Algorythms\EgyptianDecimals\obj\Debug\net7.0\EgyptianDecimals.AssemblyInfoInputs.cache
+C:\Users\Nasko\Desktop\repo-GitHub\m10_Algorythms\EgyptianDecimals\obj\Debug\net7.0\EgyptianDecimals.AssemblyInfo.cs
+C:\Users\Nasko\Desktop\repo-GitHub\m10_Algorythms\EgyptianDecimals\obj\Debug\net7.0\EgyptianDecimals.csproj.CoreCompileInputs.cache
+C:\Users\Nasko\Desktop\repo-GitHub\m10_Algorythms\EgyptianDecimals\obj\Debug\net7.0\EgyptianDecimals.dll
+C:\Users\Nasko\Desktop\repo-GitHub\m10_Algorythms\EgyptianDecimals\obj\Debug\net7.0\refint\EgyptianDecimals.dll
+C:\Users\Nasko\Desktop\repo-GitHub\m10_Algorythms\EgyptianDecimals\obj\Debug\net7.0\EgyptianDecimals.pdb
+C:\Users\Nasko\Desktop\repo-GitHub\m10_Algorythms\EgyptianDecimals\obj\Debug\net7.0\EgyptianDecimals.genruntimeconfig.cache
+C:\Users\Nasko\Desktop\repo-GitHub\m10_Algorythms\EgyptianDecimals\obj\Debug\net7.0\ref\EgyptianDecimals.dll
