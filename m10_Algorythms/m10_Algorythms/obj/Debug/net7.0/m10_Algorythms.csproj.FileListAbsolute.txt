@@ -1,0 +1,14 @@
+C:\Users\Nasko\Desktop\repo-GitHub\m10_Algorythms\m10_Algorythms\bin\Debug\net7.0\m10_Algorythms.exe
+C:\Users\Nasko\Desktop\repo-GitHub\m10_Algorythms\m10_Algorythms\bin\Debug\net7.0\m10_Algorythms.deps.json
+C:\Users\Nasko\Desktop\repo-GitHub\m10_Algorythms\m10_Algorythms\bin\Debug\net7.0\m10_Algorythms.runtimeconfig.json
+C:\Users\Nasko\Desktop\repo-GitHub\m10_Algorythms\m10_Algorythms\bin\Debug\net7.0\m10_Algorythms.dll
+C:\Users\Nasko\Desktop\repo-GitHub\m10_Algorythms\m10_Algorythms\bin\Debug\net7.0\m10_Algorythms.pdb
+C:\Users\Nasko\Desktop\repo-GitHub\m10_Algorythms\m10_Algorythms\obj\Debug\net7.0\m10_Algorythms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nasko\Desktop\repo-GitHub\m10_Algorythms\m10_Algorythms\obj\Debug\net7.0\m10_Algorythms.AssemblyInfoInputs.cache
+C:\Users\Nasko\Desktop\repo-GitHub\m10_Algorythms\m10_Algorythms\obj\Debug\net7.0\m10_Algorythms.AssemblyInfo.cs
+C:\Users\Nasko\Desktop\repo-GitHub\m10_Algorythms\m10_Algorythms\obj\Debug\net7.0\m10_Algorythms.csproj.CoreCompileInputs.cache
+C:\Users\Nasko\Desktop\repo-GitHub\m10_Algorythms\m10_Algorythms\obj\Debug\net7.0\m10_Algorythms.dll
+C:\Users\Nasko\Desktop\repo-GitHub\m10_Algorythms\m10_Algorythms\obj\Debug\net7.0\refint\m10_Algorythms.dll
+C:\Users\Nasko\Desktop\repo-GitHub\m10_Algorythms\m10_Algorythms\obj\Debug\net7.0\m10_Algorythms.pdb
+C:\Users\Nasko\Desktop\repo-GitHub\m10_Algorythms\m10_Algorythms\obj\Debug\net7.0\m10_Algorythms.genruntimeconfig.cache
+C:\Users\Nasko\Desktop\repo-GitHub\m10_Algorythms\m10_Algorythms\obj\Debug\net7.0\ref\m10_Algorythms.dll

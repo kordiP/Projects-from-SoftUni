@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "m10_Algorythms/1.0.0": {
+        "runtime": {
+          "m10_Algorythms.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "m10_Algorythms/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

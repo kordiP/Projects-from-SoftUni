@@ -1,0 +1,14 @@
+C:\Users\Nasko\Desktop\repo-GitHub\accTest\accTest\bin\Debug\net7.0\accTest.exe
+C:\Users\Nasko\Desktop\repo-GitHub\accTest\accTest\bin\Debug\net7.0\accTest.deps.json
+C:\Users\Nasko\Desktop\repo-GitHub\accTest\accTest\bin\Debug\net7.0\accTest.runtimeconfig.json
+C:\Users\Nasko\Desktop\repo-GitHub\accTest\accTest\bin\Debug\net7.0\accTest.dll
+C:\Users\Nasko\Desktop\repo-GitHub\accTest\accTest\bin\Debug\net7.0\accTest.pdb
+C:\Users\Nasko\Desktop\repo-GitHub\accTest\accTest\obj\Debug\net7.0\accTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nasko\Desktop\repo-GitHub\accTest\accTest\obj\Debug\net7.0\accTest.AssemblyInfoInputs.cache
+C:\Users\Nasko\Desktop\repo-GitHub\accTest\accTest\obj\Debug\net7.0\accTest.AssemblyInfo.cs
+C:\Users\Nasko\Desktop\repo-GitHub\accTest\accTest\obj\Debug\net7.0\accTest.csproj.CoreCompileInputs.cache
+C:\Users\Nasko\Desktop\repo-GitHub\accTest\accTest\obj\Debug\net7.0\accTest.dll
+C:\Users\Nasko\Desktop\repo-GitHub\accTest\accTest\obj\Debug\net7.0\refint\accTest.dll
+C:\Users\Nasko\Desktop\repo-GitHub\accTest\accTest\obj\Debug\net7.0\accTest.pdb
+C:\Users\Nasko\Desktop\repo-GitHub\accTest\accTest\obj\Debug\net7.0\accTest.genruntimeconfig.cache
+C:\Users\Nasko\Desktop\repo-GitHub\accTest\accTest\obj\Debug\net7.0\ref\accTest.dll
