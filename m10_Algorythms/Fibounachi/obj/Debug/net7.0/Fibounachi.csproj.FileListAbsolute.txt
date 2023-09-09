@@ -1,0 +1,14 @@
+C:\Users\Nasko\Desktop\repo-GitHub\m10_Algorythms\Fibounachi\bin\Debug\net7.0\Fibounachi.exe
+C:\Users\Nasko\Desktop\repo-GitHub\m10_Algorythms\Fibounachi\bin\Debug\net7.0\Fibounachi.deps.json
+C:\Users\Nasko\Desktop\repo-GitHub\m10_Algorythms\Fibounachi\bin\Debug\net7.0\Fibounachi.runtimeconfig.json
+C:\Users\Nasko\Desktop\repo-GitHub\m10_Algorythms\Fibounachi\bin\Debug\net7.0\Fibounachi.dll
+C:\Users\Nasko\Desktop\repo-GitHub\m10_Algorythms\Fibounachi\bin\Debug\net7.0\Fibounachi.pdb
+C:\Users\Nasko\Desktop\repo-GitHub\m10_Algorythms\Fibounachi\obj\Debug\net7.0\Fibounachi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nasko\Desktop\repo-GitHub\m10_Algorythms\Fibounachi\obj\Debug\net7.0\Fibounachi.AssemblyInfoInputs.cache
+C:\Users\Nasko\Desktop\repo-GitHub\m10_Algorythms\Fibounachi\obj\Debug\net7.0\Fibounachi.AssemblyInfo.cs
+C:\Users\Nasko\Desktop\repo-GitHub\m10_Algorythms\Fibounachi\obj\Debug\net7.0\Fibounachi.csproj.CoreCompileInputs.cache
+C:\Users\Nasko\Desktop\repo-GitHub\m10_Algorythms\Fibounachi\obj\Debug\net7.0\Fibounachi.dll
+C:\Users\Nasko\Desktop\repo-GitHub\m10_Algorythms\Fibounachi\obj\Debug\net7.0\refint\Fibounachi.dll
+C:\Users\Nasko\Desktop\repo-GitHub\m10_Algorythms\Fibounachi\obj\Debug\net7.0\Fibounachi.pdb
+C:\Users\Nasko\Desktop\repo-GitHub\m10_Algorythms\Fibounachi\obj\Debug\net7.0\Fibounachi.genruntimeconfig.cache
+C:\Users\Nasko\Desktop\repo-GitHub\m10_Algorythms\Fibounachi\obj\Debug\net7.0\ref\Fibounachi.dll
