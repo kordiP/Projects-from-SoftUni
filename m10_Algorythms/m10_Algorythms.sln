@@ -5,7 +5,11 @@ VisualStudioVersion = 17.7.34003.232
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "m10_Algorythms", "m10_Algorythms\m10_Algorythms.csproj", "{58F44F25-588E-4BA7-BD2D-2019A8971961}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fibounachi", "Fibounachi\Fibounachi.csproj", "{62355956-A593-4C3B-B270-9445B672C08F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Fibounachi", "Fibounachi\Fibounachi.csproj", "{62355956-A593-4C3B-B270-9445B672C08F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NOD", "NOD\NOD.csproj", "{D092D304-C05C-4B6C-AEDD-10959688353B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "maze", "maze\maze.csproj", "{AAA05D15-626C-440A-A129-8926B9CAEA6B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +25,14 @@ Global
 		{62355956-A593-4C3B-B270-9445B672C08F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{62355956-A593-4C3B-B270-9445B672C08F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{62355956-A593-4C3B-B270-9445B672C08F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D092D304-C05C-4B6C-AEDD-10959688353B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D092D304-C05C-4B6C-AEDD-10959688353B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D092D304-C05C-4B6C-AEDD-10959688353B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D092D304-C05C-4B6C-AEDD-10959688353B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AAA05D15-626C-440A-A129-8926B9CAEA6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAA05D15-626C-440A-A129-8926B9CAEA6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAA05D15-626C-440A-A129-8926B9CAEA6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAA05D15-626C-440A-A129-8926B9CAEA6B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

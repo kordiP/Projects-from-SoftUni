@@ -1,0 +1,14 @@
+C:\Users\Nasko\Desktop\repo-GitHub\m10_Algorythms\maze\bin\Debug\net7.0\maze.exe
+C:\Users\Nasko\Desktop\repo-GitHub\m10_Algorythms\maze\bin\Debug\net7.0\maze.deps.json
+C:\Users\Nasko\Desktop\repo-GitHub\m10_Algorythms\maze\bin\Debug\net7.0\maze.runtimeconfig.json
+C:\Users\Nasko\Desktop\repo-GitHub\m10_Algorythms\maze\bin\Debug\net7.0\maze.dll
+C:\Users\Nasko\Desktop\repo-GitHub\m10_Algorythms\maze\bin\Debug\net7.0\maze.pdb
+C:\Users\Nasko\Desktop\repo-GitHub\m10_Algorythms\maze\obj\Debug\net7.0\maze.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nasko\Desktop\repo-GitHub\m10_Algorythms\maze\obj\Debug\net7.0\maze.AssemblyInfoInputs.cache
+C:\Users\Nasko\Desktop\repo-GitHub\m10_Algorythms\maze\obj\Debug\net7.0\maze.AssemblyInfo.cs
+C:\Users\Nasko\Desktop\repo-GitHub\m10_Algorythms\maze\obj\Debug\net7.0\maze.csproj.CoreCompileInputs.cache
+C:\Users\Nasko\Desktop\repo-GitHub\m10_Algorythms\maze\obj\Debug\net7.0\maze.dll
+C:\Users\Nasko\Desktop\repo-GitHub\m10_Algorythms\maze\obj\Debug\net7.0\refint\maze.dll
+C:\Users\Nasko\Desktop\repo-GitHub\m10_Algorythms\maze\obj\Debug\net7.0\maze.pdb
+C:\Users\Nasko\Desktop\repo-GitHub\m10_Algorythms\maze\obj\Debug\net7.0\maze.genruntimeconfig.cache
+C:\Users\Nasko\Desktop\repo-GitHub\m10_Algorythms\maze\obj\Debug\net7.0\ref\maze.dll

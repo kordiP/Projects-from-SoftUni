@@ -1,0 +1,14 @@
+C:\Users\Nasko\Desktop\repo-GitHub\m10_Algorythms\NOD\bin\Debug\net7.0\NOD.exe
+C:\Users\Nasko\Desktop\repo-GitHub\m10_Algorythms\NOD\bin\Debug\net7.0\NOD.deps.json
+C:\Users\Nasko\Desktop\repo-GitHub\m10_Algorythms\NOD\bin\Debug\net7.0\NOD.runtimeconfig.json
+C:\Users\Nasko\Desktop\repo-GitHub\m10_Algorythms\NOD\bin\Debug\net7.0\NOD.dll
+C:\Users\Nasko\Desktop\repo-GitHub\m10_Algorythms\NOD\bin\Debug\net7.0\NOD.pdb
+C:\Users\Nasko\Desktop\repo-GitHub\m10_Algorythms\NOD\obj\Debug\net7.0\NOD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nasko\Desktop\repo-GitHub\m10_Algorythms\NOD\obj\Debug\net7.0\NOD.AssemblyInfoInputs.cache
+C:\Users\Nasko\Desktop\repo-GitHub\m10_Algorythms\NOD\obj\Debug\net7.0\NOD.AssemblyInfo.cs
+C:\Users\Nasko\Desktop\repo-GitHub\m10_Algorythms\NOD\obj\Debug\net7.0\NOD.csproj.CoreCompileInputs.cache
+C:\Users\Nasko\Desktop\repo-GitHub\m10_Algorythms\NOD\obj\Debug\net7.0\NOD.dll
+C:\Users\Nasko\Desktop\repo-GitHub\m10_Algorythms\NOD\obj\Debug\net7.0\refint\NOD.dll
+C:\Users\Nasko\Desktop\repo-GitHub\m10_Algorythms\NOD\obj\Debug\net7.0\NOD.pdb
+C:\Users\Nasko\Desktop\repo-GitHub\m10_Algorythms\NOD\obj\Debug\net7.0\NOD.genruntimeconfig.cache
+C:\Users\Nasko\Desktop\repo-GitHub\m10_Algorythms\NOD\obj\Debug\net7.0\ref\NOD.dll

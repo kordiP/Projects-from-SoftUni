@@ -1,0 +1,14 @@
+C:\Users\Nasko\Desktop\repo-GitHub\m10_Algorythms\horseWholeBoard\bin\Debug\net7.0\horseWholeBoard.exe
+C:\Users\Nasko\Desktop\repo-GitHub\m10_Algorythms\horseWholeBoard\bin\Debug\net7.0\horseWholeBoard.deps.json
+C:\Users\Nasko\Desktop\repo-GitHub\m10_Algorythms\horseWholeBoard\bin\Debug\net7.0\horseWholeBoard.runtimeconfig.json
+C:\Users\Nasko\Desktop\repo-GitHub\m10_Algorythms\horseWholeBoard\bin\Debug\net7.0\horseWholeBoard.dll
+C:\Users\Nasko\Desktop\repo-GitHub\m10_Algorythms\horseWholeBoard\bin\Debug\net7.0\horseWholeBoard.pdb
+C:\Users\Nasko\Desktop\repo-GitHub\m10_Algorythms\horseWholeBoard\obj\Debug\net7.0\horseWholeBoard.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nasko\Desktop\repo-GitHub\m10_Algorythms\horseWholeBoard\obj\Debug\net7.0\horseWholeBoard.AssemblyInfoInputs.cache
+C:\Users\Nasko\Desktop\repo-GitHub\m10_Algorythms\horseWholeBoard\obj\Debug\net7.0\horseWholeBoard.AssemblyInfo.cs
+C:\Users\Nasko\Desktop\repo-GitHub\m10_Algorythms\horseWholeBoard\obj\Debug\net7.0\horseWholeBoard.csproj.CoreCompileInputs.cache
+C:\Users\Nasko\Desktop\repo-GitHub\m10_Algorythms\horseWholeBoard\obj\Debug\net7.0\horseWholeBoard.dll
+C:\Users\Nasko\Desktop\repo-GitHub\m10_Algorythms\horseWholeBoard\obj\Debug\net7.0\refint\horseWholeBoard.dll
+C:\Users\Nasko\Desktop\repo-GitHub\m10_Algorythms\horseWholeBoard\obj\Debug\net7.0\horseWholeBoard.pdb
+C:\Users\Nasko\Desktop\repo-GitHub\m10_Algorythms\horseWholeBoard\obj\Debug\net7.0\horseWholeBoard.genruntimeconfig.cache
+C:\Users\Nasko\Desktop\repo-GitHub\m10_Algorythms\horseWholeBoard\obj\Debug\net7.0\ref\horseWholeBoard.dll
