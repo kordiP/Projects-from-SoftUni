@@ -1,0 +1,14 @@
+C:\Users\Nasko\Desktop\repo-GitHub\m10_Algorythms\permutations\bin\Debug\net7.0\permutations.exe
+C:\Users\Nasko\Desktop\repo-GitHub\m10_Algorythms\permutations\bin\Debug\net7.0\permutations.deps.json
+C:\Users\Nasko\Desktop\repo-GitHub\m10_Algorythms\permutations\bin\Debug\net7.0\permutations.runtimeconfig.json
+C:\Users\Nasko\Desktop\repo-GitHub\m10_Algorythms\permutations\bin\Debug\net7.0\permutations.dll
+C:\Users\Nasko\Desktop\repo-GitHub\m10_Algorythms\permutations\bin\Debug\net7.0\permutations.pdb
+C:\Users\Nasko\Desktop\repo-GitHub\m10_Algorythms\permutations\obj\Debug\net7.0\permutations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nasko\Desktop\repo-GitHub\m10_Algorythms\permutations\obj\Debug\net7.0\permutations.AssemblyInfoInputs.cache
+C:\Users\Nasko\Desktop\repo-GitHub\m10_Algorythms\permutations\obj\Debug\net7.0\permutations.AssemblyInfo.cs
+C:\Users\Nasko\Desktop\repo-GitHub\m10_Algorythms\permutations\obj\Debug\net7.0\permutations.csproj.CoreCompileInputs.cache
+C:\Users\Nasko\Desktop\repo-GitHub\m10_Algorythms\permutations\obj\Debug\net7.0\permutations.dll
+C:\Users\Nasko\Desktop\repo-GitHub\m10_Algorythms\permutations\obj\Debug\net7.0\refint\permutations.dll
+C:\Users\Nasko\Desktop\repo-GitHub\m10_Algorythms\permutations\obj\Debug\net7.0\permutations.pdb
+C:\Users\Nasko\Desktop\repo-GitHub\m10_Algorythms\permutations\obj\Debug\net7.0\permutations.genruntimeconfig.cache
+C:\Users\Nasko\Desktop\repo-GitHub\m10_Algorythms\permutations\obj\Debug\net7.0\ref\permutations.dll
