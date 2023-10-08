@@ -11,7 +11,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NOD", "NOD\NOD.csproj", "{D
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "maze", "maze\maze.csproj", "{AAA05D15-626C-440A-A129-8926B9CAEA6B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "permutations", "permutations\permutations.csproj", "{122DD54D-AE30-4C2A-A69E-257E45FD939F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "permutations", "permutations\permutations.csproj", "{122DD54D-AE30-4C2A-A69E-257E45FD939F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CrushNumbers", "CrushNumbers\CrushNumbers.csproj", "{775DA6FE-D328-46B6-A671-E220A28A64AB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tree_first", "tree_first\tree_first.csproj", "{BAA38B20-F76E-45E1-97A1-8EDF4FDD6DC7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +43,14 @@ Global
 		{122DD54D-AE30-4C2A-A69E-257E45FD939F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{122DD54D-AE30-4C2A-A69E-257E45FD939F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{122DD54D-AE30-4C2A-A69E-257E45FD939F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{775DA6FE-D328-46B6-A671-E220A28A64AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{775DA6FE-D328-46B6-A671-E220A28A64AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{775DA6FE-D328-46B6-A671-E220A28A64AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{775DA6FE-D328-46B6-A671-E220A28A64AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BAA38B20-F76E-45E1-97A1-8EDF4FDD6DC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAA38B20-F76E-45E1-97A1-8EDF4FDD6DC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAA38B20-F76E-45E1-97A1-8EDF4FDD6DC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAA38B20-F76E-45E1-97A1-8EDF4FDD6DC7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,14 @@
+C:\Users\Nasko\Desktop\repo-GitHub\m10_Algorythms\tree_first\obj\Debug\net7.0\tree_first.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nasko\Desktop\repo-GitHub\m10_Algorythms\tree_first\obj\Debug\net7.0\tree_first.AssemblyInfoInputs.cache
+C:\Users\Nasko\Desktop\repo-GitHub\m10_Algorythms\tree_first\obj\Debug\net7.0\tree_first.AssemblyInfo.cs
+C:\Users\Nasko\Desktop\repo-GitHub\m10_Algorythms\tree_first\obj\Debug\net7.0\tree_first.csproj.CoreCompileInputs.cache
+C:\Users\Nasko\Desktop\repo-GitHub\m10_Algorythms\tree_first\bin\Debug\net7.0\tree_first.exe
+C:\Users\Nasko\Desktop\repo-GitHub\m10_Algorythms\tree_first\bin\Debug\net7.0\tree_first.deps.json
+C:\Users\Nasko\Desktop\repo-GitHub\m10_Algorythms\tree_first\bin\Debug\net7.0\tree_first.runtimeconfig.json
+C:\Users\Nasko\Desktop\repo-GitHub\m10_Algorythms\tree_first\bin\Debug\net7.0\tree_first.dll
+C:\Users\Nasko\Desktop\repo-GitHub\m10_Algorythms\tree_first\bin\Debug\net7.0\tree_first.pdb
+C:\Users\Nasko\Desktop\repo-GitHub\m10_Algorythms\tree_first\obj\Debug\net7.0\tree_first.dll
+C:\Users\Nasko\Desktop\repo-GitHub\m10_Algorythms\tree_first\obj\Debug\net7.0\refint\tree_first.dll
+C:\Users\Nasko\Desktop\repo-GitHub\m10_Algorythms\tree_first\obj\Debug\net7.0\tree_first.pdb
+C:\Users\Nasko\Desktop\repo-GitHub\m10_Algorythms\tree_first\obj\Debug\net7.0\tree_first.genruntimeconfig.cache
+C:\Users\Nasko\Desktop\repo-GitHub\m10_Algorythms\tree_first\obj\Debug\net7.0\ref\tree_first.dll

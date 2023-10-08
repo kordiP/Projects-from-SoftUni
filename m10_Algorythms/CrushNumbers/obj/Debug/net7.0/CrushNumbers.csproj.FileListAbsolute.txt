@@ -1,0 +1,14 @@
+C:\Users\Nasko\Desktop\repo-GitHub\m10_Algorythms\CrushNumbers\bin\Debug\net7.0\CrushNumbers.exe
+C:\Users\Nasko\Desktop\repo-GitHub\m10_Algorythms\CrushNumbers\bin\Debug\net7.0\CrushNumbers.deps.json
+C:\Users\Nasko\Desktop\repo-GitHub\m10_Algorythms\CrushNumbers\bin\Debug\net7.0\CrushNumbers.runtimeconfig.json
+C:\Users\Nasko\Desktop\repo-GitHub\m10_Algorythms\CrushNumbers\bin\Debug\net7.0\CrushNumbers.dll
+C:\Users\Nasko\Desktop\repo-GitHub\m10_Algorythms\CrushNumbers\bin\Debug\net7.0\CrushNumbers.pdb
+C:\Users\Nasko\Desktop\repo-GitHub\m10_Algorythms\CrushNumbers\obj\Debug\net7.0\CrushNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nasko\Desktop\repo-GitHub\m10_Algorythms\CrushNumbers\obj\Debug\net7.0\CrushNumbers.AssemblyInfoInputs.cache
+C:\Users\Nasko\Desktop\repo-GitHub\m10_Algorythms\CrushNumbers\obj\Debug\net7.0\CrushNumbers.AssemblyInfo.cs
+C:\Users\Nasko\Desktop\repo-GitHub\m10_Algorythms\CrushNumbers\obj\Debug\net7.0\CrushNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Nasko\Desktop\repo-GitHub\m10_Algorythms\CrushNumbers\obj\Debug\net7.0\CrushNumbers.dll
+C:\Users\Nasko\Desktop\repo-GitHub\m10_Algorythms\CrushNumbers\obj\Debug\net7.0\refint\CrushNumbers.dll
+C:\Users\Nasko\Desktop\repo-GitHub\m10_Algorythms\CrushNumbers\obj\Debug\net7.0\CrushNumbers.pdb
+C:\Users\Nasko\Desktop\repo-GitHub\m10_Algorythms\CrushNumbers\obj\Debug\net7.0\CrushNumbers.genruntimeconfig.cache
+C:\Users\Nasko\Desktop\repo-GitHub\m10_Algorythms\CrushNumbers\obj\Debug\net7.0\ref\CrushNumbers.dll
